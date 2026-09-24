@@ -1,0 +1,4 @@
+requests>=2.31
+tenacity>=8.2
+click>=8.1
+pytest>=7.4

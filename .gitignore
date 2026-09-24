@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.db
+.venv/
+*.egg-info/
+profiles.jsonl
+sample_orgnrs.txt
+output/
+.pytest_cache/
