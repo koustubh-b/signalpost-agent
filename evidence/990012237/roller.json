@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Sven Arnestad",
+    "birth_year": "1965-11-08"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Sven Arnestad",
+    "birth_year": "1965-11-08"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Stig Kjetil Skarbø",
+    "birth_year": "1968-04-05"
+  },
+  {
+    "title": "Varamedlem",
+    "group": "Styre",
+    "name": "Kari Elisabeth Arnestad",
+    "birth_year": "1969-08-01"
+  }
+]

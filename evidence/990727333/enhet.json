@@ -1,0 +1,88 @@
+{
+  "organisasjonsnummer": "990727333",
+  "navn": "1,5 INVEST AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "NAAS BIBOW AS",
+      "fraDato": "2007-01-08 22:04:36",
+      "tilDato": "2008-06-25 20:37:22"
+    },
+    {
+      "navn": "KONJUNKTIV AS",
+      "fraDato": "2008-06-25 20:37:22",
+      "tilDato": "2020-08-20 14:34:45"
+    },
+    {
+      "navn": "1.5 INVEST AS",
+      "fraDato": "2020-08-20 14:34:45",
+      "tilDato": "2021-01-12 13:48:43"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2007-01-08",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "68.200",
+    "beskrivelse": "Utleie av egen eller leid fast eiendom"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "jens.bibow@gmail.com",
+  "telefon": "22 56 72 46",
+  "mobil": "924 64 030",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2480",
+    "poststed": "KOPPANG",
+    "adresse": [
+      "Storelvdalsveien 2101"
+    ],
+    "kommune": "STOR-ELVDAL",
+    "kommunenummer": "3423"
+  },
+  "stiftelsesdato": "2007-01-03",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2020-12-13",
+  "vedtektsfestetFormaal": [
+    "Finansforvaltning og utleie."
+  ],
+  "aktivitet": [
+    "Finansforvaltning og utleie."
+  ],
+  "registreringsdatoForetaksregisteret": "2007-01-08",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 2500000.0,
+    "antallAksjer": 100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2011-08-18"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/990727333"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

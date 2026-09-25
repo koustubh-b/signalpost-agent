@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Karl Andreas Sandvik",
+    "birth_year": "1942-03-25"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Gunny Sandvik",
+    "birth_year": "1966-07-17"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Svein Sandvik",
+    "birth_year": "1967-11-18"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Egil Sandvik",
+    "birth_year": "1971-02-18"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Trym Steinshamn",
+    "birth_year": "1993-10-29"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "888976272",
+    "birth_year": null
+  }
+]

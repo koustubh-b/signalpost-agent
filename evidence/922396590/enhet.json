@@ -1,0 +1,60 @@
+{
+  "organisasjonsnummer": "922396590",
+  "navn": "17.MAI I PRESTESTRANDA",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-03-15",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "kristinereiten@hotmail.com",
+  "mobil": "904 08 744",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3750",
+    "poststed": "DRANGEDAL",
+    "adresse": [
+      "Granveien 19"
+    ],
+    "kommune": "DRANGEDAL",
+    "kommunenummer": "4016"
+  },
+  "stiftelsesdato": "2019-03-04",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "7. klasse ved Drangedal 10-årige skole arrangerer 17. mai i",
+    "Prestestranda hvert år."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2019-03-15",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922396590"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

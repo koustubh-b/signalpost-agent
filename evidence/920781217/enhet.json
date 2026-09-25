@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "920781217",
+  "navn": "17. MAI STØVER SKOLE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2018-04-26",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "8030",
+    "poststed": "BODØ",
+    "adresse": [
+      "c/o Støver skole",
+      "Kløftveien 8"
+    ],
+    "kommune": "BODØ",
+    "kommunenummer": "1804"
+  },
+  "stiftelsesdato": "2018-04-23",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Skal arrangere 17. mai på Støver skole i Bodø kommune.",
+    " "
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920781217"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

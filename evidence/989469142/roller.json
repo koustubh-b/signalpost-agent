@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Marianne Hov",
+    "birth_year": "1972-10-01"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Sveinulf Øydne",
+    "birth_year": "1969-12-27"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Angeline Riis",
+    "birth_year": "1978-02-21"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Åse Bergo",
+    "birth_year": "1964-04-10"
+  }
+]

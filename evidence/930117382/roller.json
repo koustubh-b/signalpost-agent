@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Magnus Halvorsen",
+    "birth_year": "1981-02-03"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Lori Næss",
+    "birth_year": "1970-11-04"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Viggo Henrik Bang-Hansen",
+    "birth_year": "1976-06-29"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "976389387",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "998497914",
+    "birth_year": null
+  },
+  {
+    "title": "Oppl om foretaket i hjemlandet",
+    "group": "Hovedforetak",
+    "name": "930263672",
+    "birth_year": null
+  }
+]

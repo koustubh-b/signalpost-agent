@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Thomas Trier",
+    "birth_year": "1967-10-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Bjørnar Evensen",
+    "birth_year": "1968-07-21"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Eirik Bårdslistuen",
+    "birth_year": "1981-10-24"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ola Richard Syversen",
+    "birth_year": "1995-04-06"
+  }
+]

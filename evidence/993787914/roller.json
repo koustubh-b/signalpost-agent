@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Nils Sanne",
+    "birth_year": "1974-10-08"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Guttorm Mathiesen",
+    "birth_year": "1964-02-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Beate Cecilie Bertheau Johannessen",
+    "birth_year": "1966-03-01"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Odd Ragnar Moe",
+    "birth_year": "1953-03-24"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Petter Eik-Andresen",
+    "birth_year": "1964-04-09"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Per Jørgen Karlsen",
+    "birth_year": "1964-03-15"
+  }
+]

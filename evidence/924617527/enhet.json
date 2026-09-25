@@ -1,0 +1,57 @@
+{
+  "organisasjonsnummer": "924617527",
+  "navn": "1996 CHRISTINA FLOOD",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2020-02-17",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.201",
+    "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "syngechristina@gmail.com",
+  "mobil": "411 61 312",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4044",
+    "poststed": "HAFRSFJORD",
+    "adresse": [
+      "Granneshagen 11"
+    ],
+    "kommune": "SOLA",
+    "kommunenummer": "1124"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Syngejobber til mitt artist-prosjekt."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924617527"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

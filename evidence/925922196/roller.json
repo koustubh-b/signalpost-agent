@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Jan Olaf Valeur",
+    "birth_year": "1960-05-16"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Nils Børge Øvstedal",
+    "birth_year": "1967-09-21"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jan-Petter Mjaatvedt",
+    "birth_year": "1963-02-05"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Øyvind Steen",
+    "birth_year": "1970-08-14"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Mirza Becirbegovic",
+    "birth_year": "1982-06-07"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Annelin Rød",
+    "birth_year": "1966-06-22"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "980211282",
+    "birth_year": null
+  }
+]

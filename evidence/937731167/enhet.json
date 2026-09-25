@@ -1,0 +1,73 @@
+{
+  "organisasjonsnummer": "937731167",
+  "navn": "01 CAPITAL AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2026-05-19",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "00.000",
+    "beskrivelse": "Uoppgitt"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "7048",
+    "poststed": "TRONDHEIM",
+    "adresse": [
+      "Angelltrøvegen 100"
+    ],
+    "kommune": "TRONDHEIM",
+    "kommunenummer": "5001"
+  },
+  "stiftelsesdato": "2026-05-07",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2026-05-07",
+  "vedtektsfestetFormaal": [
+    "Investere i selskaper og eiendom og alt annet som naturlig faller",
+    "sammen med dette, herunder å delta i andre selskaper med lignende",
+    "virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg",
+    "interessert i andre foretagende."
+  ],
+  "aktivitet": [
+    "Holdingselskap."
+  ],
+  "registreringsdatoForetaksregisteret": "2026-05-19",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2026-05-19",
+  "fravalgRevisjonBeslutningsDato": "2026-05-07",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2026-05-19"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937731167"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

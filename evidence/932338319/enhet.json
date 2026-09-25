@@ -1,0 +1,57 @@
+{
+  "organisasjonsnummer": "932338319",
+  "navn": "2017-KULLET SÆDALEN SKOLE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2023-11-01",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5099",
+    "poststed": "BERGEN",
+    "adresse": [
+      "Nye Sædalsveien 190"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "stiftelsesdato": "2023-10-03",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Skoleavslutninger, julefester, 17. mai feiring og andre aktiviteter",
+    "for 2017-trinnet ved Sædalen skole."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/932338319"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Bjørn Holen",
+    "birth_year": "1975-11-24"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Nina Johansen",
+    "birth_year": "1978-08-09"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Bjørn Anders Ulsund",
+    "birth_year": "1980-05-01"
+  }
+]

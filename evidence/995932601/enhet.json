@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "995932601",
+  "navn": "12 MILL RACE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2010-09-30",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1605",
+    "poststed": "FREDRIKSTAD",
+    "adresse": [
+      "Bratliveien 15"
+    ],
+    "kommune": "FREDRIKSTAD",
+    "kommunenummer": "3107"
+  },
+  "stiftelsesdato": "2010-09-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Foreningens formål er å bistå humanitære organisasjoner i Fredrikstad",
+    "som driver hjelpeprosjekter i Afrika, Sør- og Mellom-Amerika,",
+    "Øst-Europa og Asia."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995932601"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

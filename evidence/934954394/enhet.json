@@ -1,0 +1,48 @@
+{
+  "organisasjonsnummer": "934954394",
+  "navn": "\"HYDRO-NAUTA\" SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+  "organisasjonsform": {
+    "kode": "NUF",
+    "beskrivelse": "Norskregistrert utenlandsk foretak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-02-15",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "33.150",
+    "beskrivelse": "Reparasjon og vedlikehold av sivile skip og båter"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Polen",
+    "landkode": "PL",
+    "poststed": "81-336 GDYNIA",
+    "adresse": [
+      "ul. Budowniczych  12"
+    ]
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Reparasjon og vedlikehold av skip og båter."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934954394"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

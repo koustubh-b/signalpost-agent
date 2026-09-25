@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Robin Christensen",
+    "birth_year": "1982-11-12"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Thomas Beck",
+    "birth_year": "1957-03-27"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Sven Ove Carlsen",
+    "birth_year": "1965-12-26"
+  },
+  {
+    "title": "Varamedlem",
+    "group": "Styre",
+    "name": "Petter Tenden",
+    "birth_year": "1941-08-30"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "936295800",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "881498022",
+    "birth_year": null
+  }
+]

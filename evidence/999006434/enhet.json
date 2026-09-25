@@ -1,0 +1,78 @@
+{
+  "organisasjonsnummer": "999006434",
+  "navn": "1T TØMRER AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2012-10-16",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "41.000",
+    "beskrivelse": "Oppføring av bygninger"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2012-11-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2012-12-21",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2019-11-12",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2019-11-10",
+  "epostadresse": "1tomrer@hotmail.no",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2016",
+    "poststed": "FROGNER",
+    "adresse": [
+      "Platåveien 12"
+    ],
+    "kommune": "LILLESTRØM",
+    "kommunenummer": "3205"
+  },
+  "stiftelsesdato": "2012-10-03",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2013-10-31",
+  "vedtektsfestetFormaal": [
+    "Tjenesteyting innen bygg og anlegg, og andre produkter/tjenester som",
+    "naturlig hører sammen med dette, herunder å delta i andre selskap med",
+    "lignende virksomhet, og kjøp og salg av aksjer eller på annen måte",
+    "gjøre seg interessert i andre foretak."
+  ],
+  "aktivitet": [
+    "Oppføring og vedlikehold av bygg."
+  ],
+  "registreringsdatoForetaksregisteret": "2012-10-16",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2012-10-16",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 300,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2012-10-16"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/999006434"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

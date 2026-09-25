@@ -1,0 +1,68 @@
+{
+  "organisasjonsnummer": "982221277",
+  "navn": "123GO DYKKE OG SPORTSKLOKKER DA",
+  "organisasjonsform": {
+    "kode": "DA",
+    "beskrivelse": "Ansvarlig selskap med delt ansvar",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/DA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "navn.no",
+  "registreringsdatoEnhetsregisteret": "2000-08-15",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "73.110",
+    "beskrivelse": "Reklamebyråvirksomhet"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "firmapost@navn.no",
+  "telefon": "95 06 59 09",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1368",
+    "poststed": "STABEKK",
+    "adresse": [
+      "Skogveien 61B"
+    ],
+    "kommune": "BÆRUM",
+    "kommunenummer": "3201"
+  },
+  "stiftelsesdato": "2000-07-07",
+  "institusjonellSektorkode": {
+    "kode": "2300",
+    "beskrivelse": "Personlige foretak"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2000-07-07",
+  "vedtektsfestetFormaal": [
+    "Lage internettsider med informasjon om dykke og sportsklokker og selge",
+    "annonseplass på sine internett sider til kommersielle aktører i",
+    "markedet."
+  ],
+  "aktivitet": [
+    "Lage internettsider med informasjon om dykke og sportsklokker og selge",
+    "annonseplass på sine internett sider til kommersielle aktører i",
+    "markedet."
+  ],
+  "registreringsdatoForetaksregisteret": "2000-08-15",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/982221277"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,56 @@
+{
+  "organisasjonsnummer": "923799753",
+  "navn": "1982 DIANA TIARI",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-11-11",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "96.220",
+    "beskrivelse": "Skjønnhetspleie"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0254",
+    "poststed": "OSLO",
+    "adresse": [
+      "Parkveien 64"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Hår og sminke assistent under shoots generelt. Utlyse kunst objekter",
+    "jeg produserer selv, som hobby- kunstner via min hjemmeside."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923799753"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

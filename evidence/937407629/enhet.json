@@ -1,0 +1,64 @@
+{
+  "organisasjonsnummer": "937407629",
+  "navn": "17 RECORDS AS KONKURSBO",
+  "organisasjonsform": {
+    "kode": "KBO",
+    "beskrivelse": "Konkursbo",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0103",
+    "poststed": "OSLO",
+    "adresse": [
+      "v/adv. Bjørnar Hulbak",
+      "Postboks 394 Sentrum"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "registreringsdatoEnhetsregisteret": "2026-03-23",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "79.121",
+    "beskrivelse": "Aktiviteter utført av utflukts- og eventarrangører"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0452",
+    "poststed": "OSLO",
+    "adresse": [
+      "Vidars gate 9A"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2026-03-23",
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Konkursbo."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937407629"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

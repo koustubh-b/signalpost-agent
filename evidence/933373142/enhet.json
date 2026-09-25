@@ -1,0 +1,79 @@
+{
+  "organisasjonsnummer": "933373142",
+  "navn": "05060 TAXI AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "05060 KONGSBERG AS",
+      "fraDato": "2024-04-29 13:36:22",
+      "tilDato": "2025-10-28 14:48:50"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2024-04-29",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "49.330",
+    "beskrivelse": "Passasjertransport på forespørsel utført av fører med kjøretøy"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3041",
+    "poststed": "DRAMMEN",
+    "adresse": [
+      "Aabys gate 4A"
+    ],
+    "kommune": "DRAMMEN",
+    "kommunenummer": "3301"
+  },
+  "stiftelsesdato": "2024-03-15",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2025-09-22",
+  "vedtektsfestetFormaal": [
+    "Å organisere, administrere og formidle kjøreoppdrag for innehavere av",
+    "taxi løyver, samt markedsføre transporttilbud. Samt alt hva hører inn",
+    "under dette."
+  ],
+  "aktivitet": [
+    "Drosjekjøring."
+  ],
+  "registreringsdatoForetaksregisteret": "2024-04-29",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2024-04-29",
+  "fravalgRevisjonBeslutningsDato": "2024-03-15",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2024-04-29"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933373142"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

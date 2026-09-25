@@ -1,0 +1,65 @@
+{
+  "organisasjonsnummer": "937995733",
+  "navn": "@TEAM_QUATTRO_BAYAZ - RYKKJE",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "RYKKJE - AAR AKTIV",
+      "fraDato": "2026-06-29 12:21:20",
+      "tilDato": "2026-08-14 13:59:07"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2026-06-29",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "01.620",
+    "beskrivelse": "Tjenester tilknyttet husdyrhold"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "anjaaustefjord@hotmail.com",
+  "mobil": "48171433",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5600",
+    "poststed": "NORHEIMSUND",
+    "adresse": [
+      "Skutlalia 110"
+    ],
+    "kommune": "KVAM",
+    "kommunenummer": "4622"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Hundetrening, kurs og introduksjon. Avløsertjenester innen landbruk,",
+    "stell og tilsynd av dyr, praktisk gårdsarbeid. Fotografitjenester og",
+    "innholdsproduksjon."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937995733"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

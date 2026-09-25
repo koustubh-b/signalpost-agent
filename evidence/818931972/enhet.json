@@ -1,0 +1,81 @@
+{
+  "organisasjonsnummer": "818931972",
+  "navn": "11222 GROUP AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "SHERPA MUSIC AS",
+      "fraDato": "2017-05-03 15:45:46",
+      "tilDato": "2020-04-06 16:20:35"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2017-05-03",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "59.200",
+    "beskrivelse": "Produksjon og utgivelse av musikk- og lydopptak"
+  },
+  "hjelpeenhetskode": {
+    "kode": "70.100",
+    "beskrivelse": "Hovedkontortjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4014",
+    "poststed": "STAVANGER",
+    "adresse": [
+      "Erfjordgata 8"
+    ],
+    "kommune": "STAVANGER",
+    "kommunenummer": "1103"
+  },
+  "stiftelsesdato": "2017-03-30",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2020-03-01",
+  "vedtektsfestetFormaal": [
+    "Investeringer i andre selskaper og virksomheter,",
+    "samt det som står i forbindelse med dette."
+  ],
+  "aktivitet": [
+    "Holdingselskap."
+  ],
+  "registreringsdatoForetaksregisteret": "2017-05-03",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2017-05-03",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 33340.0,
+    "antallAksjer": 33340,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2017-06-27"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/818931972"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

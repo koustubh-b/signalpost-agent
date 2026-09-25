@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Rene Normann Skistad",
+    "birth_year": "1978-11-14"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Rene Normann Skistad",
+    "birth_year": "1978-11-14"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Daniel Nordby",
+    "birth_year": "1986-05-22"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Karsten Jøssang",
+    "birth_year": "1988-02-21"
+  }
+]

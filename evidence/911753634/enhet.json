@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "911753634",
+  "navn": "1001NATT GRENLAND",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2013-04-22",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.202",
+    "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor scenekunst"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "brit.wiedswang@ark-bb.no",
+  "mobil": "900 32 198",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3917",
+    "poststed": "PORSGRUNN",
+    "adresse": [
+      "c/o Brit Wiedswang",
+      "Bjørnhullvegen 8"
+    ],
+    "kommune": "PORSGRUNN",
+    "kommunenummer": "4001"
+  },
+  "stiftelsesdato": "2013-02-25",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Foreningen 1001natt Grenland har som formål å legge til rette for",
+    "orientalsk dans, primært i Grenlandsområdet."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2013-04-22",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/911753634"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

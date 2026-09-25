@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Forretningsfører",
+    "group": "Forretningsfører",
+    "name": "985081654",
+    "birth_year": null
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Øistein Pedersen",
+    "birth_year": "1979-05-18"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kristoffer Henriksen",
+    "birth_year": "1976-02-03"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Torjus Mykland",
+    "birth_year": "1986-12-22"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "993606650",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "985081654",
+    "birth_year": null
+  }
+]

@@ -1,0 +1,87 @@
+{
+  "organisasjonsnummer": "934663365",
+  "navn": "1009 INVEST AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1363",
+    "poststed": "HØVIK",
+    "adresse": [
+      "c/o Ravi Shroff",
+      "Blåtoppveien 19"
+    ],
+    "kommune": "BÆRUM",
+    "kommunenummer": "3201"
+  },
+  "registreringsdatoEnhetsregisteret": "2024-12-17",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "68.110",
+    "beskrivelse": "Kjøp og salg av egen fast eiendom"
+  },
+  "hjelpeenhetskode": {
+    "kode": "70.100",
+    "beskrivelse": "Hovedkontortjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1363",
+    "poststed": "HØVIK",
+    "adresse": [
+      "Gamle Drammensvei 108A"
+    ],
+    "kommune": "BÆRUM",
+    "kommunenummer": "3201"
+  },
+  "stiftelsesdato": "2024-11-21",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2024-11-21",
+  "vedtektsfestetFormaal": [
+    "Hovedmål er å investere i andre selskaper og være holding",
+    "selskap."
+  ],
+  "aktivitet": [
+    "Holdingselskap."
+  ],
+  "registreringsdatoForetaksregisteret": "2024-12-17",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2024-12-17",
+  "fravalgRevisjonBeslutningsDato": "2024-11-21",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 1000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2024-12-17"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934663365"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

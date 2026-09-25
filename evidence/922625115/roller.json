@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Karen Mathilde Liane",
+    "birth_year": "1992-07-29"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Lise Andersen",
+    "birth_year": "1954-07-19"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Natalia Kovalevska",
+    "birth_year": "1977-08-18"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Tone Vareberg",
+    "birth_year": "1962-04-15"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Espen Ellefsen",
+    "birth_year": "1977-05-30"
+  }
+]

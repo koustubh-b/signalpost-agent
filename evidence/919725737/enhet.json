@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "919725737",
+  "navn": "06 TOMMY RYKHUS JOHANSEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "RYKS TOMMY RYKHUS JOHANSEN",
+      "fraDato": "2017-10-14 12:03:52",
+      "tilDato": "2022-02-25 16:18:53"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2017-10-14",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.112",
+    "beskrivelse": "Skapende kunstnerisk virksomhet innenfor komposisjon av musikk"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0267",
+    "poststed": "OSLO",
+    "adresse": [
+      "Eckersbergs gate 2A"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "DJ virksomhet"
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919725737"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

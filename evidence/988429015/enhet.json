@@ -1,0 +1,68 @@
+{
+  "organisasjonsnummer": "988429015",
+  "navn": "1MICADVENTURE ANS",
+  "organisasjonsform": {
+    "kode": "ANS",
+    "beskrivelse": "Ansvarlig selskap med solidarisk ansvar",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ANS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.thomasdybdahl.com",
+  "registreringsdatoEnhetsregisteret": "2005-07-18",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "74.910",
+    "beskrivelse": "Patentmeglervirksomhet og markedsføringstjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "kenande2@me.com",
+  "mobil": "930 69 270",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4023",
+    "poststed": "STAVANGER",
+    "adresse": [
+      "c/o Thomas Dybdahl",
+      "Steingata 101"
+    ],
+    "kommune": "STAVANGER",
+    "kommunenummer": "1103"
+  },
+  "stiftelsesdato": "2005-06-08",
+  "institusjonellSektorkode": {
+    "kode": "2300",
+    "beskrivelse": "Personlige foretak"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2010-09-23",
+  "vedtektsfestetFormaal": [
+    "Erverve og forvalte rettigheter til åndsverk, samt tilliggende",
+    "rettigheter samt erverv av virksomheter innen samme område."
+  ],
+  "aktivitet": [
+    "Erverve og forvalte rettigheter til åndsverk, samt tilliggende",
+    "rettigheter samt erverv av virksomheter innen samme område."
+  ],
+  "registreringsdatoForetaksregisteret": "2005-07-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/988429015"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

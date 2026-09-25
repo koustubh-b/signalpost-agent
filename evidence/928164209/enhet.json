@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "928164209",
+  "navn": "17. MAIKOMITÉEN I NORANE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2021-11-18",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6858",
+    "poststed": "FARDAL",
+    "adresse": [
+      "c/o Maria Landøy Slinde",
+      "Ylvisåker 44"
+    ],
+    "kommune": "SOGNDAL",
+    "kommunenummer": "4640"
+  },
+  "stiftelsesdato": "2021-10-26",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "aktivitet": [
+    "Arrangere 17. mai i Norane, og forvalte økonomiske midlar i samband",
+    "med dette."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/928164209"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

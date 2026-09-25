@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Jonas Holm",
+    "birth_year": "1987-03-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Marius Aleksander Myhre",
+    "birth_year": "1982-08-30"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kjetil Andersen",
+    "birth_year": "1980-02-02"
+  }
+]

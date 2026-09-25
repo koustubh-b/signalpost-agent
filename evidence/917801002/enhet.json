@@ -1,0 +1,60 @@
+{
+  "organisasjonsnummer": "917801002",
+  "navn": "1.GULSETH SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2016-10-21",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "jorid.dannemark.opsahl@speiding.no",
+  "mobil": "995 31 128",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3743",
+    "poststed": "SKIEN",
+    "adresse": [
+      "c/o Jorid Dannemark Opsahl",
+      "Gulsetkåsa 9"
+    ],
+    "kommune": "SKIEN",
+    "kommunenummer": "4003"
+  },
+  "stiftelsesdato": "1976-10-05",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speideraktiviteter for barn og unge"
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2016-10-21",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917801002"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

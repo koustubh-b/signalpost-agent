@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Torstein Karlsen",
+    "birth_year": "1975-01-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Elin Hansen",
+    "birth_year": "1983-07-13"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Andreas Olsen",
+    "birth_year": "1987-04-22"
+  }
+]

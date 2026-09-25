@@ -1,0 +1,74 @@
+{
+  "organisasjonsnummer": "936517072",
+  "navn": "0LOSS AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-11-04",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "00.000",
+    "beskrivelse": "Uoppgitt"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "oyvinn@gmail.com",
+  "mobil": "95886326",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "7507",
+    "poststed": "STJØRDAL",
+    "adresse": [
+      "Helleberget 11"
+    ],
+    "kommune": "STJØRDAL",
+    "kommunenummer": "5035"
+  },
+  "stiftelsesdato": "2025-10-01",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2025-10-01",
+  "vedtektsfestetFormaal": [
+    "Å eie, forvalte og administrere aksjer, verdipapirer og andre",
+    "investeringer, samt å drive annen virksomhet som naturlig står i",
+    "forbindelse med dette."
+  ],
+  "aktivitet": [
+    "Investering i aksjer og verdipapirer."
+  ],
+  "registreringsdatoForetaksregisteret": "2025-11-04",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2025-11-04",
+  "fravalgRevisjonBeslutningsDato": "2025-10-01",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2025-11-04"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936517072"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

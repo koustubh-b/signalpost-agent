@@ -1,0 +1,80 @@
+{
+  "organisasjonsnummer": "935824443",
+  "navn": "19 HERTZ AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "19 HERTZ HOLDING AS",
+      "fraDato": "2025-07-08 17:12:27",
+      "tilDato": "2025-12-20 12:45:17"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2025-07-08",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "00.000",
+    "beskrivelse": "Uoppgitt"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0175",
+    "poststed": "OSLO",
+    "adresse": [
+      "Waldemar Thranes gate 98"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2025-06-23",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2025-12-02",
+  "vedtektsfestetFormaal": [
+    "Å eie og investere i aksjer i andre selskaper, hovedsaklig innen",
+    "investering, drift og utleie av eiendom, kulturvirksomhet og",
+    "beslektede områder. Selskapet kan også drive med kjøp/drift av fast",
+    "eiendom."
+  ],
+  "aktivitet": [
+    "Å eie og investere i aksjer i andre selskaper."
+  ],
+  "registreringsdatoForetaksregisteret": "2025-07-08",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2025-07-08",
+  "fravalgRevisjonBeslutningsDato": "2025-06-23",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 150000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2025-07-08"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935824443"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

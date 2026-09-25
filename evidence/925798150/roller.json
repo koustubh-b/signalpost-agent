@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Ole-Petter Berge",
+    "birth_year": "1980-01-04"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jonas Holm",
+    "birth_year": "1987-03-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Linn Kristine Helgesen",
+    "birth_year": "1985-01-06"
+  }
+]

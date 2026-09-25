@@ -1,0 +1,65 @@
+{
+  "organisasjonsnummer": "954822532",
+  "navn": "2 HOPE",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "TRADECO SVERRE HOPE",
+      "fraDato": "1995-02-19 22:55:00",
+      "tilDato": "2013-10-09 20:41:28"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "1995-02-19",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "70.200",
+    "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1366",
+    "poststed": "LYSAKER",
+    "adresse": [
+      "Lysaker brygge 22"
+    ],
+    "kommune": "BÆRUM",
+    "kommunenummer": "3201"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Rådgivning i forbindelse med endringsprosesser, forretningsutvikling,",
+    "virksomhetsstrategi samt markeds- og kommunikasjonsfaglige",
+    "problemstillinger. Produksjon av journalistisk materiale innenfor",
+    "diverse tema."
+  ],
+  "registreringsdatoForetaksregisteret": "1990-02-27",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/954822532"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

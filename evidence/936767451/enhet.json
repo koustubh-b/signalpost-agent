@@ -1,0 +1,57 @@
+{
+  "organisasjonsnummer": "936767451",
+  "navn": "17. MAI-KOMITEEN SKARPENGLAND 2026",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-12-29",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4715",
+    "poststed": "ØVREBØ",
+    "adresse": [
+      "Setesdalsvegen 777"
+    ],
+    "kommune": "VENNESLA",
+    "kommunenummer": "4223"
+  },
+  "stiftelsesdato": "2025-11-06",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Organisere og gjennomføre 17. mai-arrangement ved Skarpengland skole",
+    "samt samle inn midler til klassens turer og aktiviteter."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936767451"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

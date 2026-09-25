@@ -1,0 +1,71 @@
+{
+  "organisasjonsnummer": "911996979",
+  "navn": "1. VEGSUND SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6017",
+    "poststed": "ÅLESUND",
+    "adresse": [
+      "c/ Jon Arne Kristiansen",
+      "Snopenesvegen 38A"
+    ],
+    "kommune": "ÅLESUND",
+    "kommunenummer": "1508"
+  },
+  "registreringsdatoEnhetsregisteret": "2017-04-05",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "jak@tess.no",
+  "mobil": "957 83 608",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6020",
+    "poststed": "ÅLESUND",
+    "adresse": [
+      "Stafsethneset"
+    ],
+    "kommune": "ÅLESUND",
+    "kommunenummer": "1508"
+  },
+  "stiftelsesdato": "1969-08-19",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speidergruppe."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2017-04-05",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/911996979"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

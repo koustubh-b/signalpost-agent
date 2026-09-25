@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Anne Karin Fonn",
+    "birth_year": "1971-09-30"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Christopher Fonn",
+    "birth_year": "2002-06-25"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Sara Lilleskare",
+    "birth_year": "2007-10-19"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Sigve Vidareid",
+    "birth_year": "2007-09-04"
+  }
+]

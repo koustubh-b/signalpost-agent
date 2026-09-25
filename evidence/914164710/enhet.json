@@ -1,0 +1,71 @@
+{
+  "organisasjonsnummer": "914164710",
+  "navn": "100 METERSKOGEN AKTIVITETSPARK",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "9305",
+    "poststed": "FINNSNES",
+    "adresse": [
+      "c/o Frank O. Berntsen",
+      "Postboks 194"
+    ],
+    "kommune": "SENJA",
+    "kommunenummer": "5530"
+  },
+  "registreringsdatoEnhetsregisteret": "2014-09-16",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "93.292",
+    "beskrivelse": "Fritidsvirksomhet ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "909 18 306",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "9300",
+    "poststed": "FINNSNES",
+    "adresse": [
+      "Sven Eidissens vei 53"
+    ],
+    "kommune": "SENJA",
+    "kommunenummer": "5530"
+  },
+  "stiftelsesdato": "2014-09-10",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Legge til rette for lek, idrett og fritidsaktiviteter i ytre skolegård",
+    "for Finnsnes Barneskole og nye Finnsnes Ungdomsskole."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2014-09-16",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/914164710"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

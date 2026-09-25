@@ -1,0 +1,65 @@
+{
+  "organisasjonsnummer": "932137046",
+  "navn": "2012-KULLET E-KLASSEN VED PUS",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "2009-KULLET D-KLASSEN VED PUS",
+      "fraDato": "2023-10-30 12:19:24",
+      "tilDato": "2025-09-29 15:36:29"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2023-10-30",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "klaeboeh@yahoo.no",
+  "telefon": "+4795269997",
+  "mobil": "952 69 997",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3151",
+    "poststed": "TOLVSRØD",
+    "adresse": [
+      "Trimveien 11"
+    ],
+    "kommune": "TØNSBERG",
+    "kommunenummer": "3905"
+  },
+  "stiftelsesdato": "2023-09-06",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Sosiale tiltak for en skoleklasse."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/932137046"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

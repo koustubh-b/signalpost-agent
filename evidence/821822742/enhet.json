@@ -1,0 +1,63 @@
+{
+  "organisasjonsnummer": "821822742",
+  "navn": "0936245 B.C. LTD",
+  "organisasjonsform": {
+    "kode": "UTLA",
+    "beskrivelse": "Utenlandsk enhet",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2018-12-04",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "gihwan.yun@gmail.com",
+  "telefon": "+17786897305",
+  "forretningsadresse": {
+    "land": "Canada",
+    "landkode": "CA",
+    "poststed": "ANMORE B.C. V3H 5B4",
+    "adresse": [
+      "126 Blackberry Drive"
+    ]
+  },
+  "stiftelsesdato": "2012-03-26",
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Utenlandsk enhet."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "registreringsnummerIHjemlandet": "BC0936245",
+  "foretaksformIHjemlandet": {
+    "kode": "LTD",
+    "beskrivelse": "Limited",
+    "beskrivelseBokmaal": "Aksjeselskap"
+  },
+  "utenlandskRegisterNavn": "British Columbia Registry Services The Corporate Registry",
+  "utenlandskRegisterAdresse": {
+    "land": "Canada",
+    "poststed": "Victoria, British Columbia V8W 9V3",
+    "adresse": [
+      "PO Box 9431 Stn Prov Govt"
+    ]
+  },
+  "underlagtLovgivningLand": "Canada",
+  "underlagtLovgivningLandKode": "CA",
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/821822742"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

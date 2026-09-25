@@ -1,0 +1,91 @@
+{
+  "organisasjonsnummer": "913140125",
+  "navn": "1B1 GROUP AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0323",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Erling Johansen",
+      "Postboks 102"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "registreringsdatoEnhetsregisteret": "2014-01-28",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.201",
+    "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "erling@merlink.no",
+  "mobil": "922 56 225",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4608",
+    "poststed": "KRISTIANSAND S",
+    "adresse": [
+      "Kongens gate 35"
+    ],
+    "kommune": "KRISTIANSAND",
+    "kommunenummer": "4204"
+  },
+  "stiftelsesdato": "2013-10-24",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2024",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2016-04-19",
+  "vedtektsfestetFormaal": [
+    "Øke gravitasjonen i det klassiske musikklivet og skape",
+    "et ambisiøst frittstående ensemble på internasjonalt toppnivå med",
+    "basis i regionen Agder, Rogaland og Hordaland. Videre er formålet å",
+    "styrke læringsmiljøet for musikk i regionen og bli et nytt kraftsenter",
+    "for musikkutdanning i Norge, og ikke minst å øke",
+    "publikumstilstrømningen til klassisk musikk og bli et eksempel til",
+    "etterfølgelse."
+  ],
+  "aktivitet": [
+    "Kunstnerisk virksomhet."
+  ],
+  "registreringsdatoForetaksregisteret": "2014-01-28",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2020-01-08",
+  "fravalgRevisjonBeslutningsDato": "2019-12-19",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2014-01-28"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/913140125"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,56 @@
+{
+  "organisasjonsnummer": "935418860",
+  "navn": "12P - RAYMOND STRANDHEIM",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-05-06",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "74.200",
+    "beskrivelse": "Fotografvirksomhet"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5143",
+    "poststed": "FYLLINGSDALEN",
+    "adresse": [
+      "Ture Nermans vei 63"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Fotografering. Dronetjenester. Undervisning. IT konsulent tjenester.",
+    "Rådgivning."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935418860"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

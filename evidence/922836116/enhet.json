@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "922836116",
+  "navn": "17.MAI BERGSØY",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-06-03",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6092",
+    "poststed": "FOSNAVÅG",
+    "adresse": [
+      "c/o Steinar Egset Nupen",
+      "Breidnesvegen 23"
+    ],
+    "kommune": "HERØY",
+    "kommunenummer": "1515"
+  },
+  "stiftelsesdato": "2019-05-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "aktivitet": [
+    "Dette er en 17. mai komitè for Bergsøy i Herøy kommune. Salg av kaker",
+    "og brus. Leker for barn ol."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2019-06-03",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922836116"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

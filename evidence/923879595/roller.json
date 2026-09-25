@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Øystein Lie",
+    "birth_year": "1970-06-22"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Åshild Botnen",
+    "birth_year": "1975-05-27"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Helene Skaugerud",
+    "birth_year": "1978-05-18"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Roger Larsen",
+    "birth_year": "1975-11-08"
+  }
+]

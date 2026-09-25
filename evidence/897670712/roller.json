@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Per-Stian Vatne",
+    "birth_year": "1975-11-27"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Per-Stian Vatne",
+    "birth_year": "1975-11-27"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Synne Kristine Homme",
+    "birth_year": "1980-02-02"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kajsa Maria Bornefelt",
+    "birth_year": "1982-10-08"
+  }
+]

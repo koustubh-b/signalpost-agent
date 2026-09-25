@@ -1,0 +1,60 @@
+{
+  "organisasjonsnummer": "931382845",
+  "navn": "17. MAIKOMITEEN I NEDRE VENNESLA",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2023-08-10",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "line.vennesland@vennesla-kommune.no",
+  "telefon": "38 15 32 75",
+  "mobil": "472 04 900",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4700",
+    "poststed": "VENNESLA",
+    "adresse": [
+      "Skjerehauvegen 2"
+    ],
+    "kommune": "VENNESLA",
+    "kommunenummer": "4223"
+  },
+  "stiftelsesdato": "2014-01-16",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "aktivitet": [
+    "Planlegge og gjennomføre 17. maifeiringa i Nedre Vennesla."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2023-08-10",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931382845"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

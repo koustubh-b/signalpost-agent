@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "923486968",
+  "navn": "0-FILTER VLADIMIR JAKOLA",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-09-30",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "59.110",
+    "beskrivelse": "Produksjon av film, video og fjernsynsprogrammer"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "9910",
+    "poststed": "BJØRNEVATN",
+    "adresse": [
+      "Sundquistveien 3C"
+    ],
+    "kommune": "SØR-VARANGER",
+    "kommunenummer": "5605"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Tilrettelegge tilbud for privatpersoner, også bedrifter i lokalmiljøet",
+    "muligheter for video/lyd-produksjon i god kvalitet, samt video-opptak",
+    "på bakken, i lufta og under vann."
+  ],
+  "registreringsdatoForetaksregisteret": "2019-09-30",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923486968"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

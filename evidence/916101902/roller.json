@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Elise Omland",
+    "birth_year": "1981-07-18"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Terje Guttormsen",
+    "birth_year": "1985-03-21"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Elisabeth Tollefsrud",
+    "birth_year": "1984-12-06"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Roger Lea",
+    "birth_year": "1985-05-29"
+  }
+]

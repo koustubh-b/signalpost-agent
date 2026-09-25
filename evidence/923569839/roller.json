@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Kai Daniel Stiberg",
+    "birth_year": "1988-07-09"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Henrik Røe",
+    "birth_year": "1983-11-22"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Håvard Bell",
+    "birth_year": "1970-03-06"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Andreas Bøe",
+    "birth_year": "1996-09-13"
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "922829845",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "933594254",
+    "birth_year": null
+  }
+]

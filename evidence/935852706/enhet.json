@@ -1,0 +1,62 @@
+{
+  "organisasjonsnummer": "935852706",
+  "navn": "13B INTERACTIVE DA",
+  "organisasjonsform": {
+    "kode": "DA",
+    "beskrivelse": "Ansvarlig selskap med delt ansvar",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/DA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-07-15",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "58.210",
+    "beskrivelse": "Utgivelse av programvare for dataspill"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "7010",
+    "poststed": "TRONDHEIM",
+    "adresse": [
+      "Brattørveita 13B"
+    ],
+    "kommune": "TRONDHEIM",
+    "kommunenummer": "5001"
+  },
+  "stiftelsesdato": "2025-07-04",
+  "institusjonellSektorkode": {
+    "kode": "2300",
+    "beskrivelse": "Personlige foretak"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": true,
+  "underAvviklingDato": "2026-06-08",
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2025-07-04",
+  "vedtektsfestetFormaal": [
+    "Publisere dataspill."
+  ],
+  "aktivitet": [
+    "Spill-publisering."
+  ],
+  "registreringsdatoForetaksregisteret": "2025-07-15",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935852706"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

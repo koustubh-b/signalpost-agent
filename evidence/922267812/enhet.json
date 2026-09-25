@@ -1,0 +1,63 @@
+{
+  "organisasjonsnummer": "922267812",
+  "navn": "1. HAMAR ST.GEORGES GILDE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-04-02",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "olandheim@gmail.com",
+  "mobil": "48022422",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2322",
+    "poststed": "RIDABU",
+    "adresse": [
+      "c/o Olav Landheim",
+      "Harald Hardrådes veg 13"
+    ],
+    "kommune": "HAMAR",
+    "kommunenummer": "3403"
+  },
+  "stiftelsesdato": "1993-02-04",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Foreningen er en frittstående del av St. Georgsgildene i Norge som",
+    "igjen er en del av et internasjonalt fellesskap som bygger på de samme",
+    "verdier som speiderbevegelsen. Målet er å arbeide for speidersaken",
+    "både lokalt, nasjonalt og internasjonalt. Møte en gang i måneden.",
+    "Vedlikehold av Speidersenteret på dugnad."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922267812"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

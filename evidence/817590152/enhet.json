@@ -1,0 +1,55 @@
+{
+  "organisasjonsnummer": "817590152",
+  "navn": "1TORE-PARTYMUSIKK TORE HAUKEDAL",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2016-08-19",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.201",
+    "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3650",
+    "poststed": "TINN AUSTBYGD",
+    "adresse": [
+      "Austbygdebakkan 164"
+    ],
+    "kommune": "TINN",
+    "kommunenummer": "4026"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Musikkopptreden."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/817590152"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

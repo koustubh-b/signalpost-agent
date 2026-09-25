@@ -1,0 +1,54 @@
+{
+  "organisasjonsnummer": "894198362",
+  "navn": "1314981 ONTARIO LIMITED",
+  "organisasjonsform": {
+    "kode": "UTLA",
+    "beskrivelse": "Utenlandsk enhet",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.aacomputing.com",
+  "registreringsdatoEnhetsregisteret": "2009-06-11",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "telefon": "+14169070518",
+  "forretningsadresse": {
+    "land": "Canada",
+    "landkode": "CA",
+    "poststed": "LB 2P6 MISSISSAUGA ONTARIO",
+    "adresse": [
+      "60 Hanson Road Unit 128"
+    ]
+  },
+  "stiftelsesdato": "1998-09-17",
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Utenlandsk enhet."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "foretaksformIHjemlandet": {
+    "kode": "LTD",
+    "beskrivelse": "Limited",
+    "beskrivelseBokmaal": "Aksjeselskap"
+  },
+  "underlagtLovgivningLand": "Canada",
+  "underlagtLovgivningLandKode": "CA",
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/894198362"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

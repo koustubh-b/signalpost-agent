@@ -1,0 +1,56 @@
+{
+  "organisasjonsnummer": "921083335",
+  "navn": "0DB AUDIO OLA BREKKEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2018-06-29",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.390",
+    "beskrivelse": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2500",
+    "poststed": "TYNSET",
+    "adresse": [
+      "Østre Brekkveien 6"
+    ],
+    "kommune": "TYNSET",
+    "kommunenummer": "3427"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Lydtekniske tjenester i forbindelse med kulturarrangement. Utleie av",
+    "lydteknisk utstyr."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/921083335"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

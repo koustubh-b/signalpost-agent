@@ -1,0 +1,64 @@
+{
+  "organisasjonsnummer": "827006602",
+  "navn": "1STOPWIND LTD",
+  "organisasjonsform": {
+    "kode": "UTLA",
+    "beskrivelse": "Utenlandsk enhet",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2021-04-23",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Storbritannia",
+    "landkode": "GB",
+    "poststed": "GLASGOW G51 3TR SCOTLAND",
+    "adresse": [
+      "25 Elderpark Workspace",
+      "100 Elderpark Street"
+    ]
+  },
+  "stiftelsesdato": "2017-01-04",
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Utenlandsk enhet."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "registreringsnummerIHjemlandet": "SC553623",
+  "foretaksformIHjemlandet": {
+    "kode": "LTD",
+    "beskrivelse": "Private limited company",
+    "beskrivelseBokmaal": "Aksjeselskap"
+  },
+  "utenlandskRegisterNavn": "Companies House",
+  "utenlandskRegisterAdresse": {
+    "land": "Storbritannia",
+    "poststed": "Edinburgh EH3 9FF",
+    "adresse": [
+      "4th Floor",
+      "Edinburgh Quay 2",
+      "139 Fountainbridge"
+    ]
+  },
+  "underlagtLovgivningLand": "Storbritannia",
+  "underlagtLovgivningLandKode": "GB",
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/827006602"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

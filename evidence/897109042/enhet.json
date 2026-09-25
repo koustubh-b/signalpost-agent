@@ -1,0 +1,76 @@
+{
+  "organisasjonsnummer": "897109042",
+  "navn": "1. HØYJORD SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.speiding.no",
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3158",
+    "poststed": "ANDEBU",
+    "adresse": [
+      "c/o Stine Winge-Olufsen",
+      "Nesveien 561"
+    ],
+    "kommune": "SANDEFJORD",
+    "kommunenummer": "3907"
+  },
+  "registreringsdatoEnhetsregisteret": "2012-02-02",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "stine.winge@gmail.com",
+  "mobil": "+4797789276",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3158",
+    "poststed": "ANDEBU",
+    "adresse": [
+      "Høyjordveien 563"
+    ],
+    "kommune": "SANDEFJORD",
+    "kommunenummer": "3907"
+  },
+  "stiftelsesdato": "2010-08-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Norsk Speiding skal: 1. utvikle og styrke speiderarbeidet i Norge slik",
+    "at flest mulig, barn og unge, opplever utviklingen i et arbeid basert",
+    "på den internasjonale speiderbevegelsens mål og arbeidsmetoder. 2.",
+    "styrke samarbeidet, fellesskapet og mangfoldet mellom de forbund som",
+    "er medlemmer. 3. arbeide mot mål som er satt for Norsk speiding."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2012-02-02",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/897109042"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

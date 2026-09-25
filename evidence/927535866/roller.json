@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Gunnar Dysjaland",
+    "birth_year": "1969-03-14"
+  },
+  {
+    "title": "Forretningsfører",
+    "group": "Forretningsfører",
+    "name": "952090275",
+    "birth_year": null
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Merete Eik",
+    "birth_year": "1967-04-25"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jan Klingsheim",
+    "birth_year": "1973-08-08"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kjell Vidar Nygård",
+    "birth_year": "1959-04-18"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Carl Inge Wathne",
+    "birth_year": "1984-06-12"
+  }
+]

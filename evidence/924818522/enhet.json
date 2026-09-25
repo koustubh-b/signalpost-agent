@@ -1,0 +1,56 @@
+{
+  "organisasjonsnummer": "924818522",
+  "navn": "1TAKTHOMASSEN MARIE HOFF THOMASSEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2020-03-23",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "74.120",
+    "beskrivelse": "Grafisk design og visuell kommunikasjonsdesign"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4200",
+    "poststed": "SAUDA",
+    "adresse": [
+      "Brekke 24"
+    ],
+    "kommune": "SAUDA",
+    "kommunenummer": "1135"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Grafisk design, 3D-tegning."
+  ],
+  "registreringsdatoForetaksregisteret": "2020-03-23",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924818522"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

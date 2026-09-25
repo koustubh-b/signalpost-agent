@@ -1,0 +1,56 @@
+{
+  "organisasjonsnummer": "996817873",
+  "navn": "101 BYGGESERVICE Tomas Tamasauskas",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2011-04-20",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "62.100",
+    "beskrivelse": "Dataprogrammeringstjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "93673708",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "9107",
+    "poststed": "KVALØYA",
+    "adresse": [
+      "Fjordvegen 424"
+    ],
+    "kommune": "TROMSØ",
+    "kommunenummer": "5501"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Webutvikling, byggetjenester, markedsføring, salg."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/996817873"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

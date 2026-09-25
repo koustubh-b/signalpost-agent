@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "996487024",
+  "navn": "2.BESTUM SJØSPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "oslospeiderne.no/grupper/bestum-sjo/",
+  "registreringsdatoEnhetsregisteret": "2011-01-29",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "regnskap.bestum2@gmail.com",
+  "mobil": "975 63 749",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0284",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Pål Henrik Wagner",
+      "Hartmanns vei 43"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "1932-09-12",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Sjøspeidergruppe i Norges speiderforbund."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2011-01-29",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/996487024"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

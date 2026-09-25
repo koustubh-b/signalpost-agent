@@ -1,0 +1,64 @@
+{
+  "organisasjonsnummer": "937662068",
+  "navn": "12-PAUSEN AS KONKURSBO",
+  "organisasjonsform": {
+    "kode": "KBO",
+    "beskrivelse": "Konkursbo",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4666",
+    "poststed": "KRISTIANSAND S",
+    "adresse": [
+      "v/Adv Eivind Nordby Johnsen",
+      "Postboks 737"
+    ],
+    "kommune": "KRISTIANSAND",
+    "kommunenummer": "4204"
+  },
+  "registreringsdatoEnhetsregisteret": "2026-05-05",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "60.100",
+    "beskrivelse": "Radiokringkasting og distribuering av musikk og andre lydmedier"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4619",
+    "poststed": "MOSBY",
+    "adresse": [
+      "Gjelsmoveien 23"
+    ],
+    "kommune": "KRISTIANSAND",
+    "kommunenummer": "4204"
+  },
+  "stiftelsesdato": "2026-05-05",
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Konkursbo."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937662068"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

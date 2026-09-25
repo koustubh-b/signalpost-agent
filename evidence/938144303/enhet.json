@@ -1,0 +1,55 @@
+{
+  "organisasjonsnummer": "938144303",
+  "navn": "«GILIV SIGURDSEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2026-07-22",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "70.200",
+    "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4640",
+    "poststed": "SØGNE",
+    "adresse": [
+      "Årosveien 241"
+    ],
+    "kommune": "KRISTIANSAND",
+    "kommunenummer": "4204"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Bedriftsrådgivning, administrativt."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938144303"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

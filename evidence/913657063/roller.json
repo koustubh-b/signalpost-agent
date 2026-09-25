@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Forretningsfører",
+    "group": "Forretningsfører",
+    "name": "Åsta Midtbø",
+    "birth_year": "1975-02-05"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Elin Bergesen",
+    "birth_year": "1985-04-12"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Monica Helland",
+    "birth_year": "1985-04-09"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ørjan Solberg",
+    "birth_year": "1982-11-28"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Tonje Aakre",
+    "birth_year": "1983-11-06"
+  }
+]

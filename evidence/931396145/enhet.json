@@ -1,0 +1,76 @@
+{
+  "organisasjonsnummer": "931396145",
+  "navn": "10TH PLANET BERGEN JIU JITSU - DA",
+  "organisasjonsform": {
+    "kode": "DA",
+    "beskrivelse": "Ansvarlig selskap med delt ansvar",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/DA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "10thpbergen.com",
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5161",
+    "poststed": "LAKSEVÅG",
+    "adresse": [
+      "Damsgårdslien 54"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "registreringsdatoEnhetsregisteret": "2023-05-24",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "85.510",
+    "beskrivelse": "Undervisning innenfor idrett og rekreasjon"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "10thpbergen@gmail.com",
+  "mobil": "484 08 513",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5005",
+    "poststed": "BERGEN",
+    "adresse": [
+      "Tidemands gate 11"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "stiftelsesdato": "2023-05-01",
+  "institusjonellSektorkode": {
+    "kode": "2300",
+    "beskrivelse": "Personlige foretak"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": true,
+  "underAvviklingDato": "2025-08-08",
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2023-05-01",
+  "vedtektsfestetFormaal": [
+    "Idrett og rekreasjon: Undervisning i Jiu Jitsu."
+  ],
+  "aktivitet": [
+    "Undervisning i Brasiliansk Jiu Jitsu."
+  ],
+  "registreringsdatoForetaksregisteret": "2023-05-24",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931396145"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

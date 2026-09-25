@@ -1,0 +1,74 @@
+{
+  "organisasjonsnummer": "837377242",
+  "navn": "123 LOUIE AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "NFH 260377 AS",
+      "fraDato": "2026-03-18 10:03:06",
+      "tilDato": "2026-05-08 17:50:57"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2026-03-18",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "47.810",
+    "beskrivelse": "Detaljhandel med motorvogner"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1366",
+    "poststed": "LYSAKER",
+    "adresse": [
+      "Strandveien 50"
+    ],
+    "kommune": "BÆRUM",
+    "kommunenummer": "3201"
+  },
+  "stiftelsesdato": "2026-03-06",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2026-07-02",
+  "vedtektsfestetFormaal": [
+    "Kjøp og salg av biler."
+  ],
+  "aktivitet": [
+    "Kjøp og salg av biler."
+  ],
+  "registreringsdatoForetaksregisteret": "2026-03-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": true,
+  "kapital": {
+    "belop": 1000000.0,
+    "antallAksjer": 1000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2026-08-04"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/837377242"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "937702752",
+  "navn": "17.MAI-KOMITEEN I NAUSTDAL",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2026-05-12",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6817",
+    "poststed": "NAUSTDAL",
+    "adresse": [
+      "c/o Steinar Kleppe",
+      "Helgåsvegen 116"
+    ],
+    "kommune": "SUNNFJORD",
+    "kommunenummer": "4647"
+  },
+  "stiftelsesdato": "2026-04-15",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "aktivitet": [
+    "Foreningen har som formål å planlegge og gjennomføre den årlige 17.",
+    "mai-feiringen i Naustdal."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937702752"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

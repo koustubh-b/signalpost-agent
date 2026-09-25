@@ -1,0 +1,74 @@
+{
+  "organisasjonsnummer": "917569142",
+  "navn": "144 EDUCATION NGO",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "SUNYA",
+      "fraDato": "2016-08-15 14:43:36",
+      "tilDato": "2021-10-14 15:25:27"
+    },
+    {
+      "navn": "SUNYA NGO",
+      "fraDato": "2021-10-14 15:25:27",
+      "tilDato": "2025-01-23 17:16:06"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2016-08-15",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "linnangell@yahoo.com",
+  "mobil": "978 91 927",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0858",
+    "poststed": "OSLO",
+    "adresse": [
+      "Rolf E. Stenersens allé 4"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2016-08-09",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Kun frivillig arbeid (ikke salg).",
+    "Frivillig arbeid - kurs for skoler og barnehager.",
+    "Frivillig arbeid - kurs for foreldre og hjemmeskole.",
+    "Frivillig arbeid - kurs for barn og unge.",
+    "Frivillig arbeid - kurs for rldrehjem og sykehus."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2016-08-15",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917569142"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

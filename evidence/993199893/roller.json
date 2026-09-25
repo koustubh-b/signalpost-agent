@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "May Anita Karlsen",
+    "birth_year": "1984-06-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Roger Hasle",
+    "birth_year": "1973-06-13"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Karsten Røssland",
+    "birth_year": "1950-07-22"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Malin Sandbæk",
+    "birth_year": "1989-08-04"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Vetle Karlsen",
+    "birth_year": "2009-06-10"
+  }
+]

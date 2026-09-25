@@ -1,0 +1,62 @@
+{
+  "organisasjonsnummer": "935253446",
+  "navn": "13 FACTORY ST PTY LTD",
+  "organisasjonsform": {
+    "kode": "UTLA",
+    "beskrivelse": "Utenlandsk enhet",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-03-24",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Australia",
+    "landkode": "AU",
+    "poststed": "AU-4570 IMBIL QLD",
+    "adresse": [
+      "48 Michelle Ct"
+    ]
+  },
+  "stiftelsesdato": "2021-07-22",
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Utenlandsk enhet/foretak."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "registreringsnummerIHjemlandet": "652194806",
+  "foretaksformIHjemlandet": {
+    "kode": "PTY LTD",
+    "beskrivelse": "Proprietary Limited",
+    "beskrivelseBokmaal": "Aksjeselskap"
+  },
+  "utenlandskRegisterNavn": "Australian Securities & Investments Commission",
+  "utenlandskRegisterAdresse": {
+    "land": "Australia",
+    "poststed": "DX 158 Perth",
+    "adresse": [
+      "GPO Box 9827",
+      "Perth WA 6001"
+    ]
+  },
+  "underlagtLovgivningLand": "Australia",
+  "underlagtLovgivningLandKode": "AU",
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935253446"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

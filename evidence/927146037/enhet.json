@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "927146037",
+  "navn": "2014-KULLET SAKSVIK SKOLE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2021-07-21",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "7562",
+    "poststed": "SAKSVIK",
+    "adresse": [
+      "c/o Hege Dahl Moen",
+      "Haukvegen 2"
+    ],
+    "kommune": "MALVIK",
+    "kommunenummer": "5031"
+  },
+  "stiftelsesdato": "2021-06-02",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Forening som skal samordne og legge til rette for arrangementer og",
+    "aktiviteter for 2014-kullet på Saksvik skole."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2021-07-21",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927146037"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Einar Krogset",
+    "birth_year": "1992-07-16"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Anders Klundby",
+    "birth_year": "1991-05-28"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Lars-Erik Haugen Helle",
+    "birth_year": "1986-03-06"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Erik Sørhagen",
+    "birth_year": "1972-10-09"
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "organisasjonsnummer": "934072391",
+  "navn": "1863 PROPERTIES AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "MCPP PROJECT 72 AS",
+      "fraDato": "2024-09-10 17:31:28",
+      "tilDato": "2025-03-19 16:53:58"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2024-09-10",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "68.200",
+    "beskrivelse": "Utleie av egen eller leid fast eiendom"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0250",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Malling & Co Forvaltning AS",
+      "Dronning Mauds gate 15"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2024-08-20",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2025-02-19",
+  "vedtektsfestetFormaal": [
+    "Investeringsvirksomhet, hovedsakelig relatert til eiendom."
+  ],
+  "aktivitet": [
+    "Handel med og investering i fast eiendom, verdipapirer og andre",
+    "formuesobjekter."
+  ],
+  "registreringsdatoForetaksregisteret": "2024-09-10",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 309050.0,
+    "antallAksjer": 309050,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2025-04-01"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934072391"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

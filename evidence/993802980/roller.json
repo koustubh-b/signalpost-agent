@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Roy Slettene",
+    "birth_year": "1967-09-07"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Roy Slettene",
+    "birth_year": "1967-09-07"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Steinar Haugnes",
+    "birth_year": "1960-06-27"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Harald Arthur Berg",
+    "birth_year": "1961-06-16"
+  }
+]

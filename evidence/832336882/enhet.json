@@ -1,0 +1,64 @@
+{
+  "organisasjonsnummer": "832336882",
+  "navn": "109SAMMEN",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.109sammen.no",
+  "registreringsdatoEnhetsregisteret": "2023-11-01",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "morten@lyngoymotorsport.no",
+  "mobil": "476 92 630",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5131",
+    "poststed": "NYBORG",
+    "adresse": [
+      "Heiane 10"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "stiftelsesdato": "2023-10-13",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Vi holder foredrag om mobbing, psykisk helse, samhold Motorsport (som",
+    "eg driver med) Vi har bygget et verksted der vi kan ta i mot mennesker",
+    "i alle aldre for prat, samhold, skru på racerbilen. Vi reiser rundt",
+    "i landet på skoler og forskjellige tiltak med racerbil på slep, og",
+    "holder disse foredragene og lager Show kjøring."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2025-10-14",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/832336882"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

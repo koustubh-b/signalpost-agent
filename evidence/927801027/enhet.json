@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "927801027",
+  "navn": "2015-KULLET HOFFSVANGEN SKOLE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2021-09-24",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "481 43 189",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2848",
+    "poststed": "SKREIA",
+    "adresse": [
+      "c/o Ørjan Gangnes",
+      "Smitborgvegen 11"
+    ],
+    "kommune": "ØSTRE TOTEN",
+    "kommunenummer": "3442"
+  },
+  "stiftelsesdato": "2021-09-06",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Skape trivsel for elever og ansatte tilknyttet 2015-kullet ved",
+    "Hoffsvangen skole i Østre Toten kommune."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927801027"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

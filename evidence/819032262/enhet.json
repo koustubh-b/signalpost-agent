@@ -1,0 +1,77 @@
+{
+  "organisasjonsnummer": "819032262",
+  "navn": "...PIECE OF CAKE AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2017-05-22",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "10.710",
+    "beskrivelse": "Produksjon av brød og ferske konditorvarer"
+  },
+  "antallAnsatte": 5,
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2024-09-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-09-07",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-03-11",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-03-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1407",
+    "poststed": "VINTERBRO",
+    "adresse": [
+      "Nessetveien 108"
+    ],
+    "kommune": "ÅS",
+    "kommunenummer": "3218"
+  },
+  "stiftelsesdato": "2017-03-04",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2020-04-06",
+  "vedtektsfestetFormaal": [
+    "Å drive konditori og annen virksomhet som kan ha tilknytning til",
+    "dette. Deltagelse i annen forretningsvirksomhet og hva som står i",
+    "forbindelse hermed."
+  ],
+  "aktivitet": [
+    "Drift av konditori."
+  ],
+  "registreringsdatoForetaksregisteret": "2017-05-22",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2017-05-22",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 1029900.0,
+    "antallAksjer": 3433,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2020-04-16"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/819032262"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

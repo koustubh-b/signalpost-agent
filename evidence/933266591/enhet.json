@@ -1,0 +1,68 @@
+{
+  "organisasjonsnummer": "933266591",
+  "navn": "+HALLE A/S",
+  "organisasjonsform": {
+    "kode": "UTLA",
+    "beskrivelse": "Utenlandsk enhet",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.plushalle.com",
+  "registreringsdatoEnhetsregisteret": "2024-04-08",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "telefon": "+4570266604",
+  "forretningsadresse": {
+    "land": "Danmark",
+    "landkode": "DK",
+    "poststed": "DK-8000 AARHUS C",
+    "adresse": [
+      "Europaplads 16"
+    ]
+  },
+  "stiftelsesdato": "2001-06-01",
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2014-03-03",
+  "vedtektsfestetFormaal": [
+    "Utenlandsk foretak"
+  ],
+  "aktivitet": [
+    "Utenlandsk enhet/foretak"
+  ],
+  "registreringsdatoForetaksregisteret": "2024-04-08",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "registreringsnummerIHjemlandet": "26079438",
+  "foretaksformIHjemlandet": {
+    "kode": "AS",
+    "beskrivelse": "Aktieselskap",
+    "beskrivelseBokmaal": "Aksjeselskap"
+  },
+  "utenlandskRegisterNavn": "Erhvervsstyrelsen",
+  "utenlandskRegisterAdresse": {
+    "land": "Danmark",
+    "poststed": "2100 København Ø",
+    "adresse": [
+      "Langelinie Allé 17"
+    ]
+  },
+  "underlagtLovgivningLand": "Danmark",
+  "underlagtLovgivningLandKode": "DK",
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933266591"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

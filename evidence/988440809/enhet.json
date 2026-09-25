@@ -1,0 +1,68 @@
+{
+  "organisasjonsnummer": "988440809",
+  "navn": "1280 DESIGN AV CHRISTOFFER SVENDSEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6003",
+    "poststed": "ÅLESUND",
+    "adresse": [
+      "Fjellgata 41A"
+    ],
+    "kommune": "ÅLESUND",
+    "kommunenummer": "1508"
+  },
+  "registreringsdatoEnhetsregisteret": "2005-09-07",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "23.310",
+    "beskrivelse": "Produksjon av keramiske vegg- og gulvfliser"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "90735809",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6007",
+    "poststed": "ÅLESUND",
+    "adresse": [
+      "Ystenesgata 32"
+    ],
+    "kommune": "ÅLESUND",
+    "kommunenummer": "1508"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Salg av fliser som har fått et kunstneriskt utrykk ved reglassering,",
+    "sandblåsing og vannskjæring og/eller salg av kompetanse på området."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/988440809"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

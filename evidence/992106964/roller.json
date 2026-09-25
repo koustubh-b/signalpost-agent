@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Roy Hovland",
+    "birth_year": "1969-05-25"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Roy Hovland",
+    "birth_year": "1969-05-25"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Roy Evje",
+    "birth_year": "1968-04-07"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Bente Ramsland",
+    "birth_year": "1964-10-03"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ole Edvardsen",
+    "birth_year": "1964-11-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ernst Guttorm Jacobsen",
+    "birth_year": "1970-06-18"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kristine Elisabeth Støylen",
+    "birth_year": "1966-10-03"
+  }
+]

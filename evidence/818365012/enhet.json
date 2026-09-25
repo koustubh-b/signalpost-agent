@@ -1,0 +1,63 @@
+{
+  "organisasjonsnummer": "818365012",
+  "navn": ".NET KLUBBEN",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.dotnetklubben.org/",
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3158",
+    "poststed": "ANDEBU",
+    "adresse": [
+      "c/o Kristian Roland",
+      "Myreveien 2"
+    ],
+    "kommune": "SANDEFJORD",
+    "kommunenummer": "3907"
+  },
+  "registreringsdatoEnhetsregisteret": "2017-01-13",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "kristian@rolandtech.org",
+  "mobil": "93425478",
+  "stiftelsesdato": "2016-12-29",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    ".NET klubben er en frivillig forening for dem som er glad i data og",
+    "konsoll spilling. Vi har som formål å arrangere samlinger innenfor",
+    "Telemark og helst Nome kommune, så ofte det lar seg gjøre."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2017-01-13",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/818365012"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

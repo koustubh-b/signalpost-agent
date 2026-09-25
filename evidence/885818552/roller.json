@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Kristine Perander",
+    "birth_year": "1986-08-29"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Kristine Perander",
+    "birth_year": "1986-08-29"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Oscar Fink",
+    "birth_year": "2004-01-27"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Terje Pedersen",
+    "birth_year": "1971-06-20"
+  }
+]

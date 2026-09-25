@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Tom-Einar Kristiansen",
+    "birth_year": "1983-11-23"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Tom-Einar Kristiansen",
+    "birth_year": "1983-11-23"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Thomas Hellum",
+    "birth_year": "1986-04-05"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Antonio Exposito Lazaro",
+    "birth_year": "1974-10-27"
+  }
+]

@@ -1,0 +1,60 @@
+{
+  "organisasjonsnummer": "918796843",
+  "navn": "1. SANDVIKA SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2017-09-25",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1365",
+    "poststed": "BLOMMENHOLM",
+    "adresse": [
+      "c/o Ole Søe Eriksen",
+      "Sverrestien 3"
+    ],
+    "kommune": "BÆRUM",
+    "kommunenummer": "3201"
+  },
+  "stiftelsesdato": "1923-09-26",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Skal fremme og verne om friluftslivets gleder, formidle",
+    "turglede, engasjere og inspirere til gode opplever i naturen med gode",
+    "venner og godt humør."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2017-09-25",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/918796843"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

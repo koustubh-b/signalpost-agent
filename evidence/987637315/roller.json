@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Trond Olsen",
+    "birth_year": "1959-01-12"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Vibeke Gordner",
+    "birth_year": "1953-04-17"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ragnar Haavaldsen",
+    "birth_year": "1965-04-05"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kristian Røgeberg",
+    "birth_year": "1980-02-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jørgen Tangen",
+    "birth_year": "1981-04-01"
+  }
+]

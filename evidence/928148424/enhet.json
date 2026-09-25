@@ -1,0 +1,57 @@
+{
+  "organisasjonsnummer": "928148424",
+  "navn": "010 IDÉLAB HENRIK ALFHEIM",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2021-11-17",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "73.110",
+    "beskrivelse": "Reklamebyråvirksomhet"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "halfheim@gmail.com",
+  "mobil": "900 55 055",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0781",
+    "poststed": "OSLO",
+    "adresse": [
+      "Skådalsveien 1C"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Konsulenttjenester innen markedsføring."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/928148424"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

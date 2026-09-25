@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Hilde Amundsen",
+    "birth_year": "1982-03-20"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Hans Eide",
+    "birth_year": "1973-01-24"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Geir Erling Andreassen",
+    "birth_year": "1972-03-08"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Stephen Andre Stiller",
+    "birth_year": "1985-03-05"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Sander Cornelius Svendsen",
+    "birth_year": "2003-01-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Lars Müller",
+    "birth_year": "2004-10-07"
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "organisasjonsnummer": "921826885",
+  "navn": "0001 INVEST AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2018-12-04",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "64.323",
+    "beskrivelse": "Andre egeninvesteringsselskaper"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0483",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Terje Mjømen",
+      "Vitaminveien 16"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2018-11-15",
+  "institusjonellSektorkode": {
+    "kode": "4900",
+    "beskrivelse": "Øvrige finansielle foretak unntatt forsikring"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2018-11-15",
+  "vedtektsfestetFormaal": [
+    "Generell investeringsvirksomhet, herunder investering i verdipapirer,",
+    "valuta, eiendommer, andeler, etc., samt delta i eller eie selskaper",
+    "med beslektet virksomhet."
+  ],
+  "aktivitet": [
+    "Generell investeringsvirksomhet, herunder investering i verdipapirer,",
+    "valuta, eiendommer, andeler, etc., samt delta i eller eie selskaper",
+    "med beslektet virksomhet."
+  ],
+  "registreringsdatoForetaksregisteret": "2018-12-04",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2018-12-04",
+  "fravalgRevisjonBeslutningsDato": "2018-11-15",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 1000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2018-12-04"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/921826885"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,69 @@
+{
+  "organisasjonsnummer": "997180801",
+  "navn": "1NAPRAPAT, STINE KÅSAMOEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "NAPRAPAT STINE KÅSAMOEN",
+      "fraDato": "2011-08-02 20:08:25",
+      "tilDato": "2012-08-15 20:31:36"
+    },
+    {
+      "navn": "1NAPRAPAT STINE KÅSAMOEN",
+      "fraDato": "2012-08-15 20:31:36",
+      "tilDato": "2012-11-01 20:45:51"
+    }
+  ],
+  "hjemmeside": "www.1naprapat.no",
+  "registreringsdatoEnhetsregisteret": "2011-08-02",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "86.960",
+    "beskrivelse": "Aktiviteter innenfor tradisjonell, komplementær og alternativ medisin"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "stine@1naprapat.no",
+  "mobil": "413 50 628",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3120",
+    "poststed": "NØTTERØY",
+    "adresse": [
+      "Tom Wilhelmsens vei 2"
+    ],
+    "kommune": "FÆRDER",
+    "kommunenummer": "3911"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Naprapati: Alternativ manuell behandling av mennesker."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997180801"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

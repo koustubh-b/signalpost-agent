@@ -1,0 +1,63 @@
+{
+  "organisasjonsnummer": "990788782",
+  "navn": "1001 FORTELLINGER TUVA ROSENLUND",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "NORA NAJJAR Tuva Elisabeth Rosenlund",
+      "fraDato": "2007-01-30 23:10:56",
+      "tilDato": "2012-02-01 20:28:56"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2007-01-30",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "59.110",
+    "beskrivelse": "Produksjon av film, video og fjernsynsprogrammer"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "1001fortellinger@gmail.com",
+  "mobil": "95777877",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0488",
+    "poststed": "OSLO",
+    "adresse": [
+      "Ogmunds vei 21"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Produksjon av film og video."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/990788782"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

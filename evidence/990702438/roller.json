@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Ingvild Anita Hansen",
+    "birth_year": "1969-08-21"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Ingvild Anita Hansen",
+    "birth_year": "1969-08-21"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kai Ståle Hansen",
+    "birth_year": "1965-09-22"
+  },
+  {
+    "title": "Varamedlem",
+    "group": "Styre",
+    "name": "Kristin Irene Dahl",
+    "birth_year": "1966-01-09"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "922829845",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "882571432",
+    "birth_year": null
+  }
+]

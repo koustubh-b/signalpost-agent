@@ -1,0 +1,79 @@
+{
+  "organisasjonsnummer": "930240427",
+  "navn": "110% MANAGEMENT AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "ELDORADO MANAGEMENT AS",
+      "fraDato": "2022-11-16 10:57:54",
+      "tilDato": "2023-12-01 16:48:14"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2022-11-16",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.390",
+    "beskrivelse": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0181",
+    "poststed": "OSLO",
+    "adresse": [
+      "Torggata 9B"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2022-09-08",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2023-11-17",
+  "vedtektsfestetFormaal": [
+    "Å tilby tjenester innen e-sport og digital underholdning, samt",
+    "investeringer i nærliggende virksomheter."
+  ],
+  "aktivitet": [
+    "Å tilby tjenester innen e-sport og digital underholdning, samt",
+    "investeringer i nærliggende virksomheter."
+  ],
+  "registreringsdatoForetaksregisteret": "2022-11-16",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2022-11-16",
+  "fravalgRevisjonBeslutningsDato": "2022-09-08",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 100000.0,
+    "antallAksjer": 1000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2022-11-16"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930240427"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,81 @@
+{
+  "organisasjonsnummer": "997021126",
+  "navn": "2 ANNE FRISØR AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2011-06-30",
+  "registrertIMvaregisteret": true,
+  "frivilligMvaRegistrertBeskrivelser": [
+    "Utleier av bygg eller anlegg"
+  ],
+  "naeringskode1": {
+    "kode": "96.210",
+    "beskrivelse": "Frisering og barbering"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoFrivilligMerverdiavgiftsregisteret": "2014-02-05",
+  "registreringsdatoMerverdiavgiftsregisteret": "2011-07-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2011-07-18",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2024-02-13",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2024-02-10",
+  "telefon": "51 48 21 21",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4340",
+    "poststed": "BRYNE",
+    "adresse": [
+      "Storgata 27B"
+    ],
+    "kommune": "TIME",
+    "kommunenummer": "1121"
+  },
+  "stiftelsesdato": "2011-05-26",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2011-05-26",
+  "vedtektsfestetFormaal": [
+    "Selskapets formål er å drive frisørvirksomhet samt alt som står i",
+    "forbindelse hermed inkludert deltagelse i andre selskap med lignende",
+    "virksomhet"
+  ],
+  "aktivitet": [
+    "Frisørvirksomhet"
+  ],
+  "registreringsdatoForetaksregisteret": "2011-06-30",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2011-06-30",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 200000.0,
+    "antallAksjer": 200,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2011-06-30"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997021126"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

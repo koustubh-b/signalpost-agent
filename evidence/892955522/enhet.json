@@ -1,0 +1,74 @@
+{
+  "organisasjonsnummer": "892955522",
+  "navn": "1 AID NORGE - LØVTANGEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "CONZIGO LØVTANGEN",
+      "fraDato": "2008-08-11 20:28:06",
+      "tilDato": "2012-05-05 14:33:07"
+    },
+    {
+      "navn": "1 AID NORGE - LØVTANGEN",
+      "fraDato": "2012-05-05 14:33:07",
+      "tilDato": "2015-08-18 10:32:21"
+    }
+  ],
+  "hjemmeside": "www.1aid.no",
+  "registreringsdatoEnhetsregisteret": "2008-08-11",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "70.200",
+    "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "mail@1aid.no",
+  "telefon": "99 05 50 00",
+  "mobil": "958 51 778",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2040",
+    "poststed": "KLØFTA",
+    "adresse": [
+      "Skomakervegen 4"
+    ],
+    "kommune": "ULLENSAKER",
+    "kommunenummer": "3209"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Konsulentbistand, opplæring og motivasjonskurs. Salg av",
+    "husholdningsapparat som feks. kaffemaskin, salg av tjenesster til",
+    "bedrifter ( feks. mobiltelefoni). Førstehjelpskurs, innsamling til",
+    "veldedig formål."
+  ],
+  "registreringsdatoForetaksregisteret": "2015-08-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/892955522"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

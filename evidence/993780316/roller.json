@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Fredrik Gravdal",
+    "birth_year": "1982-06-16"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Håvard Sørli",
+    "birth_year": "1970-04-29"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jyrki Johannes Salenius",
+    "birth_year": "1977-05-03"
+  }
+]

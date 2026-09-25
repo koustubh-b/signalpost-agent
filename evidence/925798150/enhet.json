@@ -1,0 +1,77 @@
+{
+  "organisasjonsnummer": "925798150",
+  "navn": "2014-LAGET",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "LØRENSKOG HOCKEY 2014 LAGET",
+      "fraDato": "2020-10-15 16:39:19",
+      "tilDato": "2023-01-26 11:59:12"
+    }
+  ],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1461",
+    "poststed": "LØRENSKOG",
+    "adresse": [
+      "c/o Linn Kristine Helgesen",
+      "Røykåskroken 11B"
+    ],
+    "kommune": "LØRENSKOG",
+    "kommunenummer": "3222"
+  },
+  "registreringsdatoEnhetsregisteret": "2020-10-15",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "93.120",
+    "beskrivelse": "Aktiviteter i idrettslag og -klubber"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1464",
+    "poststed": "FJELLHAMAR",
+    "adresse": [
+      "c/o Ole-Petter Berge",
+      "Hamarveien 2"
+    ],
+    "kommune": "LØRENSKOG",
+    "kommunenummer": "3222"
+  },
+  "stiftelsesdato": "2020-09-24",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Drive organisert idrett i form av ishockey i Lørenskog Ishockey klubb",
+    "for barn født i 2014."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2023-02-08",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925798150"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

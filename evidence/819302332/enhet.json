@@ -1,0 +1,64 @@
+{
+  "organisasjonsnummer": "819302332",
+  "navn": "1. NORDSTRAND SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2017-07-17",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1160",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Karen Johanne Strømstad",
+      "Åssiden terrasse 32A"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "1915-05-05",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Foreningen er en speidergruppe som driver sine speideraktiviteter iht",
+    "Norges speiderforbunds formål og lover.",
+    "Nordstrand speidergruppe legger spesielt vekt på å gi sine medlemmer",
+    "(barn og ungdom) fritidstilbud i form av aktivt friluftsliv. Norges",
+    "speiderforbunds formål er å utvikle mennesker til selvstendighet og",
+    "til å ta aktivt ansvar i samfunnet i samsvar med idealene fra",
+    "speiderløftet og speiderloven."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2017-07-17",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/819302332"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,62 @@
+{
+  "organisasjonsnummer": "925632090",
+  "navn": "17. MAI KOMITEEN FOR NORHEIMSUND, VIKØY OG STEINSDALEN",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5600",
+    "poststed": "NORHEIMSUND",
+    "adresse": [
+      "c/o Eirin Måkestad",
+      "Skipadalsåsen 15"
+    ],
+    "kommune": "KVAM",
+    "kommunenummer": "4622"
+  },
+  "registreringsdatoEnhetsregisteret": "2020-09-15",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "monakkleiven@gmail.com",
+  "mobil": "957 78 441",
+  "stiftelsesdato": "2020-06-21",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "aktivitet": [
+    "Foreininga har som føremål å planleggja og gjennomføra den årlege 17.",
+    "mai markeringa for bygdene Norheimsund, Vikøy og Steinsdalen. Arbeidet",
+    "i foreininga/ laget er basert på dugnad."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2020-09-15",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925632090"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

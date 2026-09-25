@@ -1,0 +1,56 @@
+{
+  "organisasjonsnummer": "931676881",
+  "navn": "12 ROUNDS NUF",
+  "organisasjonsform": {
+    "kode": "NUF",
+    "beskrivelse": "Norskregistrert utenlandsk foretak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2023-09-05",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "85.510",
+    "beskrivelse": "Undervisning innenfor idrett og rekreasjon"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0179",
+    "poststed": "OSLO",
+    "adresse": [
+      "Møllergata 9"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Bokseundervisning."
+  ],
+  "registreringsdatoForetaksregisteret": "2023-09-05",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931676881"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

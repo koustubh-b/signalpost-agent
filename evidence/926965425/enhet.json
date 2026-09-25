@@ -1,0 +1,56 @@
+{
+  "organisasjonsnummer": "926965425",
+  "navn": "123FERDIG - LØBERG",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2021-04-19",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "70.200",
+    "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6012",
+    "poststed": "ÅLESUND",
+    "adresse": [
+      "Bjørkavollen 37"
+    ],
+    "kommune": "ÅLESUND",
+    "kommunenummer": "1508"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Konsulenttjenester innen bedriftsrådgivning og IT. Kurs innenfor IT,",
+    "økonomi og friluftsliv."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926965425"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

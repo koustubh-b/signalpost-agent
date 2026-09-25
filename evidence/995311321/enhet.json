@@ -1,0 +1,79 @@
+{
+  "organisasjonsnummer": "995311321",
+  "navn": "1HJELP.NO AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.1hjelp.no",
+  "registreringsdatoEnhetsregisteret": "2010-03-20",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "85.597",
+    "beskrivelse": "Annen undervisning ellers"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2010-01-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2010-07-13",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-07-15",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-07-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3257",
+    "poststed": "LARVIK",
+    "adresse": [
+      "c/o Roy Gjersøe",
+      "Dr Holms vei 5"
+    ],
+    "kommune": "LARVIK",
+    "kommunenummer": "3909"
+  },
+  "stiftelsesdato": "2010-01-23",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2010-01-23",
+  "vedtektsfestetFormaal": [
+    "Salg av medisinsk utstyr, utleie av",
+    "møtelokale, vakttjeneste/beredskapstjenester samt undervisning."
+  ],
+  "aktivitet": [
+    "Salg av medisinsk utstyr, utleie av møtelokale,",
+    "vakttjeneste/beredskapstjenester samt undervisning med bl.a.",
+    "førstehjelpskurs."
+  ],
+  "registreringsdatoForetaksregisteret": "2010-03-20",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2013-08-10",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 100000.0,
+    "antallAksjer": 100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2010-03-20"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995311321"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

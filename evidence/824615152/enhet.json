@@ -1,0 +1,73 @@
+{
+  "organisasjonsnummer": "824615152",
+  "navn": "1852 BÅT OG MOTOR AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2020-02-17",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "47.632",
+    "beskrivelse": "Detaljhandel med fritidsbåter og tilhørende utstyr"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2020-03-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-06-11",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2025-10-15",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2025-10-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4262",
+    "poststed": "AVALDSNES",
+    "adresse": [
+      "Bøvågen 40"
+    ],
+    "kommune": "KARMØY",
+    "kommunenummer": "1149"
+  },
+  "stiftelsesdato": "2020-02-07",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2022-08-18",
+  "vedtektsfestetFormaal": [
+    "Salg av fritidsbåt, samt hva herved står i forbindelse."
+  ],
+  "aktivitet": [
+    "Salg av fritidsbåt, samt hva herved står i forbindelse."
+  ],
+  "registreringsdatoForetaksregisteret": "2020-02-17",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 400000.0,
+    "antallAksjer": 400,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2022-09-20"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/824615152"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

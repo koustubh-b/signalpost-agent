@@ -1,0 +1,82 @@
+{
+  "organisasjonsnummer": "991297073",
+  "navn": "2 BIOLOGISTS DA",
+  "organisasjonsform": {
+    "kode": "DA",
+    "beskrivelse": "Ansvarlig selskap med delt ansvar",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/DA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.2biologer.no",
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3187",
+    "poststed": "HORTEN",
+    "adresse": [
+      "Storms gate 2"
+    ],
+    "kommune": "HORTEN",
+    "kommunenummer": "3901"
+  },
+  "registreringsdatoEnhetsregisteret": "2007-09-22",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "82.990",
+    "beskrivelse": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "92618681",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0584",
+    "poststed": "OSLO",
+    "adresse": [
+      "H302",
+      "Krokliveien 50"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2007-05-21",
+  "institusjonellSektorkode": {
+    "kode": "2300",
+    "beskrivelse": "Personlige foretak"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2007-05-21",
+  "vedtektsfestetFormaal": [
+    "Handel med/produksjon av konsulenttjenester innen utvikling av",
+    "undervisningsopplegg, fotografiske oppdrag, kompetanseheving,",
+    "kartlegging av biologisk mangfold og produkter som naturlig hører",
+    "samme med dette (salg av egenproduserte artikler, bøker og andre",
+    "informative kilder), samt deltakelse i andre virksomheter innenfor",
+    "samme bransje."
+  ],
+  "aktivitet": [
+    "Konsulenttjenester innen: utvikling av undervisningsopplegg,",
+    "fotografiske oppdrag, kompetanseheving og kartlegging av biologisk",
+    "mangfold, artikler, bøker og andre informative kilder (natur)."
+  ],
+  "registreringsdatoForetaksregisteret": "2007-09-22",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/991297073"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

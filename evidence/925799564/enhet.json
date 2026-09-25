@@ -1,0 +1,55 @@
+{
+  "organisasjonsnummer": "925799564",
+  "navn": "2 MUNTRE HERRER OLSEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2020-10-16",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.202",
+    "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor scenekunst"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5155",
+    "poststed": "BØNES",
+    "adresse": [
+      "Våkleivbakken 32"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Underholdning på eldresenter."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925799564"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

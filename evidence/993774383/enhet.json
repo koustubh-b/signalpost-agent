@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "993774383",
+  "navn": "1. SKOGER SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.1skoger.org",
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3039",
+    "poststed": "DRAMMEN",
+    "adresse": [
+      "v/ Audun Frøysland",
+      "Eikelia 7"
+    ],
+    "kommune": "DRAMMEN",
+    "kommunenummer": "3301"
+  },
+  "registreringsdatoEnhetsregisteret": "2009-02-24",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "stiftelsesdato": "1925-02-25",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speidergruppe."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2016-02-16",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/993774383"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

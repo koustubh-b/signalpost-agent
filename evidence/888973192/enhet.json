@@ -1,0 +1,86 @@
+{
+  "organisasjonsnummer": "888973192",
+  "navn": "2 SIKRE AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "H.O.B. AS",
+      "fraDato": "2006-01-14 14:38:33",
+      "tilDato": "2022-09-17 10:42:02"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2006-01-14",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "71.129",
+    "beskrivelse": "Annen teknisk konsulentvirksomhet"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2022-11-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2022-11-01",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2020-01-14",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2020-01-10",
+  "mobil": "91744945",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1365",
+    "poststed": "BLOMMENHOLM",
+    "adresse": [
+      "Oksehovedveien 26"
+    ],
+    "kommune": "BÆRUM",
+    "kommunenummer": "3201"
+  },
+  "stiftelsesdato": "2005-11-17",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2022-09-02",
+  "vedtektsfestetFormaal": [
+    "Investeringsvirksomhet i verdipapirer, deltagelse i andre selskaper,",
+    "samt det som naturlig faller inn under slik virksomhet. Bistå andre",
+    "virksomheter og personer med bistand av teknisk karakter."
+  ],
+  "aktivitet": [
+    "Investeringsvirksomhet i verdipapirer samt deltakelse i andre",
+    "virksomheter. Utøve konsulentbistand i elektrofaglige og",
+    "elektrorelaterte spørsmål."
+  ],
+  "registreringsdatoForetaksregisteret": "2006-01-14",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2024-09-09",
+  "fravalgRevisjonBeslutningsDato": "2024-08-20",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 300,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2013-06-22"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/888973192"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Lillian Møller",
+    "birth_year": "1987-11-03"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Lillian Møller",
+    "birth_year": "1987-11-03"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Sigmund Andre Femtehjell",
+    "birth_year": "1976-07-25"
+  }
+]

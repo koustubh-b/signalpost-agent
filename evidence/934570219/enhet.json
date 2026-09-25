@@ -1,0 +1,75 @@
+{
+  "organisasjonsnummer": "934570219",
+  "navn": "123 EIENDOM HOLDING AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2024-11-30",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "43.221",
+    "beskrivelse": "Rørleggerarbeid"
+  },
+  "hjelpeenhetskode": {
+    "kode": "70.100",
+    "beskrivelse": "Hovedkontortjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5151",
+    "poststed": "STRAUMSGREND",
+    "adresse": [
+      "Stokkedalen 134"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "stiftelsesdato": "2024-11-13",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2024-11-13",
+  "vedtektsfestetFormaal": [
+    "Holdingselskap. Investering i aksjer, verdipapirer og eiendom."
+  ],
+  "aktivitet": [
+    "Holdingselskap."
+  ],
+  "registreringsdatoForetaksregisteret": "2024-11-30",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2024-11-30",
+  "fravalgRevisjonBeslutningsDato": "2024-11-13",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2024-11-30"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934570219"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

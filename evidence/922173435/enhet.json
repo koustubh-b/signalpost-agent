@@ -1,0 +1,55 @@
+{
+  "organisasjonsnummer": "922173435",
+  "navn": "1995 SONDRE SØBERG RISA",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-02-06",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "85.510",
+    "beskrivelse": "Undervisning innenfor idrett og rekreasjon"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4020",
+    "poststed": "STAVANGER",
+    "adresse": [
+      "Vågsmyrgata 32"
+    ],
+    "kommune": "STAVANGER",
+    "kommunenummer": "1103"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Personlig trener."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922173435"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

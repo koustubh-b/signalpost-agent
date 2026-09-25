@@ -1,0 +1,69 @@
+{
+  "organisasjonsnummer": "912861066",
+  "navn": "1641 CHRISTIANSSAND",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4662",
+    "poststed": "KRISTIANSAND S",
+    "adresse": [
+      "Postboks 209"
+    ],
+    "kommune": "KRISTIANSAND",
+    "kommunenummer": "4204"
+  },
+  "registreringsdatoEnhetsregisteret": "2013-12-31",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4611",
+    "poststed": "KRISTIANSAND S",
+    "adresse": [
+      "Markens gate 30"
+    ],
+    "kommune": "KRISTIANSAND",
+    "kommunenummer": "4204"
+  },
+  "stiftelsesdato": "2013-07-26",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Foreningen skal være et ideelt, sosialt og faglig samlingssted for",
+    "hjemmebryggere som brygger øl på hobbybasis i Kristiansandsområdet."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2013-12-31",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912861066"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "932499819",
+  "navn": "2010-KULLETS TURGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2024-03-12",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "8640",
+    "poststed": "HEMNESBERGET",
+    "adresse": [
+      "c/o Hemnes Sentralskole",
+      "Skolegata 6"
+    ],
+    "kommune": "HEMNES",
+    "kommunenummer": "1832"
+  },
+  "stiftelsesdato": "2023-11-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Skal drive inntjening i form av loddsalg, kafé for familie og venner",
+    "m.m. til inntekt for klassetur i 2025."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/932499819"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

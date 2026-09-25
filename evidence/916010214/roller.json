@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Ivar Espeland",
+    "birth_year": "1965-08-09"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jan-Kenneth Furulund",
+    "birth_year": "1985-04-02"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Geir Arne Toftner",
+    "birth_year": "1969-05-09"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Petter Gulbrandsen",
+    "birth_year": "1971-04-16"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Petter Gulbrandsen",
+    "birth_year": "1971-04-16"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jon Arne Bratland",
+    "birth_year": "1975-06-18"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Carl Magne Isaksen",
+    "birth_year": "1949-07-09"
+  }
+]

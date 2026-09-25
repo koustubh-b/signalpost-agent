@@ -1,0 +1,65 @@
+{
+  "organisasjonsnummer": "912037363",
+  "navn": "1 SØGNE SJØSPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "1 SØGNE SJØSPEIDERGRUPPE",
+      "fraDato": "2013-06-13 20:14:26",
+      "tilDato": "2014-12-03 12:21:47"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2013-06-13",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "91643764",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4640",
+    "poststed": "SØGNE",
+    "adresse": [
+      "c/o Geir Fossgard Hamre",
+      "Stauslandstunet 59"
+    ],
+    "kommune": "KRISTIANSAND",
+    "kommunenummer": "4204"
+  },
+  "stiftelsesdato": "1950-01-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Sjøspeidergruppe"
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2015-02-03",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912037363"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

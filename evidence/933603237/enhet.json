@@ -1,0 +1,66 @@
+{
+  "organisasjonsnummer": "933603237",
+  "navn": "2 PLAY AS KONKURSBO",
+  "organisasjonsform": {
+    "kode": "KBO",
+    "beskrivelse": "Konkursbo",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0114",
+    "poststed": "OSLO",
+    "adresse": [
+      "v/Adv. Anja Ingrid Thorheim",
+      "Postboks 1371 Vika"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "registreringsdatoEnhetsregisteret": "2024-06-12",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "47.640",
+    "beskrivelse": "Detaljhandel med spill og leker"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2024-05-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-06-13",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0484",
+    "poststed": "OSLO",
+    "adresse": [
+      "Nydalsveien 20A"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2024-06-12",
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Konkursbo."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933603237"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

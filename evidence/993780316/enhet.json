@@ -1,0 +1,62 @@
+{
+  "organisasjonsnummer": "993780316",
+  "navn": "1. GULLAUG SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "gullaug.speiding.no/",
+  "registreringsdatoEnhetsregisteret": "2009-02-24",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "1gullaug@speiding.no",
+  "mobil": "913 57 537",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3413",
+    "poststed": "LIER",
+    "adresse": [
+      "Flåtansvingen 23"
+    ],
+    "kommune": "LIER",
+    "kommunenummer": "3312"
+  },
+  "stiftelsesdato": "1931-11-30",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "1. Gullaug speidergruppes formål er å utvikle mennesker til",
+    "selvstendighet og til å ta aktivt ansvar i samfunnet i samsvar med",
+    "idealene fra speiderløftet og speiderloven."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2009-02-24",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/993780316"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

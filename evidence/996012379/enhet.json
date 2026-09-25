@@ -1,0 +1,75 @@
+{
+  "organisasjonsnummer": "996012379",
+  "navn": "1VENNESLA SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "1vennesla.no",
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4700",
+    "poststed": "VENNESLA",
+    "adresse": [
+      "Postboks 255"
+    ],
+    "kommune": "VENNESLA",
+    "kommunenummer": "4223"
+  },
+  "registreringsdatoEnhetsregisteret": "2010-10-16",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "geirolavkaase@gmail.com",
+  "mobil": "930 16 059",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4700",
+    "poststed": "VENNESLA",
+    "adresse": [
+      "c/o Jon Inge Steinsland",
+      "Tvidøblane 66"
+    ],
+    "kommune": "VENNESLA",
+    "kommunenummer": "4223"
+  },
+  "stiftelsesdato": "1921-06-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "1Vennesla Speidergruppe er tilknyttet Norges speiderforbund og følger",
+    "Norges Speiderforbunds formål, vedtekter og lover. 1Vennesla",
+    "speidergruppe er registrert som gruppe nr. 3534 i Norges",
+    "speiderforbund."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2010-10-16",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/996012379"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,104 @@
+{
+  "organisasjonsnummer": "919765062",
+  "navn": "1350 HOLDING AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "MJKS EIENDOM AS",
+      "fraDato": "2017-10-23 15:05:42",
+      "tilDato": "2020-08-26 11:52:42"
+    },
+    {
+      "navn": "BML BYGG AS",
+      "fraDato": "2020-08-26 11:52:42",
+      "tilDato": "2020-10-19 14:24:46"
+    },
+    {
+      "navn": "PIT STOP MAT OG DRIKKE AS",
+      "fraDato": "2020-10-19 14:24:46",
+      "tilDato": "2024-10-10 18:12:46"
+    },
+    {
+      "navn": "ADL TRANSPORT AS",
+      "fraDato": "2024-10-10 18:12:46",
+      "tilDato": "2024-12-13 12:43:54"
+    },
+    {
+      "navn": "ADL INVEST OG BYGG AS",
+      "fraDato": "2024-12-13 12:43:54",
+      "tilDato": "2025-01-20 10:43:08"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2017-10-23",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "71.121",
+    "beskrivelse": "Byggeteknisk konsulentvirksomhet"
+  },
+  "hjelpeenhetskode": {
+    "kode": "70.100",
+    "beskrivelse": "Hovedkontortjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "psaleslab@gmail.com",
+  "mobil": "984 74 728",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1350",
+    "poststed": "LOMMEDALEN",
+    "adresse": [
+      "Skarvaveien 30"
+    ],
+    "kommune": "BÆRUM",
+    "kommunenummer": "3201"
+  },
+  "stiftelsesdato": "2017-09-28",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2024-12-17",
+  "vedtektsfestetFormaal": [
+    "Eie og administrere aksjer eller eierandeler i andre selskaper, samt å",
+    "delta aktivt i styring og utvikling av datterselskapene, investere i",
+    "andre produkter og tjenester som naturlig hører sammen med dette."
+  ],
+  "aktivitet": [
+    "Investering i andre virksomheter."
+  ],
+  "registreringsdatoForetaksregisteret": "2017-10-23",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2017-10-23",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2017-10-23"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919765062"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

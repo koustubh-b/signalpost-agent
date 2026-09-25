@@ -1,0 +1,63 @@
+{
+  "organisasjonsnummer": "930936448",
+  "navn": "1000SKIS AB",
+  "organisasjonsform": {
+    "kode": "UTLA",
+    "beskrivelse": "Utenlandsk enhet",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.1000skis.com",
+  "registreringsdatoEnhetsregisteret": "2023-03-02",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "vatreturn@momsfinans.se",
+  "forretningsadresse": {
+    "land": "Sverige",
+    "landkode": "SE",
+    "poststed": "SE-118 25 STOCKHOLM",
+    "adresse": [
+      "Bastugatan 57"
+    ]
+  },
+  "stiftelsesdato": "2021-04-06",
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Utenlandsk enhet/foretak"
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "registreringsnummerIHjemlandet": "5593104432",
+  "foretaksformIHjemlandet": {
+    "kode": "AB",
+    "beskrivelse": "Privata Aktiebolag",
+    "beskrivelseBokmaal": "Aksjeselskap"
+  },
+  "utenlandskRegisterNavn": "Bolagsverket",
+  "utenlandskRegisterAdresse": {
+    "land": "Sverige",
+    "poststed": "851 81 SUNDSVALL",
+    "adresse": [
+      "Stuvarvägen 21"
+    ]
+  },
+  "underlagtLovgivningLand": "Sverige",
+  "underlagtLovgivningLandKode": "SE",
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930936448"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,76 @@
+{
+  "organisasjonsnummer": "917218285",
+  "navn": "0DIN HOLDING AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "0DIN HOLDNING AS",
+      "fraDato": "2016-05-25 09:25:36",
+      "tilDato": "2016-06-03 11:27:38"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2016-05-25",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "64.323",
+    "beskrivelse": "Andre egeninvesteringsselskaper"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1164",
+    "poststed": "OSLO",
+    "adresse": [
+      "Urtestien 11"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2016-05-12",
+  "institusjonellSektorkode": {
+    "kode": "4900",
+    "beskrivelse": "Øvrige finansielle foretak unntatt forsikring"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2016-05-25",
+  "vedtektsfestetFormaal": [
+    "Holdingsselskap for aksjer og investeringer."
+  ],
+  "aktivitet": [
+    "Holdingsselskap for aksjer og investeringer."
+  ],
+  "registreringsdatoForetaksregisteret": "2016-05-25",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2016-05-25",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 1000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2016-05-25"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917218285"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,67 @@
+{
+  "organisasjonsnummer": "993517410",
+  "navn": "1991 INTERACTIVE ANS",
+  "organisasjonsform": {
+    "kode": "ANS",
+    "beskrivelse": "Ansvarlig selskap med solidarisk ansvar",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ANS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2009-01-13",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "62.100",
+    "beskrivelse": "Dataprogrammeringstjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "1991interactive@gmail.com",
+  "mobil": "952 99 089",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5036",
+    "poststed": "BERGEN",
+    "adresse": [
+      "Sandviksveien 3A"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "stiftelsesdato": "2009-01-05",
+  "institusjonellSektorkode": {
+    "kode": "2300",
+    "beskrivelse": "Personlige foretak"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": true,
+  "underAvviklingDato": "2026-09-07",
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "vedtektsdato": "2009-01-05",
+  "vedtektsfestetFormaal": [
+    "Produksjon av interaktiv digital underholdning",
+    "til ulike plattformer som iPhone, Playstation Portable og Playstation",
+    "3."
+  ],
+  "aktivitet": [
+    "Dataspelbransjen, og driv produksjon av",
+    "forholdsvis små dataspel til ulike konsoller."
+  ],
+  "registreringsdatoForetaksregisteret": "2009-01-13",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/993517410"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

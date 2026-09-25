@@ -1,0 +1,73 @@
+{
+  "organisasjonsnummer": "916318855",
+  "navn": "1 EIENDOM AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2015-12-15",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "68.200",
+    "beskrivelse": "Utleie av egen eller leid fast eiendom"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "90 12 12 18",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3676",
+    "poststed": "NOTODDEN",
+    "adresse": [
+      "Bekkhusvegen 31"
+    ],
+    "kommune": "NOTODDEN",
+    "kommunenummer": "4005"
+  },
+  "stiftelsesdato": "2015-11-01",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2015-11-01",
+  "vedtektsfestetFormaal": [
+    "Kjøp og salg av eiendom, eiendomsutvikling, investering,",
+    "konsulenttjenester og hva som naturlig ligger til bransjen. Selskapet",
+    "kan gjøre investeringer i verdipapirer, samt eie i andre selskaper."
+  ],
+  "aktivitet": [
+    "Eiendom, eiendomsutvikling."
+  ],
+  "registreringsdatoForetaksregisteret": "2015-12-15",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2015-12-15",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 1000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2015-12-15"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916318855"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

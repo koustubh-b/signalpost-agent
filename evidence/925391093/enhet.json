@@ -1,0 +1,75 @@
+{
+  "organisasjonsnummer": "925391093",
+  "navn": "&MF HOLDING AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2020-07-24",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "33.120",
+    "beskrivelse": "Reparasjon og vedlikehold av maskiner"
+  },
+  "hjelpeenhetskode": {
+    "kode": "70.100",
+    "beskrivelse": "Hovedkontortjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2032",
+    "poststed": "MAURA",
+    "adresse": [
+      "Skogduevegen 66B"
+    ],
+    "kommune": "NANNESTAD",
+    "kommunenummer": "3238"
+  },
+  "stiftelsesdato": "2020-07-13",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2024",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2020-10-26",
+  "vedtektsfestetFormaal": [
+    "Investering i andre selskaper uansett formål, samt forestå",
+    "administrative tjenester for andre selskaper."
+  ],
+  "aktivitet": [
+    "Investering i andre selskaper uansett formål, samt forestå",
+    "administrative tjenester for andre selskap"
+  ],
+  "registreringsdatoForetaksregisteret": "2020-07-24",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 630000.0,
+    "antallAksjer": 100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2020-12-22"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925391093"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

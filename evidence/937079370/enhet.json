@@ -1,0 +1,76 @@
+{
+  "organisasjonsnummer": "937079370",
+  "navn": "10XTROMSØ AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "AFAS 230126-14 AS",
+      "fraDato": "2026-02-02 11:16:44",
+      "tilDato": "2026-06-26 11:47:21"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2026-02-02",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "79.902",
+    "beskrivelse": "Guide- og reiseledervirksomhet"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "9107",
+    "poststed": "KVALØYA",
+    "adresse": [
+      "Innelvvegen 112"
+    ],
+    "kommune": "TROMSØ",
+    "kommunenummer": "5501"
+  },
+  "stiftelsesdato": "2026-01-23",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2026-02-24",
+  "vedtektsfestetFormaal": [
+    "Å yte turistopplevelser og annet som står i forbindelse med dette."
+  ],
+  "aktivitet": [
+    "Guide og reiseleder."
+  ],
+  "registreringsdatoForetaksregisteret": "2026-02-02",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2026-02-02",
+  "fravalgRevisjonBeslutningsDato": "2026-01-23",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 3000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2026-02-02"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937079370"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,56 @@
+{
+  "organisasjonsnummer": "834434342",
+  "navn": "+47 RECORDS VALLERNES-HANSEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2024-11-10",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.390",
+    "beskrivelse": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "7241",
+    "poststed": "ANSNES",
+    "adresse": [
+      "Jektvikveien 22"
+    ],
+    "kommune": "HITRA",
+    "kommunenummer": "5056"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Lystekniker."
+  ],
+  "registreringsdatoForetaksregisteret": "2024-11-10",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/834434342"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

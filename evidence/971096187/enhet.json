@@ -1,0 +1,64 @@
+{
+  "organisasjonsnummer": "971096187",
+  "navn": "1000 FIX Arild Libekk",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "1995-02-20",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "47.810",
+    "beskrivelse": "Detaljhandel med motorvogner"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "1994-07-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "1995-02-20",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-02-12",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-02-10",
+  "epostadresse": "libekk.a@online.no",
+  "telefon": "62 52 90 09",
+  "mobil": "91323974",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2322",
+    "poststed": "RIDABU",
+    "adresse": [
+      "Stasjonsvegen 30"
+    ],
+    "kommune": "HAMAR",
+    "kommunenummer": "3403"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Kjøp, salg, service, snekring, maling. Bilsalg, bilutleie, service.",
+    " "
+  ],
+  "registreringsdatoForetaksregisteret": "1994-09-13",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/971096187"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

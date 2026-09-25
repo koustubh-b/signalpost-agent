@@ -1,0 +1,70 @@
+{
+  "organisasjonsnummer": "993759716",
+  "navn": "1. RAUMA ÅNDALSNES AV NORGES SPEIDERFORBUND",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6300",
+    "poststed": "ÅNDALSNES",
+    "adresse": [
+      "c/o Linda Sogge",
+      "Lyngheim"
+    ],
+    "kommune": "RAUMA",
+    "kommunenummer": "1539"
+  },
+  "registreringsdatoEnhetsregisteret": "2009-03-17",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6300",
+    "poststed": "ÅNDALSNES",
+    "adresse": [
+      "Romsdalsveien",
+      "Gamle Realskolebygget"
+    ],
+    "kommune": "RAUMA",
+    "kommunenummer": "1539"
+  },
+  "stiftelsesdato": "2002-08-13",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speiding. Friluftsliv og samfunnsengasjement for barn og unge."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2009-03-17",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/993759716"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

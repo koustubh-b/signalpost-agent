@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Helge Uberg",
+    "birth_year": "1960-02-18"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Marit Arvesen",
+    "birth_year": "1956-06-08"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Bård Kristensen",
+    "birth_year": "1984-02-01"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Per Ove Arvesen",
+    "birth_year": "1983-01-19"
+  }
+]

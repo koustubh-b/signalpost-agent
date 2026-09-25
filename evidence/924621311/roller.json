@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Svein Reistad",
+    "birth_year": "1964-12-27"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Hans Reistad",
+    "birth_year": "1961-05-30"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Svein Reistad",
+    "birth_year": "1964-12-27"
+  }
+]

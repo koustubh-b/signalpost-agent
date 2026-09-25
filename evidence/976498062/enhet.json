@@ -1,0 +1,63 @@
+{
+  "organisasjonsnummer": "976498062",
+  "navn": "100 % LYD KENNETH GUSTAVSEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "KENNETH GUSTAVSEN",
+      "fraDato": "1996-06-04 18:43:24",
+      "tilDato": "1999-08-23 18:48:39"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "1996-06-04",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.390",
+    "beskrivelse": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "kegustav@online.no",
+  "telefon": "907 40 843",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0351",
+    "poststed": "OSLO",
+    "adresse": [
+      "Josefines gate 3A"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Lydtekniker for film og TV."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/976498062"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

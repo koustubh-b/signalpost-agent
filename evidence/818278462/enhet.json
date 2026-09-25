@@ -1,0 +1,65 @@
+{
+  "organisasjonsnummer": "818278462",
+  "navn": "11 STARS IDRETTSLAG",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "ELLEVE STJERNER IDRETTSLAG",
+      "fraDato": "2017-01-23 14:14:20",
+      "tilDato": "2023-04-24 13:37:42"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2017-01-23",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "93.120",
+    "beskrivelse": "Aktiviteter i idrettslag og -klubber"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "11stars@11stars.no",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0584",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Edmund Rajadurai",
+      "Gurinestubben 4A"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "1987-12-31",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Idrett og kulturelle aktiviteter."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2017-01-23",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/818278462"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

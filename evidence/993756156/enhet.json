@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "993756156",
+  "navn": "10.TRONDHEIM SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "10.trondheim.speidergruppe.org/",
+  "registreringsdatoEnhetsregisteret": "2009-02-17",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "xtgruppa@gmail.com",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "7050",
+    "poststed": "TRONDHEIM",
+    "adresse": [
+      "Frydenbergvegen 23"
+    ],
+    "kommune": "TRONDHEIM",
+    "kommunenummer": "5001"
+  },
+  "stiftelsesdato": "1928-06-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "10.Trondheim formål er å utvikle mennesker til selvstendighet og til å",
+    "ta et aktivt ansvar i samfunnet i samsvar med idealer fra",
+    "speiderløftet og speiderloven."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2009-02-17",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/993756156"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

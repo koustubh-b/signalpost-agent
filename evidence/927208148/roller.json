@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Per Mikkelsen",
+    "birth_year": "1963-08-17"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Eli Johansen",
+    "birth_year": "1967-03-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Gro Bråthen",
+    "birth_year": "1967-05-09"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Tor Espen Kristiansen",
+    "birth_year": "1979-08-06"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "936295800",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "992072059",
+    "birth_year": null
+  }
+]

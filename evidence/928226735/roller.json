@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Caroline Kjevik",
+    "birth_year": "1978-02-23"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Merete Nygård",
+    "birth_year": "1987-07-23"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Pia Marie Thorsen",
+    "birth_year": "1989-11-26"
+  }
+]

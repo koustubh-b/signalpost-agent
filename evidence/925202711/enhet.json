@@ -1,0 +1,64 @@
+{
+  "organisasjonsnummer": "925202711",
+  "navn": "123 BAGOCIENÉ",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "REGNSKAP BAGOCIENÉ",
+      "fraDato": "2020-06-16 13:08:52",
+      "tilDato": "2024-09-27 10:23:47"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2020-06-16",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "70.200",
+    "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2020-11-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-11-19",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1960",
+    "poststed": "LØKEN",
+    "adresse": [
+      "Ringnesveien 1"
+    ],
+    "kommune": "AURSKOG-HØLAND",
+    "kommunenummer": "3226"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Rådgiving, administrasjon. Rådgiving og veiledning med dokumentasjon",
+    "og daglig økonomi."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925202711"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

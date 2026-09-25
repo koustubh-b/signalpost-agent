@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Kjetil Dahl",
+    "birth_year": "1977-06-13"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Grethe Vidme",
+    "birth_year": "1964-06-23"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kristian Kverndalen",
+    "birth_year": "1977-01-25"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Marte Steinbakken",
+    "birth_year": "2009-02-03"
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "organisasjonsnummer": "999505511",
+  "navn": "17. MAI KOMITEEN HÆGELAND",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "HÆGELAND BYGDERÅD",
+      "fraDato": "2013-03-02 15:57:44",
+      "tilDato": "2023-08-28 16:18:17"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2013-03-02",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "haegelandbygderaad@gmail.com",
+  "mobil": "975 83 832",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4720",
+    "poststed": "HÆGELAND",
+    "adresse": [
+      "c/o Otto Røyland",
+      "Gamlevegen Kile 5"
+    ],
+    "kommune": "VENNESLA",
+    "kommunenummer": "4223"
+  },
+  "stiftelsesdato": "2012-01-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Opprettholde bygda Hægeland med hensyn til næring og bygdeutvikling."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2013-03-02",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/999505511"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,73 @@
+{
+  "organisasjonsnummer": "838307922",
+  "navn": "1875 INFORMATION SERVICES AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2026-08-28",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "63.920",
+    "beskrivelse": "Andre informasjonstjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3912",
+    "poststed": "PORSGRUNN",
+    "adresse": [
+      "Hallsgate 5"
+    ],
+    "kommune": "PORSGRUNN",
+    "kommunenummer": "4001"
+  },
+  "stiftelsesdato": "2026-08-24",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2026-08-24",
+  "vedtektsfestetFormaal": [
+    "Drift av digitale informasjons- og formidlingstjenester, samt",
+    "tilhørende virksomhet."
+  ],
+  "aktivitet": [
+    "Drift av informasjonstjenester innen kjøretøyopplysninger via SMS,",
+    "telefon, internett og andre digitale plattformer, samt tilhørende",
+    "virksomhet."
+  ],
+  "registreringsdatoForetaksregisteret": "2026-08-28",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2026-08-28",
+  "fravalgRevisjonBeslutningsDato": "2026-08-24",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2026-08-28"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/838307922"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

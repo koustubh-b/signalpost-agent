@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Annikken Myklebust",
+    "birth_year": "1982-05-30"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Torill Øen",
+    "birth_year": "1982-11-22"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Stein Haugen",
+    "birth_year": "1960-10-11"
+  }
+]

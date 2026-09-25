@@ -1,0 +1,49 @@
+{
+  "organisasjonsnummer": "938430675",
+  "navn": "1SSR UB SENTRUM UNGDOMSBEDRIFT",
+  "organisasjonsform": {
+    "kode": "ANNA",
+    "beskrivelse": "Annen juridisk person",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ANNA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2026-09-07",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2212",
+    "poststed": "KONGSVINGER",
+    "adresse": [
+      "Sentrum videregående skole",
+      "Rådhusplassen 7"
+    ],
+    "kommune": "KONGSVINGER",
+    "kommunenummer": "3401"
+  },
+  "stiftelsesdato": "2026-08-24",
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Læring gjennom entreprenørskap i utdanning."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938430675"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

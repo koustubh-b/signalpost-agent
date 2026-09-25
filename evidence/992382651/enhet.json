@@ -1,0 +1,77 @@
+{
+  "organisasjonsnummer": "992382651",
+  "navn": "1. KOLBOTN GRUPPE AV NORGES SPEIDERFORBUND",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "KOLBOTN GRUPPE AV NORGES SPEIDERFORBUND",
+      "fraDato": "2008-03-11 20:35:20",
+      "tilDato": "2008-03-31 20:46:34"
+    }
+  ],
+  "hjemmeside": "www.1kolbotn.no",
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1414",
+    "poststed": "TROLLÅSEN",
+    "adresse": [
+      "c/o Nicholas Moe-Pryce",
+      "Mellomåsveien 102"
+    ],
+    "kommune": "NORDRE FOLLO",
+    "kommunenummer": "3207"
+  },
+  "registreringsdatoEnhetsregisteret": "2008-03-11",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "gruppeleder@1kolbotn.no",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1413",
+    "poststed": "TÅRNÅSEN",
+    "adresse": [
+      "Gimleveien 3"
+    ],
+    "kommune": "NORDRE FOLLO",
+    "kommunenummer": "3207"
+  },
+  "stiftelsesdato": "1922-04-02",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speiderarbeid."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2009-03-09",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992382651"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "827015482",
+  "navn": "14G KITTILSEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2021-04-26",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "47.710",
+    "beskrivelse": "Detaljhandel med klær"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3721",
+    "poststed": "SKIEN",
+    "adresse": [
+      "Luksefjellvegen 206"
+    ],
+    "kommune": "SKIEN",
+    "kommunenummer": "4003"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Nettbutikk med salg av klær som T-skjorter, gensere, hettegensere,",
+    "bukser, shorts, underbukser, sokker og jakker osv. Det blir også salg",
+    "av produkter som caps, sekk, bag, flasker og kopp."
+  ],
+  "registreringsdatoForetaksregisteret": "2021-04-26",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/827015482"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Arne Kjell Øverland",
+    "birth_year": "1966-08-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Hans Kristian Stensland",
+    "birth_year": "1968-03-28"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Øyvind Apeland",
+    "birth_year": "1955-08-05"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Simen Velde",
+    "birth_year": "2007-04-10"
+  }
+]

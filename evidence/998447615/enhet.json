@@ -1,0 +1,63 @@
+{
+  "organisasjonsnummer": "998447615",
+  "navn": "1. STORÅSEN SPEIDERGRUPPE, NSF",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "1.storasen.speidergruppe.org",
+  "registreringsdatoEnhetsregisteret": "2012-06-04",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "anne.karin.fonn@gmail.com",
+  "mobil": "980 35 357",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5117",
+    "poststed": "ULSET",
+    "adresse": [
+      "c/o Anne Karin Fonn",
+      "Myrdalskogen 340"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "stiftelsesdato": "1976-01-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Formålet er å utvikle mennesker til selvstendighet og til å ta aktivt",
+    "ansvar i samfunnet i samsvar med idealene fra speiderløftet og",
+    "speiderloven."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2012-06-04",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/998447615"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

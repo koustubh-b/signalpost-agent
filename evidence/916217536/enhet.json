@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "916217536",
+  "navn": "101 GRAPHIC DESIGN RUDI DAVID MINELLE",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2015-11-11",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "74.120",
+    "beskrivelse": "Grafisk design og visuell kommunikasjonsdesign"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "rudi@rudiminelle.com",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3120",
+    "poststed": "NØTTERØY",
+    "adresse": [
+      "Øvre Smidsrødvei 67D"
+    ],
+    "kommune": "FÆRDER",
+    "kommunenummer": "3911"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Kreativ grafisk og webdesign løsninger inkludert print,",
+    "illustrasjon, logoer, e-handel og multimedia.",
+    " ",
+    " "
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916217536"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

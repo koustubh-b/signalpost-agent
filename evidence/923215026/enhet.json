@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "923215026",
+  "navn": "1. STAVERN SPEIDERGRUPPE AV NORGES SPEIDERFORBUND",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-12-10",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3290",
+    "poststed": "STAVERN",
+    "adresse": [
+      "c/o Marit Strømnæs",
+      "Kurerveien 2"
+    ],
+    "kommune": "LARVIK",
+    "kommunenummer": "3909"
+  },
+  "stiftelsesdato": "1917-04-04",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speideraktiviteter."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2019-12-10",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923215026"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

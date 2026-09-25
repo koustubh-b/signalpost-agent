@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "998466946",
+  "navn": "1.NESODDEN/ JAER SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2012-06-11",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "907 98 911",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1459",
+    "poststed": "NESODDEN",
+    "adresse": [
+      "Fjordvangveien 80D"
+    ],
+    "kommune": "NESODDEN",
+    "kommunenummer": "3212"
+  },
+  "stiftelsesdato": "1927-11-04",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speiding, Gruppen tilhører Norges Speiderforbund \"Friluftsliv året",
+    "rundt og opplevelser sammen med andre. Speiding er samarbeid om",
+    "oppgaver, og speiding er vennskap som oppstår og utvikles underveis -",
+    "også på tvers av landegrenser\""
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2012-06-11",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/998466946"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Henrik Lohne",
+    "birth_year": "1971-04-12"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ingunn Drageide",
+    "birth_year": "1970-03-23"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Annike Almberg",
+    "birth_year": "1986-06-02"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Sindre Pedersen",
+    "birth_year": "2000-04-13"
+  }
+]

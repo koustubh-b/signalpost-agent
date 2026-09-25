@@ -1,0 +1,51 @@
+{
+  "organisasjonsnummer": "815124022",
+  "navn": "1 P.P.H.U PECHERZEWSKI PECHERZEWSKI WALDEMAR",
+  "organisasjonsform": {
+    "kode": "UTLA",
+    "beskrivelse": "Utenlandsk enhet",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2015-03-27",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Polen",
+    "landkode": "PL",
+    "poststed": "86-065 Lochowo",
+    "adresse": [
+      "Ul Cisowa"
+    ]
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Utenlandsk enhet/foretak"
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "foretaksformIHjemlandet": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "beskrivelseBokmaal": "Enkeltpersonforetak"
+  },
+  "underlagtLovgivningLand": "Polen",
+  "underlagtLovgivningLandKode": "PL",
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/815124022"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

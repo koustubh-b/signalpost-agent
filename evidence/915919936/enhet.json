@@ -1,0 +1,74 @@
+{
+  "organisasjonsnummer": "915919936",
+  "navn": "2015 EIENDOM AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2015-09-15",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "68.200",
+    "beskrivelse": "Utleie av egen eller leid fast eiendom"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "h-bra@online.no",
+  "mobil": "917 69 599",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1813",
+    "poststed": "ASKIM",
+    "adresse": [
+      "Vammaveien 63"
+    ],
+    "kommune": "INDRE ØSTFOLD",
+    "kommunenummer": "3118"
+  },
+  "stiftelsesdato": "2015-07-31",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2015-07-31",
+  "vedtektsfestetFormaal": [
+    "Eiendomsutvikling, salg og kjøp av eiendommer og",
+    "annet som er naturig i den forbindelse, vedlikehold, påkostning samt",
+    "utleie, samt investering i aksjer og andre selskaper."
+  ],
+  "aktivitet": [
+    "Utleie og utvikling av eiendom."
+  ],
+  "registreringsdatoForetaksregisteret": "2015-09-15",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2015-09-15",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 300,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2015-09-15"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/915919936"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

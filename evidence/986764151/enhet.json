@@ -1,0 +1,93 @@
+{
+  "organisasjonsnummer": "986764151",
+  "navn": "12MR FRAMNÆS AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "ERNA SIGNE AS",
+      "fraDato": "2004-04-14 15:24:05",
+      "tilDato": "2008-06-26 20:49:16"
+    }
+  ],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3202",
+    "poststed": "SANDEFJORD",
+    "adresse": [
+      "Postboks 2010"
+    ],
+    "kommune": "SANDEFJORD",
+    "kommunenummer": "3907"
+  },
+  "registreringsdatoEnhetsregisteret": "2004-04-14",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "91.220",
+    "beskrivelse": "Drift av historiske steder og monumenter"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "telefon": "33 46 52 00",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3212",
+    "poststed": "SANDEFJORD",
+    "adresse": [
+      "Ranvikstranda 2"
+    ],
+    "kommune": "SANDEFJORD",
+    "kommunenummer": "3907"
+  },
+  "stiftelsesdato": "2004-01-11",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2022-09-02",
+  "vedtektsfestetFormaal": [
+    "Eie, verne om og vedlikeholde klassiske seilbåter av historisk verdi",
+    "ved utleie, opplag, utvikling, markedsføring og andre",
+    "produkter/tjenester som naturlig hører sammen med dette, samt delta i",
+    "andre selskap med lignende virksomhet, kjøp og salg av aksjer eller på",
+    "annen måte gjøre seg interessert i andre foretak."
+  ],
+  "aktivitet": [
+    "Drift av historiske steder og bygninger og lignende serverdigheter."
+  ],
+  "registreringsdatoForetaksregisteret": "2004-04-14",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2024-06-18",
+  "fravalgRevisjonBeslutningsDato": "2024-05-29",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 250000.0,
+    "antallAksjer": 2500,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2004-04-14"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/986764151"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

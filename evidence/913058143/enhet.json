@@ -1,0 +1,76 @@
+{
+  "organisasjonsnummer": "913058143",
+  "navn": "10W-30 MOTOR CLUB",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2070",
+    "poststed": "RÅHOLT",
+    "adresse": [
+      "Solheimvegen 8"
+    ],
+    "kommune": "EIDSVOLL",
+    "kommunenummer": "3240"
+  },
+  "registreringsdatoEnhetsregisteret": "2014-01-14",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "tommy@10w-30mc.no",
+  "mobil": "400 66 006",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2070",
+    "poststed": "RÅHOLT",
+    "adresse": [
+      "Råholtgutua 12"
+    ],
+    "kommune": "EIDSVOLL",
+    "kommunenummer": "3240"
+  },
+  "stiftelsesdato": "2014-01-05",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Skape et sosialt miljø rundt Bil og MC, samt arbeide mot å øke",
+    "sikkerhet og teknisk kompetanse for medlemmer og ikke-medlemmer.",
+    "Arrangere aktiviteter for medlemmer og ikke-medlemmer. Arrangere",
+    "tekniske kvelder for medlemmer. Arrangere sosiale sammenkomster for",
+    "medlemmer og ikke-medlemmer. Arbeide med partnere for å fremme",
+    "medlemmenes interesser. Arbeide med partnere for å fremme sikkerhet og",
+    "tryggere forhold for medlemmer og ikke-medlemmer."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2014-01-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/913058143"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

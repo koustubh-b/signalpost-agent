@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "980243974",
+  "navn": "1001 FILMS Saab",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "1998-10-30",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "59.110",
+    "beskrivelse": "Produksjon av film, video og fjernsynsprogrammer"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "saab@online.no",
+  "mobil": "91316302",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1356",
+    "poststed": "BEKKESTUA",
+    "adresse": [
+      "Kleivveien 19A"
+    ],
+    "kommune": "BÆRUM",
+    "kommunenummer": "3201"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Kunstkonsulent (visuelle media)."
+  ],
+  "registreringsdatoForetaksregisteret": "1998-10-30",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/980243974"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "911913062",
+  "navn": "1. VANSE SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2013-06-06",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "1vansespeidergrupppe@gmail.com",
+  "mobil": "916 89 086",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4550",
+    "poststed": "FARSUND",
+    "adresse": [
+      "v/Jan Martinsen",
+      "Lindland"
+    ],
+    "kommune": "FARSUND",
+    "kommunenummer": "4206"
+  },
+  "stiftelsesdato": "1997-08-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Vi er en speidergruppe som er medlem i Norges speiderforbund og driver",
+    "vanlig speideraktiviteter."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2013-06-06",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/911913062"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

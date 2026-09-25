@@ -1,0 +1,72 @@
+{
+  "organisasjonsnummer": "984004737",
+  "navn": "1 TANANGER SJØSPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.tanangerspeiderne.no/",
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4056",
+    "poststed": "TANANGER",
+    "adresse": [
+      "Havnevegen 12"
+    ],
+    "kommune": "SOLA",
+    "kommunenummer": "1124"
+  },
+  "registreringsdatoEnhetsregisteret": "2002-10-16",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "post@tanangerspeiderne.no",
+  "mobil": "918 20 635",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4057",
+    "poststed": "TANANGER",
+    "adresse": [
+      "c/o Vetle K Eide",
+      "Havblikk 2"
+    ],
+    "kommune": "SOLA",
+    "kommunenummer": "1124"
+  },
+  "stiftelsesdato": "1978-04-23",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speidergruppe."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2012-03-28",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/984004737"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

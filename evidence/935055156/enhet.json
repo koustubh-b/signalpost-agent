@@ -1,0 +1,70 @@
+{
+  "organisasjonsnummer": "935055156",
+  "navn": "\"JUVSJUVETS HEMMELIGHET\"",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-02-24",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6797",
+    "poststed": "UTVIK",
+    "adresse": [
+      "c/o Rønnaug Berge Leite",
+      "Tistamvegen 588"
+    ],
+    "kommune": "STRYN",
+    "kommunenummer": "4651"
+  },
+  "stiftelsesdato": "2025-02-14",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "aktivitet": [
+    "Skal gjere Juvsjuvet tilgjengeleg ved å opparbeide",
+    "den gamle stien til Juvsjuvet på miljøvenleg og bærekraftig vis slik",
+    "at den er trygg å ferdast, samt knyte den til eksisterande stinett i",
+    "området. Rydde rotvelter, tre og småskog både i og langs stien og opne",
+    "for",
+    "utsikt til elvejuvet.",
+    "Reparere den gamle hestestien på miljøvenleg og bærekraftig vis.",
+    "Leggje om stien og byggje ny sti enkelte stadar for å gjere den",
+    "sikrare å ferdast.",
+    "Byggje den gamle stien vidare fram til Juvsfossen og knyte den saman",
+    "med allereie opparbeidd stinett.",
+    "Utføre nødvendig skilting og merking, samt andre tiltak som naturleg",
+    "høyrer til formålet."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2026-02-24",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935055156"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

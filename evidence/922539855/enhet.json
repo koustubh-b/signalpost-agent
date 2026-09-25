@@ -1,0 +1,70 @@
+{
+  "organisasjonsnummer": "922539855",
+  "navn": "11:FS FOUNDRY LIMITED",
+  "organisasjonsform": {
+    "kode": "UTLA",
+    "beskrivelse": "Utenlandsk enhet",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "11fs.com/digital-financial-services/11fs-foundry",
+  "registreringsdatoEnhetsregisteret": "2019-03-26",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "telefon": "+442033221743",
+  "forretningsadresse": {
+    "land": "Storbritannia",
+    "landkode": "GB",
+    "poststed": "LONDON EC2M 4YP",
+    "adresse": [
+      "We Work c/o 11 FS",
+      "10 Devonshire Square"
+    ]
+  },
+  "stiftelsesdato": "2018-06-15",
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2018-06-15",
+  "vedtektsfestetFormaal": [
+    "Utenlandsk foretak"
+  ],
+  "aktivitet": [
+    "Utenlandsk enhet/foretak"
+  ],
+  "registreringsdatoForetaksregisteret": "2019-03-26",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "registreringsnummerIHjemlandet": "11418349",
+  "foretaksformIHjemlandet": {
+    "kode": "LTD",
+    "beskrivelse": "Private limited company",
+    "beskrivelseBokmaal": "Aksjeselskap"
+  },
+  "utenlandskRegisterNavn": "Companies House",
+  "utenlandskRegisterAdresse": {
+    "land": "Storbritannia",
+    "poststed": "Cardiff CF14 3UZ",
+    "adresse": [
+      "Crown Way",
+      "Maindy"
+    ]
+  },
+  "underlagtLovgivningLand": "Storbritannia",
+  "underlagtLovgivningLandKode": "GB",
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922539855"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

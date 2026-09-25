@@ -1,0 +1,60 @@
+{
+  "organisasjonsnummer": "913657063",
+  "navn": "17.MAI NEMNDA I TYSNES",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5680",
+    "poststed": "TYSNES",
+    "adresse": [
+      "c/o Øyvind Hope",
+      "Grønåsen 6"
+    ],
+    "kommune": "TYSNES",
+    "kommunenummer": "4616"
+  },
+  "registreringsdatoEnhetsregisteret": "2014-05-19",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "971 53 089",
+  "stiftelsesdato": "2014-04-23",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "aktivitet": [
+    "Arrangere 17.mai feiring i tilknytning til skulekrinsane for Tysnes",
+    "skule og Uggdal skule."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2014-05-19",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/913657063"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

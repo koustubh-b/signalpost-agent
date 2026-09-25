@@ -1,0 +1,62 @@
+{
+  "organisasjonsnummer": "926745654",
+  "navn": "1 NAUTISK MOLAND",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "DIVENAUT MOLAND",
+      "fraDato": "2021-03-08 15:15:45",
+      "tilDato": "2021-11-24 11:22:54"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2021-03-08",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "09.109",
+    "beskrivelse": "Andre tjenester tilknyttet utvinning av råolje og naturgass"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4707",
+    "poststed": "VENNESLA",
+    "adresse": [
+      "Storevollhei 15"
+    ],
+    "kommune": "VENNESLA",
+    "kommunenummer": "4223"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Alt arbeid under trykk tilsvarende 50 meter, som yrkesdykker, klasse",
+    "B."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926745654"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

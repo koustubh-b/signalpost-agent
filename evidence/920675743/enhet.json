@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "920675743",
+  "navn": "17.MAIKOMITEEN I MYRVÅG",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2018-04-23",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6080",
+    "poststed": "GURSKØY",
+    "adresse": [
+      "c/o Julianne Vik",
+      "Myrvågtoppen 73"
+    ],
+    "kommune": "HERØY",
+    "kommunenummer": "1515"
+  },
+  "stiftelsesdato": "2018-02-13",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "aktivitet": [
+    "17.maikomiteen i Myrvåg skal sørge for eit flott familiearrangement",
+    "for heile Myrvåg Krins. Dei skal ha ansvar for toget, ord for dagen,",
+    "matservering, leikar og fest."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920675743"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

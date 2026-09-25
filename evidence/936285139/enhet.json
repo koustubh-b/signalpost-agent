@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "936285139",
+  "navn": "2019-KULLET VED NORHEIMSUND SKULE KLASSEKASSE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-11-06",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5600",
+    "poststed": "NORHEIMSUND",
+    "adresse": [
+      "Gamle Sandvenvegen 27"
+    ],
+    "kommune": "KVAM",
+    "kommunenummer": "4622"
+  },
+  "stiftelsesdato": "2025-09-25",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "aktivitet": [
+    "Foreininga samlar inn og forvaltar midlar til felles aktivitetar og",
+    "innkjøp som kjem elevane til gode. Dette kan vere til dømes sosiale",
+    "samlingar, turar eller innkjøp av leiker og utstyr som fremjar",
+    "fellesskap og trivsel."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936285139"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

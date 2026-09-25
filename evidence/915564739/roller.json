@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Espen Hodne",
+    "birth_year": "1980-12-02"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Morten Andre Ryen",
+    "birth_year": "1988-11-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Silje Marie Kristensen",
+    "birth_year": "1988-01-06"
+  }
+]

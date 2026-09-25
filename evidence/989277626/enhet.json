@@ -1,0 +1,63 @@
+{
+  "organisasjonsnummer": "989277626",
+  "navn": "1 .BORGESTAD SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2010-09-07",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "petter.borgestad@online.no",
+  "telefon": "35 50 13 58",
+  "mobil": "950 74 797",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3712",
+    "poststed": "SKIEN",
+    "adresse": [
+      "c/o Petter Borgestad",
+      "Gunnar Knudsens veg 150"
+    ],
+    "kommune": "SKIEN",
+    "kommunenummer": "4003"
+  },
+  "stiftelsesdato": "1932-09-22",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Formål er å utvikle mennesker til selvstendighet og til å ta aktivt",
+    "ansvar i samfunnet i samsvar med idealene fra speiderløftet og",
+    "speiderloven."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2010-09-07",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/989277626"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

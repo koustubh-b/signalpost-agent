@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Stian Sunde",
+    "birth_year": "1994-04-12"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Liv Kristin Strand",
+    "birth_year": "1962-10-29"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Linda Myre",
+    "birth_year": "1988-11-27"
+  }
+]

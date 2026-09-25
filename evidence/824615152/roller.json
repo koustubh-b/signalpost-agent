@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Rune Torvestad",
+    "birth_year": "1967-10-24"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Rune Storesund",
+    "birth_year": "1971-05-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Rune Torvestad",
+    "birth_year": "1967-10-24"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kåre Storesund",
+    "birth_year": "1971-07-21"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "924973544",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "910909177",
+    "birth_year": null
+  }
+]

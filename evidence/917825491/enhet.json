@@ -1,0 +1,84 @@
+{
+  "organisasjonsnummer": "917825491",
+  "navn": "1337 INVEST AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0786",
+    "poststed": "OSLO",
+    "adresse": [
+      "C/o John Bjørnsen",
+      "Måltrostveien 24B"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "registreringsdatoEnhetsregisteret": "2016-10-04",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "64.323",
+    "beskrivelse": "Andre egeninvesteringsselskaper"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0786",
+    "poststed": "OSLO",
+    "adresse": [
+      "Måltrostveien 24B"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2016-09-26",
+  "institusjonellSektorkode": {
+    "kode": "4900",
+    "beskrivelse": "Øvrige finansielle foretak unntatt forsikring"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2016-09-26",
+  "vedtektsfestetFormaal": [
+    "Investere i finansielle instrumenter som inter alia, aksjer og",
+    "obligasjoner, og annet som naturlig faller sammen med dette."
+  ],
+  "aktivitet": [
+    "Investeringer i finansielle instrumenter og annet som naturlig",
+    "sammenfaller med dette."
+  ],
+  "registreringsdatoForetaksregisteret": "2016-10-04",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2016-10-04",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2016-10-04"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917825491"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

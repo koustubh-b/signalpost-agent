@@ -1,0 +1,65 @@
+{
+  "organisasjonsnummer": "999024467",
+  "navn": "1099 MANAGEMENT DA",
+  "organisasjonsform": {
+    "kode": "DA",
+    "beskrivelse": "Ansvarlig selskap med delt ansvar",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/DA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.1099band.com",
+  "registreringsdatoEnhetsregisteret": "2012-10-18",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "59.200",
+    "beskrivelse": "Produksjon og utgivelse av musikk- og lydopptak"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "post@1099band.com",
+  "mobil": "922 00 829",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "7052",
+    "poststed": "TRONDHEIM",
+    "adresse": [
+      "Jonsvannsveien 23"
+    ],
+    "kommune": "TRONDHEIM",
+    "kommunenummer": "5001"
+  },
+  "stiftelsesdato": "2012-10-01",
+  "institusjonellSektorkode": {
+    "kode": "2300",
+    "beskrivelse": "Personlige foretak"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2017-11-29",
+  "vedtektsfestetFormaal": [
+    "Kjøp og salg av utstyr, samt kostnader og inntekter forbundet med",
+    "utgivelser relatert til musikkgruppen 1099."
+  ],
+  "aktivitet": [
+    "Kultur: utgivelser musikk, innkjøp og salg av musikk og studioutstyr."
+  ],
+  "registreringsdatoForetaksregisteret": "2012-10-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/999024467"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

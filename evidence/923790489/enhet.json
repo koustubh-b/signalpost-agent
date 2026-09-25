@@ -1,0 +1,72 @@
+{
+  "organisasjonsnummer": "923790489",
+  "navn": "1975 HOLDING AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-11-08",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.390",
+    "beskrivelse": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "7015",
+    "poststed": "TRONDHEIM",
+    "adresse": [
+      "Henrik Mathiesens vei 13A"
+    ],
+    "kommune": "TRONDHEIM",
+    "kommunenummer": "5001"
+  },
+  "stiftelsesdato": "2019-10-18",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2019-10-18",
+  "vedtektsfestetFormaal": [
+    "Event, arrangement, konserter, festivaler, teater, trening, reise."
+  ],
+  "aktivitet": [
+    "Holdingselskap for event, arrangement, konserter, festivaler, teater,",
+    "trening, reise."
+  ],
+  "registreringsdatoForetaksregisteret": "2019-11-08",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2019-11-08",
+  "fravalgRevisjonBeslutningsDato": "2019-10-18",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 2000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2019-11-08"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923790489"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

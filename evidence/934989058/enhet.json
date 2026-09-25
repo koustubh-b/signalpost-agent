@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "934989058",
+  "navn": "1X TECHNOLOGIES INC",
+  "organisasjonsform": {
+    "kode": "UTLA",
+    "beskrivelse": "Utenlandsk enhet",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-02-06",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "USA",
+    "landkode": "US",
+    "poststed": "CA 94089, SUNNYVALE",
+    "adresse": [
+      "1233 Reamwood Ave"
+    ]
+  },
+  "stiftelsesdato": "2019-03-04",
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Utenlandsk enhet/foretak."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "registreringsnummerIHjemlandet": "7307290 8300",
+  "foretaksformIHjemlandet": {
+    "kode": "INC",
+    "beskrivelse": "Incorporation",
+    "beskrivelseBokmaal": "Aksjeselskap"
+  },
+  "utenlandskRegisterNavn": "Secretary of State for the State of Delaware",
+  "utenlandskRegisterAdresse": {
+    "land": "USA",
+    "poststed": "Dover Delaware 19903",
+    "adresse": [
+      "P.O. Box 898"
+    ]
+  },
+  "underlagtLovgivningLand": "USA",
+  "underlagtLovgivningLandKode": "US",
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934989058"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

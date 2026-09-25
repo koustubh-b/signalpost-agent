@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Pål Henrik Wagner",
+    "birth_year": "1970-09-18"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Pål Henrik Wagner",
+    "birth_year": "1970-09-18"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Inger-Lise Neslein",
+    "birth_year": "1957-05-16"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Johan Christian Saarem",
+    "birth_year": "1981-01-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Grethe Lundgaard",
+    "birth_year": "2001-12-31"
+  }
+]

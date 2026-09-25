@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Magnus Helmer Hansen",
+    "birth_year": "1984-01-25"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Naomi Rowlands",
+    "birth_year": "2001-05-03"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Mari Nilsen",
+    "birth_year": "2001-09-17"
+  }
+]

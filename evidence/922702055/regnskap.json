@@ -1,0 +1,66 @@
+{
+  "id": 2880797,
+  "journalnr": "2021890014",
+  "regnskapstype": "SELSKAP",
+  "virksomhet": {
+    "organisasjonsnummer": "922702055",
+    "organisasjonsform": "ENK",
+    "morselskap": false
+  },
+  "regnskapsperiode": {
+    "fraDato": "2020-01-01",
+    "tilDato": "2020-12-31"
+  },
+  "valuta": "NOK",
+  "avviklingsregnskap": false,
+  "oppstillingsplan": "store",
+  "revisjon": {
+    "ikkeRevidertAarsregnskap": false,
+    "fravalgRevisjon": false
+  },
+  "regnkapsprinsipper": {
+    "smaaForetak": true,
+    "regnskapsregler": "regnskapslovenAlminneligRegler"
+  },
+  "egenkapitalGjeld": {
+    "sumEgenkapitalGjeld": 0.0,
+    "egenkapital": {
+      "sumEgenkapital": 0.0,
+      "opptjentEgenkapital": {},
+      "innskuttEgenkapital": {}
+    },
+    "gjeldOversikt": {
+      "sumGjeld": 0.0,
+      "kortsiktigGjeld": {},
+      "langsiktigGjeld": {
+        "sumLangsiktigGjeld": 0.0
+      }
+    }
+  },
+  "eiendeler": {
+    "sumEiendeler": 0.0,
+    "omloepsmidler": {
+      "sumOmloepsmidler": 0.0
+    },
+    "anleggsmidler": {
+      "sumAnleggsmidler": 0.0
+    }
+  },
+  "resultatregnskapResultat": {
+    "ordinaertResultatFoerSkattekostnad": 187108.0,
+    "aarsresultat": 187108.0,
+    "finansresultat": {
+      "finansinntekt": {},
+      "finanskostnad": {}
+    },
+    "driftsresultat": {
+      "driftsresultat": 187108.0,
+      "driftsinntekter": {
+        "sumDriftsinntekter": 406708.0
+      },
+      "driftskostnad": {
+        "sumDriftskostnad": 219600.0
+      }
+    }
+  }
+}

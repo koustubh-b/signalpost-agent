@@ -1,0 +1,69 @@
+{
+  "organisasjonsnummer": "932803747",
+  "navn": "@ ALEXANDER JOSEPH JOHANSEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0319",
+    "poststed": "OSLO",
+    "adresse": [
+      "Postboks 108  vinderen"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "registreringsdatoEnhetsregisteret": "2024-01-11",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "47.400",
+    "beskrivelse": "Detaljhandel med informasjons- og kommunikasjonsteknologiutstyr"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2024-03-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-03-02",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0784",
+    "poststed": "OSLO",
+    "adresse": [
+      "Holmenkollveien 78G"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Kjøp og salg av elektronikkvarer på nett."
+  ],
+  "registreringsdatoForetaksregisteret": "2024-01-11",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/932803747"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

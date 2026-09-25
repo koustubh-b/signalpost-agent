@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Jon Petter Andersen",
+    "birth_year": "1975-11-15"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Steinar Mikkel Øby-Trulsen",
+    "birth_year": "1963-08-12"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Roger Bellmann",
+    "birth_year": "1968-06-03"
+  }
+]

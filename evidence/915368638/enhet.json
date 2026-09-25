@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "915368638",
+  "navn": "12 SESONGER - ASTRUP KVÆRNER",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2015-05-11",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "79.121",
+    "beskrivelse": "Aktiviteter utført av utflukts- og eventarrangører"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "977 42 292",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1455",
+    "poststed": "NORDRE FROGN",
+    "adresse": [
+      "Glenneveien 266"
+    ],
+    "kommune": "FROGN",
+    "kommunenummer": "3214"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "12 Sesonger vil tilby spesielt tilrettelagte turer og aktivitetstilbud",
+    "på oppdrag for private, kommunale og statlige institusjoner. Det vil",
+    "være et lavterskeltilbud som tilpasses den enkeltes problematikk, med",
+    "fokus på aktivt friluftsliv og mestring året rundt."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/915368638"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

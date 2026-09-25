@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Marianne Ulsund",
+    "birth_year": "1983-01-05"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Eirin Kjeåsen",
+    "birth_year": "1983-07-07"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Silje Johansen",
+    "birth_year": "1985-03-05"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Aksel Kirkeby-Garstad",
+    "birth_year": "1967-07-16"
+  }
+]

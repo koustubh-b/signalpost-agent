@@ -1,0 +1,73 @@
+{
+  "organisasjonsnummer": "919993847",
+  "navn": "1814 UTVIKLING AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2017-11-29",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "68.120",
+    "beskrivelse": "Utvikling og salg av byggeprosjekter"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5015",
+    "poststed": "BERGEN",
+    "adresse": [
+      "Christies gate 14"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "stiftelsesdato": "2017-11-01",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2023-01-19",
+  "vedtektsfestetFormaal": [
+    "Kjøp, salg, drift og utvikling av eiendommer, samt annen virksomhet",
+    "som naturlig faller sammen med det. Handelsvirksomhet og",
+    "investeringsvirksomhet."
+  ],
+  "aktivitet": [
+    "Kjøp, salg, drift og utvikling av eiendommer, samt handels- og",
+    "investeringsvirksomhet."
+  ],
+  "registreringsdatoForetaksregisteret": "2017-11-29",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2017-11-29",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 1100000.0,
+    "antallAksjer": 10000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2023-03-21"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919993847"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

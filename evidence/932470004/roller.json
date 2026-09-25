@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Frank Eilertsen",
+    "birth_year": "1976-09-23"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ken Arne Skaugerud",
+    "birth_year": "1976-07-30"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "John Erik Eriksen",
+    "birth_year": "1965-03-01"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Siv Kathrine Torgersen",
+    "birth_year": "1981-11-30"
+  }
+]

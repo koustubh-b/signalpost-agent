@@ -1,0 +1,81 @@
+{
+  "organisasjonsnummer": "833431862",
+  "navn": "10M LIGHT SOLUTIONS AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2024-05-10",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "74.110",
+    "beskrivelse": "Industri-, produkt- og motedesignvirksomhet"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2025-07-14",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-07-14",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2025-12-11",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2025-12-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5097",
+    "poststed": "BERGEN",
+    "adresse": [
+      "Strimmelen 3"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "stiftelsesdato": "2024-04-11",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2024-04-11",
+  "vedtektsfestetFormaal": [
+    "Selge varer og tjenester innen elektrikerarbeid og lysdesign, og",
+    "annet som naturlig sammenfaller med dette, samt deltakelse i andre",
+    "selskaper, investeringer og nærliggende virksomhet."
+  ],
+  "aktivitet": [
+    "Industridesign, produktdesign og annen teknisk design.",
+    "Ingeniør- og prosjektledertjenester innen byggeprosjekter.",
+    "Ingeniørtjenester.",
+    "Elektrikertjenester.",
+    "Ingeniør- og prosjektledertjenester innen byggeprosjekter."
+  ],
+  "registreringsdatoForetaksregisteret": "2024-05-10",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2024-05-10",
+  "fravalgRevisjonBeslutningsDato": "2024-04-11",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2024-05-10"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/833431862"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

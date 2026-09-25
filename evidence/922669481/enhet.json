@@ -1,0 +1,48 @@
+{
+  "organisasjonsnummer": "922669481",
+  "navn": "1CONZEPT",
+  "organisasjonsform": {
+    "kode": "NUF",
+    "beskrivelse": "Norskregistrert utenlandsk foretak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-06-20",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "46.490",
+    "beskrivelse": "Engroshandel med andre husholdningsvarer"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Danmark",
+    "landkode": "DK",
+    "poststed": "DK-7120 VELJE Ø",
+    "adresse": [
+      "Højderyggen 17"
+    ]
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Engrohandel med bøker, papir og papirvarer."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922669481"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

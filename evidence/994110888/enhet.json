@@ -1,0 +1,71 @@
+{
+  "organisasjonsnummer": "994110888",
+  "navn": "2. STAVANGER SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4019",
+    "poststed": "STAVANGER",
+    "adresse": [
+      "c/o Annette Gillebo",
+      "Nilsebuveien 35"
+    ],
+    "kommune": "STAVANGER",
+    "kommunenummer": "1103"
+  },
+  "registreringsdatoEnhetsregisteret": "2009-11-14",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4021",
+    "poststed": "STAVANGER",
+    "adresse": [
+      "Mosvangen 13"
+    ],
+    "kommune": "STAVANGER",
+    "kommunenummer": "1103"
+  },
+  "stiftelsesdato": "1911-03-22",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Enhetens formål er å gi barn og ungdom ett fritidsalternativ der de",
+    "kan lære om samfunnet vi lever i. Medlemmene lærer om ledelse og",
+    "vennskap. Friluftsliv står sentralt i organissasjonen."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2009-11-14",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994110888"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

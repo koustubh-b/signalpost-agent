@@ -1,0 +1,68 @@
+{
+  "organisasjonsnummer": "983381359",
+  "navn": "2 YOU REKLAMEBYRÅ DA",
+  "organisasjonsform": {
+    "kode": "DA",
+    "beskrivelse": "Ansvarlig selskap med delt ansvar",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/DA"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "2 YOU REKLAMEBYRÅ DA",
+      "fraDato": "2001-05-22 11:17:15",
+      "tilDato": "2001-06-07 20:57:16"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2001-05-22",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "73.110",
+    "beskrivelse": "Reklamebyråvirksomhet"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "telefon": "23 38 29 77",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1166",
+    "poststed": "OSLO",
+    "adresse": [
+      "Ekebergveien 256 C"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2001-03-31",
+  "institusjonellSektorkode": {
+    "kode": "2300",
+    "beskrivelse": "Personlige foretak"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2001-03-31",
+  "vedtektsfestetFormaal": [
+    "Salg av egenprodusert reklame til kunder."
+  ],
+  "aktivitet": [
+    "Reklamebyråvirksomhet og det som naturlig hører til dette."
+  ],
+  "registreringsdatoForetaksregisteret": "2001-06-07",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/983381359"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

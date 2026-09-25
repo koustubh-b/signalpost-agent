@@ -1,0 +1,72 @@
+{
+  "organisasjonsnummer": "916914776",
+  "navn": "17. MAI-KOMITEEN HJØRUNGAVÅG",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6063",
+    "poststed": "HJØRUNGAVÅG",
+    "adresse": [
+      "c/o Marte Hjørungdal",
+      "Liavegen 178B"
+    ],
+    "kommune": "HAREID",
+    "kommunenummer": "1517"
+  },
+  "registreringsdatoEnhetsregisteret": "2018-04-16",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "yvonne.ovrelid.breivik@mrfylke.no",
+  "mobil": "908 94 230",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6063",
+    "poststed": "HJØRUNGAVÅG",
+    "adresse": [
+      "Pilskogvegen 31"
+    ],
+    "kommune": "HAREID",
+    "kommunenummer": "1517"
+  },
+  "stiftelsesdato": "2017-12-31",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "aktivitet": [
+    "Ansvarleg for at det kvart år vert organisert og koordinert ei",
+    "gjennomføring av nasjonaldagsfeiring i bygda vår, Hjørungavåg."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2018-04-16",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916914776"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

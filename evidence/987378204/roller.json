@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Cecilie Hanseth",
+    "birth_year": "1984-06-12"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Cecilie Hanseth",
+    "birth_year": "1984-06-12"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Helge Hatlestad",
+    "birth_year": "1988-03-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Daniel Rosvold",
+    "birth_year": "1992-11-18"
+  }
+]

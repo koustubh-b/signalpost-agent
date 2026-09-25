@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Fredrik Hansen",
+    "birth_year": "1984-03-15"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Fredrik Hansen",
+    "birth_year": "1984-03-15"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "914954010",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "879906792",
+    "birth_year": null
+  }
+]

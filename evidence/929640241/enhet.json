@@ -1,0 +1,84 @@
+{
+  "organisasjonsnummer": "929640241",
+  "navn": "120PLUS AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "GMI HODLING AS",
+      "fraDato": "2022-08-16 11:26:19",
+      "tilDato": "2025-05-13 13:16:05"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2022-08-16",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "86.992",
+    "beskrivelse": "Forebyggende helsearbeid"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "christian@berg-jensen.no",
+  "mobil": "932 88 834",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1390",
+    "poststed": "VOLLEN",
+    "adresse": [
+      "Gislehellinga 7"
+    ],
+    "kommune": "ASKER",
+    "kommunenummer": "3203"
+  },
+  "stiftelsesdato": "2022-06-18",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2025-11-11",
+  "vedtektsfestetFormaal": [
+    "Drive virksomhet innen helse, kosthold, optimalisering av lang levetid",
+    "og relaterte produkter og tjenester, samt forlagsvirksomhet,",
+    "publisering og produksjon av bøker, digitale produkter og annet",
+    "innhold, og virksomhet som naturlig faller sammen med dette."
+  ],
+  "aktivitet": [
+    "Drive virksomhet innen helse, kosthold, optimalisering av lang",
+    "levetid, og relaterte produkter og tjenester, samt virksomhet som",
+    "naturlig faller sammen med dette."
+  ],
+  "registreringsdatoForetaksregisteret": "2022-08-16",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2022-08-16",
+  "fravalgRevisjonBeslutningsDato": "2022-06-18",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2022-08-16"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929640241"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

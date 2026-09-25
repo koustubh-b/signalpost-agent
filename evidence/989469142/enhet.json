@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "989469142",
+  "navn": "1 SANDNES SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4314",
+    "poststed": "SANDNES",
+    "adresse": [
+      "c/o Marianne Hov",
+      "Furuveien 28"
+    ],
+    "kommune": "SANDNES",
+    "kommunenummer": "1108"
+  },
+  "registreringsdatoEnhetsregisteret": "2006-02-21",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "1sandnesinfo@gmail.com",
+  "stiftelsesdato": "1914-11-14",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speidergruppe."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2015-09-16",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/989469142"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

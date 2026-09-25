@@ -1,0 +1,75 @@
+{
+  "organisasjonsnummer": "993877379",
+  "navn": "2-RAYZ SYNDICATE TOURAY",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "MOMODOU LAMIN TOURAY",
+      "fraDato": "2009-03-21 14:49:47",
+      "tilDato": "2013-02-21 20:16:44"
+    },
+    {
+      "navn": "2-RAYZ SYNDICATE TOURAY",
+      "fraDato": "2013-02-21 20:16:44",
+      "tilDato": "2013-03-07 20:27:37"
+    }
+  ],
+  "hjemmeside": "www.2-rayz.com",
+  "registreringsdatoEnhetsregisteret": "2009-03-21",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "59.110",
+    "beskrivelse": "Produksjon av film, video og fjernsynsprogrammer"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "2rayzonline@gmail.com",
+  "telefon": "21 39 82 35",
+  "mobil": "471 65 455",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1283",
+    "poststed": "OSLO",
+    "adresse": [
+      "Jordstjerneveien 38E"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Film- og TV-produksjon. Eventbooking og ledelse. Reality TV-show.",
+    "Manus. Programleder for TV og Radio. Markedsføring, konseptutvikling.",
+    "Kunst og kulturelle aktiviteter, talentcoach, ungdomsutvikling og",
+    "karriere. Coach og bedriftsrådgivning og an. Transport av varer og",
+    "tjenester fra Gambia og Senegal til Norge og omvendt."
+  ],
+  "registreringsdatoForetaksregisteret": "2013-03-07",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/993877379"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

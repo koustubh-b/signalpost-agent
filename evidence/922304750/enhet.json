@@ -1,0 +1,67 @@
+{
+  "organisasjonsnummer": "922304750",
+  "navn": "10ENDE A. KIRYK",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "PROPER MEDICAL WRITING AVD.NORGE AGNIESZKA KIRYK",
+      "fraDato": "2019-02-28 12:10:59",
+      "tilDato": "2019-03-11 17:03:22"
+    },
+    {
+      "navn": "REGULATORY WRITER A. KIRYK",
+      "fraDato": "2019-03-11 17:03:22",
+      "tilDato": "2023-02-08 16:21:47"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2019-02-28",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "74.990",
+    "beskrivelse": "All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "agnes.kiryk@gmail.com",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3739",
+    "poststed": "SKIEN",
+    "adresse": [
+      "Flakvarplia 43"
+    ],
+    "kommune": "SKIEN",
+    "kommunenummer": "4003"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Konsulenttjenester innen bilvask bransje."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922304750"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

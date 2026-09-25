@@ -1,0 +1,65 @@
+{
+  "organisasjonsnummer": "930263672",
+  "navn": "2020 BULKERS LTD.",
+  "organisasjonsform": {
+    "kode": "UTLA",
+    "beskrivelse": "Utenlandsk enhet",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2022-11-18",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "telefon": "+14415429329",
+  "forretningsadresse": {
+    "land": "Bermuda",
+    "landkode": "BM",
+    "poststed": "HAMILTON HM 11",
+    "adresse": [
+      "S.E. Pearman Bldg., 2nd Floor,",
+      "9 Par-la-Ville Road"
+    ]
+  },
+  "stiftelsesdato": "2017-09-26",
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2018-11-13",
+  "vedtektsfestetFormaal": [
+    "Utenlandsk foretak"
+  ],
+  "aktivitet": [
+    "Utenlandsk enhet/foretak"
+  ],
+  "registreringsdatoForetaksregisteret": "2022-11-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "registreringsnummerIHjemlandet": "52905",
+  "foretaksformIHjemlandet": {
+    "kode": "LTD",
+    "beskrivelse": "Limited",
+    "beskrivelseBokmaal": "Aksjeselskap"
+  },
+  "utenlandskRegisterNavn": "Registrar of Companies",
+  "utenlandskRegisterAdresse": {
+    "land": "Bermuda",
+    "adresse": []
+  },
+  "underlagtLovgivningLand": "Bermuda",
+  "underlagtLovgivningLandKode": "BM",
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930263672"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "919628286",
+  "navn": "2011-KULLET VED BEGBY SKOLE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2017-09-26",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1654",
+    "poststed": "SELLEBAKK",
+    "adresse": [
+      "c/o Naomi Høiom",
+      "Munins vei 11"
+    ],
+    "kommune": "FREDRIKSTAD",
+    "kommunenummer": "3107"
+  },
+  "stiftelsesdato": "2017-09-14",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Formålet med foreningen er å samle inn penger til sosiale aktiviteter",
+    "for 2011-kullet ved Begby skole. I hovedsak dreier det seg om å samle",
+    "inn penger slik at 2011-kullet kan dra på leirskole."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919628286"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

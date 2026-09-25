@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Jonas Fredrik Roland Andersson",
+    "birth_year": "1978-04-12"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Jonas Fredrik Roland Andersson",
+    "birth_year": "1978-04-12"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Oskar Garnes",
+    "birth_year": "1976-01-19"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Stig Jørgen Wikan",
+    "birth_year": "1971-06-17"
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "organisasjonsnummer": "934230191",
+  "navn": "&STRATEGE AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2024-10-08",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "70.200",
+    "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2024-10-20",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-11-04",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-01-13",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-01-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5005",
+    "poststed": "BERGEN",
+    "adresse": [
+      "Klostergaten 1"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "stiftelsesdato": "2024-09-13",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2024-09-13",
+  "vedtektsfestetFormaal": [
+    "Undervisning og rådgivning."
+  ],
+  "aktivitet": [
+    "Strategiutvikling og foredrag/forelesninger for offentlig og privat",
+    "virksomhet. Rådgivning. Forelesning."
+  ],
+  "registreringsdatoForetaksregisteret": "2024-10-08",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2024-10-08",
+  "fravalgRevisjonBeslutningsDato": "2024-09-13",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2024-10-08"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934230191"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

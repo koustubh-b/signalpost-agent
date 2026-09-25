@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Knut Peter Clausen",
+    "birth_year": "1971-08-12"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Knut Peter Clausen",
+    "birth_year": "1971-08-12"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kyrre Clausen",
+    "birth_year": "1973-04-04"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Elisabeth Nylenna",
+    "birth_year": "1975-04-07"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ellen Karina Syberg",
+    "birth_year": "1974-10-29"
+  }
+]

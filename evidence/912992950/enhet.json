@@ -1,0 +1,74 @@
+{
+  "organisasjonsnummer": "912992950",
+  "navn": "1.ST.GEORGS GILDE I MOLDE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6415",
+    "poststed": "MOLDE",
+    "adresse": [
+      "c/o Ann Mary Mittet Vidnes",
+      "Fuglsetvegen 16B"
+    ],
+    "kommune": "MOLDE",
+    "kommunenummer": "1506"
+  },
+  "registreringsdatoEnhetsregisteret": "2013-12-21",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "maja.mv@hotmail.com",
+  "mobil": "416 43 079",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6415",
+    "poststed": "MOLDE",
+    "adresse": [
+      "Speidernes Hus i Molde",
+      "Fjellbruvegen 17"
+    ],
+    "kommune": "MOLDE",
+    "kommunenummer": "1506"
+  },
+  "stiftelsesdato": "1962-05-11",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "St. Georgs Gildene er en sammenslutning av voksne speidere. Formålet,",
+    "i tillegg til egenutvikling, er å støtte speiderarbeidet for barn og",
+    "unge. Medlemsmøter, dugnader på Speidernes hus i Molde, samarbeid om",
+    "drift av årlig Speidermesse."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912992950"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

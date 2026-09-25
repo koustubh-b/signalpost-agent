@@ -1,0 +1,77 @@
+{
+  "organisasjonsnummer": "989061593",
+  "navn": "-G- GROUP AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2006-01-23",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "62.200",
+    "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer"
+  },
+  "hjelpeenhetskode": {
+    "kode": "70.100",
+    "beskrivelse": "Hovedkontortjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0671",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Gjørva",
+      "Hellerud gårdsvei 5B"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2005-10-01",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2011-08-26",
+  "vedtektsfestetFormaal": [
+    "Investeringer, eiendom, konsulentvirksomhet og rådgivning innenfor",
+    "finansielle områder samt forretningsutvikling."
+  ],
+  "aktivitet": [
+    "Investeringer, eiendom, konsulentvirksomhet og rådgivning innenfor",
+    "finansielle områder samt forretningsutvikling."
+  ],
+  "registreringsdatoForetaksregisteret": "2006-01-23",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2017-10-21",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 108000.0,
+    "antallAksjer": 4800,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2012-02-15"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/989061593"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

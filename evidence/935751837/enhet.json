@@ -1,0 +1,88 @@
+{
+  "organisasjonsnummer": "935751837",
+  "navn": "1 ØRE AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0611",
+    "poststed": "OSLO",
+    "adresse": [
+      "Postboks 181 Bryn"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "registreringsdatoEnhetsregisteret": "2025-06-25",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "47.790",
+    "beskrivelse": "Detaljhandel med brukte varer"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2025-09-22",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-09-22",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0667",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Osnordic AS",
+      "Brynsveien 3"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2025-06-07",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2025-06-07",
+  "vedtektsfestetFormaal": [
+    "Drift av internettbasert markedsplass for markedsføring og omsetning",
+    "av brukte og nye varer og tjenester, samt investering i eiendom,",
+    "verdipapirer eller andre selskaper med gjerne samme eller lignende",
+    "formål."
+  ],
+  "aktivitet": [
+    "Netthandel med antikviteter."
+  ],
+  "registreringsdatoForetaksregisteret": "2025-06-25",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2025-06-25",
+  "fravalgRevisjonBeslutningsDato": "2025-06-07",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 120000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2025-06-25"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935751837"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

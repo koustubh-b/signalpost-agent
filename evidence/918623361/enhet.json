@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "918623361",
+  "navn": "1.MOSS ST. GEORGS GILDE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2017-03-17",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1532",
+    "poststed": "MOSS",
+    "adresse": [
+      "c/o Helge Sagen",
+      "Richard Olsens vei 10"
+    ],
+    "kommune": "MOSS",
+    "kommunenummer": "3103"
+  },
+  "stiftelsesdato": "1953-03-02",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speider aktiviteter for seniorer."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2017-03-17",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/918623361"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

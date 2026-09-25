@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "911968924",
+  "navn": "17. MAI KOMITÈEN I TJØRVÅG",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2014-08-28",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "79.121",
+    "beskrivelse": "Aktiviteter utført av utflukts- og eventarrangører"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "janne.hestad@bdo.no",
+  "mobil": "954 81 580",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6070",
+    "poststed": "TJØRVÅG",
+    "adresse": [
+      "Prestemyrane 1"
+    ],
+    "kommune": "HERØY",
+    "kommunenummer": "1515"
+  },
+  "stiftelsesdato": "2014-05-07",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Selskapets formål er å arrangere 17. mai i Tjørvågbygda."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/911968924"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

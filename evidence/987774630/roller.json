@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Therese Ulvo",
+    "birth_year": "1982-11-24"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Klaus Sandvik",
+    "birth_year": "1966-03-06"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jørgen Karlstrøm",
+    "birth_year": "1981-12-23"
+  }
+]

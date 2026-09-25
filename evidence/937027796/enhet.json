@@ -1,0 +1,74 @@
+{
+  "organisasjonsnummer": "937027796",
+  "navn": "2.ETG AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2026-01-23",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "56.300",
+    "beskrivelse": "Drift av barer"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2026-04-17",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-04-18",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4200",
+    "poststed": "SAUDA",
+    "adresse": [
+      "Rådhusgata 22"
+    ],
+    "kommune": "SAUDA",
+    "kommunenummer": "1135"
+  },
+  "stiftelsesdato": "2026-01-13",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2026-01-13",
+  "vedtektsfestetFormaal": [
+    "Selge varer og tjenester innen pubdrift og annet som naturlig",
+    "sammenfaller med dette, samt deltakelse i andre selskaper,",
+    "investeringer og nærliggende virksomhet."
+  ],
+  "aktivitet": [
+    "Drift av pub."
+  ],
+  "registreringsdatoForetaksregisteret": "2026-01-23",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2026-01-23",
+  "fravalgRevisjonBeslutningsDato": "2026-01-13",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2026-01-23"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937027796"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

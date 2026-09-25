@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Kjetil Hunshammer",
+    "birth_year": "1994-03-10"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Thomas Klingenberg",
+    "birth_year": "1990-02-12"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kjetil Hunshammer",
+    "birth_year": "1994-03-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jan Stian Smedegård",
+    "birth_year": "1985-01-30"
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "915156975",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "983338917",
+    "birth_year": null
+  }
+]

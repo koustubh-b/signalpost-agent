@@ -1,0 +1,71 @@
+{
+  "organisasjonsnummer": "912181057",
+  "navn": "0275.CE-NO ARBEIDERFORENING",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3001",
+    "poststed": "DRAMMEN",
+    "adresse": [
+      "Postboks 1071 Bragernes"
+    ],
+    "kommune": "DRAMMEN",
+    "kommunenummer": "3301"
+  },
+  "registreringsdatoEnhetsregisteret": "2013-10-17",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3427",
+    "poststed": "GULLAUG",
+    "adresse": [
+      "Røykenveien 54"
+    ],
+    "kommune": "LIER",
+    "kommunenummer": "3312"
+  },
+  "stiftelsesdato": "1915-12-31",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Organisere alle innenfor forbundets virkeområde på",
+    "arbeidsplassen/bedriften. Ivareta og fremme medlemmenes økonomiske,",
+    "miljømessige, faglige, sosiale og kulturelle interesser. Virke for",
+    "samhold og et godt og tillitsfullt forhold på de enkelte",
+    "arbeidsplasser. Føre forhandlinger på vegne av medlemmene."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912181057"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

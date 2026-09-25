@@ -1,0 +1,72 @@
+{
+  "organisasjonsnummer": "912716457",
+  "navn": "2 PLAY AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2013-11-11",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "47.640",
+    "beskrivelse": "Detaljhandel med spill og leker"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0484",
+    "poststed": "OSLO",
+    "adresse": [
+      "Nydalsveien 20A"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2013-10-01",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2022",
+  "konkurs": true,
+  "konkursdato": "2024-06-12",
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2015-12-31",
+  "vedtektsfestetFormaal": [
+    "Handelsvirksomhet med detaljhandel av barne-og lekeutstyr og hva som",
+    "dermed står i forbindelse med dette."
+  ],
+  "aktivitet": [
+    "Handelsvirksomhet med detaljhandel av barne-og lekeutstyr og hva som",
+    "dermed står i forbindelse med dette."
+  ],
+  "registreringsdatoForetaksregisteret": "2013-11-11",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 150000.0,
+    "antallAksjer": 1500,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2016-07-27"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912716457"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,60 @@
+{
+  "organisasjonsnummer": "935733626",
+  "navn": "1346.NO KARLSEN RÅDGIVNING",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-06-25",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "62.200",
+    "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2025-07-28",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2025-07-28",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1346",
+    "poststed": "GJETTUM",
+    "adresse": [
+      "Dønskitoppen 16M"
+    ],
+    "kommune": "BÆRUM",
+    "kommunenummer": "3201"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Konsulenttjenester innen IT. Budtjenester. Salg og produksjon av",
+    "profilartikler, firmagaver, klær med trykk og folieringstjenester til",
+    "bedrifter. Grafisk design, reklameproduksjon og annen virksomhet som",
+    "naturlig hører sammen med dette."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935733626"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

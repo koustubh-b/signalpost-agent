@@ -1,0 +1,77 @@
+{
+  "organisasjonsnummer": "911797992",
+  "navn": "2013 CONSULTING AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2013-04-10",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "62.200",
+    "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2013-05-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2013-05-27",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2013-05-16",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2013-04-15",
+  "mobil": "905 24 894",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1177",
+    "poststed": "OSLO",
+    "adresse": [
+      "Holtveien 9B"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2013-02-27",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2013-02-27",
+  "vedtektsfestetFormaal": [
+    "Konsulenttjenester innenfor IT og prosjektledelse, samt investeringer",
+    "i andre selskaper."
+  ],
+  "aktivitet": [
+    "Konsulenttjenester innenfor IT og prosjektledelse, samt investeringer",
+    "i andre selskaper."
+  ],
+  "registreringsdatoForetaksregisteret": "2013-04-10",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2013-04-10",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2013-04-10"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/911797992"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

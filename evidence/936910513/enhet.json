@@ -1,0 +1,55 @@
+{
+  "organisasjonsnummer": "936910513",
+  "navn": "1-2-3-4 SKOGLY PEDERSEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2026-01-06",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.112",
+    "beskrivelse": "Skapende kunstnerisk virksomhet innenfor komposisjon av musikk"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1488",
+    "poststed": "HAKADAL",
+    "adresse": [
+      "Varingveien 3"
+    ],
+    "kommune": "NITTEDAL",
+    "kommunenummer": "3232"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Komponist."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936910513"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

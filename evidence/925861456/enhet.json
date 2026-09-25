@@ -1,0 +1,49 @@
+{
+  "organisasjonsnummer": "925861456",
+  "navn": "2 B ELETTRONICA S.R.L.",
+  "organisasjonsform": {
+    "kode": "NUF",
+    "beskrivelse": "Norskregistrert utenlandsk foretak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2021-02-20",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "33.120",
+    "beskrivelse": "Reparasjon og vedlikehold av maskiner"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Italia",
+    "landkode": "IT",
+    "poststed": "IT-10090 BUTTIGLIERA ALTA (TO)",
+    "adresse": [
+      "2/d Via Della Praia"
+    ]
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Reparasjon av maskiner, engros landbruksmaskiner, utstyr og",
+    "forsyninger."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925861456"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

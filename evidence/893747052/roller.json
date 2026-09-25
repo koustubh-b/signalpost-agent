@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Jon Øyvind Nordberg",
+    "birth_year": "1946-01-27"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Jon Øyvind Nordberg",
+    "birth_year": "1946-01-27"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Steinar Edsbergløkken",
+    "birth_year": "1944-03-25"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Elisabeth Valla",
+    "birth_year": "1964-11-11"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Magne Hovden",
+    "birth_year": "1978-04-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Lidun Ovesen",
+    "birth_year": "1979-06-15"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Karl Andreas Karlsen",
+    "birth_year": "1978-05-06"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Morten Torgersen",
+    "birth_year": "1981-04-19"
+  }
+]

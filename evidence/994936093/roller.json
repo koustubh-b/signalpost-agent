@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Stian Gundersen",
+    "birth_year": "1977-05-23"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Øyvind Bangsund",
+    "birth_year": "1977-12-27"
+  },
+  {
+    "title": "Varamedlem",
+    "group": "Styre",
+    "name": "Henning Torgersen",
+    "birth_year": "1976-09-10"
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "934560892",
+    "birth_year": null
+  }
+]

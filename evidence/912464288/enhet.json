@@ -1,0 +1,81 @@
+{
+  "organisasjonsnummer": "912464288",
+  "navn": "15D INVEST AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "M.J.MIKALSEN AS",
+      "fraDato": "2013-09-18 20:40:47",
+      "tilDato": "2021-08-12 14:28:51"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2013-09-18",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "00.000",
+    "beskrivelse": "Uoppgitt"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "9602",
+    "poststed": "HAMMERFEST",
+    "adresse": [
+      "c/o Kjartan Mikalsen",
+      "Uranusveien 15D"
+    ],
+    "kommune": "HAMMERFEST",
+    "kommunenummer": "5603"
+  },
+  "stiftelsesdato": "2013-08-22",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2021-07-13",
+  "vedtektsfestetFormaal": [
+    "Investere i selskaper og eiendom og alt annet som naturlig faller",
+    "sammen med dette, herunder å delta i andre selskaper med lignende",
+    "virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg",
+    "interessert i andre foretagende og annet som naturlig faller sammen",
+    "med dette."
+  ],
+  "aktivitet": [
+    "Investeringer og eierskap i andre selskaper."
+  ],
+  "registreringsdatoForetaksregisteret": "2013-09-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2013-09-18",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 1,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2013-09-18"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912464288"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "921791453",
+  "navn": "0936245 B.C. LTD",
+  "organisasjonsform": {
+    "kode": "NUF",
+    "beskrivelse": "Norskregistrert utenlandsk foretak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1446",
+    "poststed": "DRØBAK",
+    "adresse": [
+      "c/o EIC Oil & Gas AS",
+      "Askveien 2"
+    ],
+    "kommune": "FROGN",
+    "kommunenummer": "3214"
+  },
+  "registreringsdatoEnhetsregisteret": "2018-12-04",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "09.109",
+    "beskrivelse": "Andre tjenester tilknyttet utvinning av råolje og naturgass"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "erik@eicgruppen.no",
+  "forretningsadresse": {
+    "land": "Canada",
+    "landkode": "CA",
+    "poststed": "ANMORE B.C. V3H 5B4",
+    "adresse": [
+      "126 Blackberry Drive"
+    ]
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "skaffe ingeniører til olje- og gassprosjekter."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/921791453"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

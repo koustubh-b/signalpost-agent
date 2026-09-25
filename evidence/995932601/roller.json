@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Jan Kåre Fjeld",
+    "birth_year": "1957-07-31"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Jan Kåre Fjeld",
+    "birth_year": "1957-07-31"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Bente Klausen",
+    "birth_year": "1952-12-08"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Alexander Hermansen",
+    "birth_year": "1977-11-21"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Dag Bernhard Solheim",
+    "birth_year": "1958-09-13"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Svein Veland",
+    "birth_year": "1952-12-19"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Mona Andersen",
+    "birth_year": "1963-07-24"
+  }
+]

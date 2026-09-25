@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "983141706",
+  "navn": "0404 GRUE TRAVKLUBB",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2266",
+    "poststed": "ARNEBERG",
+    "adresse": [
+      "Grue Travklubb",
+      "c/o Sandra Håbakk",
+      "Skjærigutua 97"
+    ],
+    "kommune": "ÅSNES",
+    "kommunenummer": "3418"
+  },
+  "registreringsdatoEnhetsregisteret": "2001-06-14",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "93.120",
+    "beskrivelse": "Aktiviteter i idrettslag og -klubber"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "stiftelsesdato": "1916-02-03",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Lokal travklubb."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2009-04-06",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/983141706"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

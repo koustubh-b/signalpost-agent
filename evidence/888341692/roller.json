@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Kjetil Wigdel",
+    "birth_year": "1967-01-28"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Erik Johannesen",
+    "birth_year": "1966-04-21"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Erik Ødeli",
+    "birth_year": "1965-05-26"
+  }
+]

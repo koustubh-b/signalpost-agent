@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Tage Lien",
+    "birth_year": "1960-01-06"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Tom Hartz",
+    "birth_year": "1965-06-16"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Eli Michaelsen",
+    "birth_year": "1966-08-07"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kine Olsen",
+    "birth_year": "1987-03-06"
+  }
+]

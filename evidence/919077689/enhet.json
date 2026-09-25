@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "919077689",
+  "navn": "17. MAI KOMITÈEN I HAREID",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6062",
+    "poststed": "BRANDAL",
+    "adresse": [
+      "c/o Karina Holstad",
+      "Ytredalen 27"
+    ],
+    "kommune": "HAREID",
+    "kommunenummer": "1517"
+  },
+  "registreringsdatoEnhetsregisteret": "2017-06-01",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "remi.brandal@brandal.no",
+  "stiftelsesdato": "2017-05-03",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Arrangere 17. mai i Hareid krins"
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919077689"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

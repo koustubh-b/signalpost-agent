@@ -1,0 +1,77 @@
+{
+  "organisasjonsnummer": "980624196",
+  "navn": "1 2 EXCELLENCE Morten Kaspar Gudmundseth",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "GUDDIS Morten K Gudmundseth",
+      "fraDato": "1999-06-09 18:43:36",
+      "tilDato": "1999-09-15 18:17:27"
+    },
+    {
+      "navn": "NETTBANKEN Morten K Gudmundseth",
+      "fraDato": "1999-09-15 18:17:27",
+      "tilDato": "2007-06-06 20:17:56"
+    },
+    {
+      "navn": "1-2-XCELLENCE Morten Kaspar Gudmundset",
+      "fraDato": "2007-06-06 20:17:56",
+      "tilDato": "2010-12-28 20:08:34"
+    }
+  ],
+  "hjemmeside": "www.12x.no",
+  "registreringsdatoEnhetsregisteret": "1999-06-09",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "62.200",
+    "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2010-01-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2011-01-20",
+  "epostadresse": "morten@12x.no",
+  "mobil": "906 73 101",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1357",
+    "poststed": "BEKKESTUA",
+    "adresse": [
+      "Øygardveien 113C"
+    ],
+    "kommune": "BÆRUM",
+    "kommunenummer": "3201"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Strategisk rådgivning- og coaching i digital virksomhetsutvikling.",
+    "Trening og kurs i trampoline og ski."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/980624196"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

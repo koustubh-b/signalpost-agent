@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Olav Solheim",
+    "birth_year": "1948-02-22"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Olav Solheim",
+    "birth_year": "1948-02-22"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ove Haukenes",
+    "birth_year": "1982-08-06"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Inger Johanne Thorsen",
+    "birth_year": "1955-01-27"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Leif-Oddvar Solheim",
+    "birth_year": "1983-09-18"
+  }
+]

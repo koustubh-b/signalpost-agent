@@ -1,0 +1,64 @@
+{
+  "organisasjonsnummer": "986467491",
+  "navn": "¡ HOLY TOLEDO !",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "REBECA TOLEDO",
+      "fraDato": "2004-01-21 21:07:57",
+      "tilDato": "2025-11-17 10:59:26"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2004-01-21",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "74.990",
+    "beskrivelse": "All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "rebeca_91406@yahoo.com",
+  "telefon": "98 04 03 83",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0177",
+    "poststed": "OSLO",
+    "adresse": [
+      "Fredensborgveien 30"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Konsulent innen musikk, events.",
+    " "
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/986467491"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

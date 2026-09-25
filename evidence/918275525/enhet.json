@@ -1,0 +1,72 @@
+{
+  "organisasjonsnummer": "918275525",
+  "navn": "14.HAUGESUND KFUK/KFUM SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.14haugesund.no",
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5521",
+    "poststed": "HAUGESUND",
+    "adresse": [
+      "c/o Hans Erling Bjelland",
+      "Spannavegen 10"
+    ],
+    "kommune": "HAUGESUND",
+    "kommunenummer": "1106"
+  },
+  "registreringsdatoEnhetsregisteret": "2016-12-20",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "post@14haugesund.no",
+  "mobil": "957 54 530",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5516",
+    "poststed": "HAUGESUND",
+    "adresse": [
+      "Austrheimvegen 60"
+    ],
+    "kommune": "HAUGESUND",
+    "kommunenummer": "1106"
+  },
+  "stiftelsesdato": "1957-10-04",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speiderarbeid."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2020-06-17",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/918275525"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

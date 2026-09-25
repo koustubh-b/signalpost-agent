@@ -1,0 +1,73 @@
+{
+  "organisasjonsnummer": "937549563",
+  "navn": "10LILLEBERG AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2026-04-16",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "00.000",
+    "beskrivelse": "Uoppgitt"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "7224",
+    "poststed": "MELHUS",
+    "adresse": [
+      "Drammensvegen 50"
+    ],
+    "kommune": "MELHUS",
+    "kommunenummer": "5028"
+  },
+  "stiftelsesdato": "2026-04-07",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2026-04-07",
+  "vedtektsfestetFormaal": [
+    "Investere i selskaper og eiendom og alt annet som naturlig faller",
+    "sammen med dette, herunder å delta i andre selskaper med lignende",
+    "virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg",
+    "interessert i andre foretagende."
+  ],
+  "aktivitet": [
+    "Holdingselskap."
+  ],
+  "registreringsdatoForetaksregisteret": "2026-04-16",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2026-04-16",
+  "fravalgRevisjonBeslutningsDato": "2026-04-07",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2026-04-16"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937549563"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

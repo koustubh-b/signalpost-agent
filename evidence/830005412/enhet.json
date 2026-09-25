@@ -1,0 +1,97 @@
+{
+  "organisasjonsnummer": "830005412",
+  "navn": "1ST ENERGY AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "SUNIQON AS",
+      "fraDato": "2022-10-07 15:50:29",
+      "tilDato": "2026-02-03 11:26:30"
+    }
+  ],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5408",
+    "poststed": "SAGVÅG",
+    "adresse": [
+      "Postboks 234"
+    ],
+    "kommune": "STORD",
+    "kommunenummer": "4614"
+  },
+  "registreringsdatoEnhetsregisteret": "2022-10-07",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "71.129",
+    "beskrivelse": "Annen teknisk konsulentvirksomhet"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2022-12-21",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2022-12-21",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-11",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-08-10",
+  "telefon": "90 28 08 00",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5412",
+    "poststed": "STORD",
+    "adresse": [
+      "Hornelandsvegen 192"
+    ],
+    "kommune": "STORD",
+    "kommunenummer": "4614"
+  },
+  "stiftelsesdato": "2022-09-08",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2026-01-05",
+  "vedtektsfestetFormaal": [
+    "Energileverandørvirksomhet, konsulentvirksomhet og management, kjøp og",
+    "salg av energi, energiløsninger og ulike produkter, varer og",
+    "tjenester, samt deltakelse i selskaper med tilsvarende eller beslektet",
+    "formål. Videre skal selskapetdrive investeringsvirksomhet, herunder",
+    "kjøp og salg av aksjer, eiendom og andreformuesobjekter, samt gi",
+    "støtte til veldedige og allmennyttige formål. Selskapet kan også drive",
+    "annen virksomhet som naturlig står i sammenheng med dette."
+  ],
+  "aktivitet": [
+    "Konsulentbistand knyttet til installering av solceller."
+  ],
+  "registreringsdatoForetaksregisteret": "2022-10-07",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 1000000.0,
+    "antallAksjer": 1000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2022-10-07"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/830005412"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,93 @@
+{
+  "organisasjonsnummer": "930664766",
+  "navn": "1118 ASSETS AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "ALFANOR 23005 AS",
+      "fraDato": "2023-01-17 13:26:25",
+      "tilDato": "2023-02-24 15:10:57"
+    },
+    {
+      "navn": "IP3 META AS",
+      "fraDato": "2023-02-24 15:10:57",
+      "tilDato": "2024-06-18 15:19:39"
+    }
+  ],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0182",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Gerhard & Sønn AS",
+      "Hausmanns gate 27"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "registreringsdatoEnhetsregisteret": "2023-01-17",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "00.000",
+    "beskrivelse": "Uoppgitt"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0791",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Gunnar Greve",
+      "Thorleif Haugs vei 105"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2023-01-03",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2024-08-19",
+  "vedtektsfestetFormaal": [
+    "Investering i andre selskaper og eiendom."
+  ],
+  "aktivitet": [
+    "Holdingselskap."
+  ],
+  "registreringsdatoForetaksregisteret": "2023-01-17",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 1000000.0,
+    "antallAksjer": 100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2024-10-09"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930664766"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

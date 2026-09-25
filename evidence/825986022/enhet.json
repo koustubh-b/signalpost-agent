@@ -1,0 +1,56 @@
+{
+  "organisasjonsnummer": "825986022",
+  "navn": "@ BRUSTAD-HANSSEN FOTO",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2020-11-18",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "74.200",
+    "beskrivelse": "Fotografvirksomhet"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "9014",
+    "poststed": "TROMSØ",
+    "adresse": [
+      "Dramsvegen 514"
+    ],
+    "kommune": "TROMSØ",
+    "kommunenummer": "5501"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Salg og produksjon av bilder og video til mediehus, avis og tv.",
+    "Fotograf, fotograftjenester, salg av bilder og alt tilhørende dette."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/825986022"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

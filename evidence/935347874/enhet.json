@@ -1,0 +1,55 @@
+{
+  "organisasjonsnummer": "935347874",
+  "navn": "123TRYKK V/RUNAR PEDERSEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-04-14",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "18.120",
+    "beskrivelse": "Trykking ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3414",
+    "poststed": "LIERSTRANDA",
+    "adresse": [
+      "Lierstranda 83"
+    ],
+    "kommune": "LIER",
+    "kommunenummer": "3312"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Trykk og reklame montering. Varetransport."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935347874"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

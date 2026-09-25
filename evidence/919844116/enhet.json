@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "919844116",
+  "navn": "17. MAI-KOMITÉ VINSTRA",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2017-11-03",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "telefon": "97 77 78 79",
+  "mobil": "908 69 230",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2640",
+    "poststed": "VINSTRA",
+    "adresse": [
+      "c/o Britt Unni Bilben",
+      "Kvikneskogen 194"
+    ],
+    "kommune": "NORD-FRON",
+    "kommunenummer": "3436"
+  },
+  "stiftelsesdato": "2017-10-26",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Arrangere 17. mai-feiring for Barhaug og Sødorp skolekrets."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919844116"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

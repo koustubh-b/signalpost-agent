@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "936434002",
+  "navn": "137 AKTIV",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-10-23",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "93.120",
+    "beskrivelse": "Aktiviteter i idrettslag og -klubber"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0585",
+    "poststed": "OSLO",
+    "adresse": [
+      "Lørenveien 50"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2025-10-11",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Padeltennis.",
+    "Pickleball."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2025-10-29",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936434002"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

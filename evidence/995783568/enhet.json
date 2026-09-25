@@ -1,0 +1,69 @@
+{
+  "organisasjonsnummer": "995783568",
+  "navn": "...BY CHAAT HOUSE LTD",
+  "organisasjonsform": {
+    "kode": "UTLA",
+    "beskrivelse": "Utenlandsk enhet",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2010-09-07",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "info@chaathouse.co.uk",
+  "telefon": "447768396480",
+  "forretningsadresse": {
+    "land": "Storbritannia",
+    "landkode": "GB",
+    "poststed": "UB13QN Southall",
+    "adresse": [
+      "33 Longford Avenue"
+    ]
+  },
+  "stiftelsesdato": "2010-06-27",
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2010-06-27",
+  "vedtektsfestetFormaal": [
+    "Utenlandsk foretak."
+  ],
+  "aktivitet": [
+    "Utenlandsk enhet."
+  ],
+  "registreringsdatoForetaksregisteret": "2010-09-07",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "registreringsnummerIHjemlandet": "05428049",
+  "foretaksformIHjemlandet": {
+    "kode": "LTD",
+    "beskrivelse": "Private limited company",
+    "beskrivelseBokmaal": "Aksjeselskap"
+  },
+  "utenlandskRegisterNavn": "Companies House",
+  "utenlandskRegisterAdresse": {
+    "land": "Storbritannia",
+    "poststed": "Cardiff CF14 3UZ",
+    "adresse": [
+      "Crown Way",
+      "Maindy"
+    ]
+  },
+  "underlagtLovgivningLand": "Storbritannia",
+  "underlagtLovgivningLandKode": "GB",
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995783568"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

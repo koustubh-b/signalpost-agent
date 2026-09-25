@@ -1,0 +1,74 @@
+{
+  "organisasjonsnummer": "999286976",
+  "navn": "0 - 6 VÅLERENGGATA BARNEHAGE AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2012-12-19",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "85.100",
+    "beskrivelse": "Førskoleundervisning og drift av barnehager"
+  },
+  "antallAnsatte": 12,
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-09-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0657",
+    "poststed": "OSLO",
+    "adresse": [
+      "Vålerenggata 10"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2012-12-12",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2012-12-12",
+  "vedtektsfestetFormaal": [
+    "Eie og drive barnehage, samt annen virksomhet som naturlig står i",
+    "forbindelse med dette og deltagelse i andre virksomheter."
+  ],
+  "aktivitet": [
+    "Eie og drive barnehage, samt annen virksomhet som naturlig står i",
+    "forbindelse med dette og deltagelse i andre virksomheter."
+  ],
+  "registreringsdatoForetaksregisteret": "2012-12-19",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 300,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2012-12-19"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/999286976"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

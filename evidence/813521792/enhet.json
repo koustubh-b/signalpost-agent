@@ -1,0 +1,77 @@
+{
+  "organisasjonsnummer": "813521792",
+  "navn": "1ST BRANDS AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2014-04-23",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "46.420",
+    "beskrivelse": "Engroshandel med klær og skotøy"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2014-05-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2014-10-13",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-09-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5518",
+    "poststed": "HAUGESUND",
+    "adresse": [
+      "Ramsvollsvegen 4"
+    ],
+    "kommune": "HAUGESUND",
+    "kommunenummer": "1106"
+  },
+  "stiftelsesdato": "2014-03-25",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2014-03-25",
+  "vedtektsfestetFormaal": [
+    "Drive salg og agenturforretning innen konfeksjonsvirksomhet, samt det",
+    "som naturlig står i forbindelse med dette."
+  ],
+  "aktivitet": [
+    "Drive salg og agenturforretning innen konfeksjonsvirksomhet, samt det",
+    "som naturlig står i forbindelse med dette."
+  ],
+  "registreringsdatoForetaksregisteret": "2014-04-23",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2026-07-21",
+  "fravalgRevisjonBeslutningsDato": "2026-07-07",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2014-04-23"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/813521792"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

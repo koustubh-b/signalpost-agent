@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "920453236",
+  "navn": "17. MAI KOMITEEN VEAVÅGEN",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2018-02-16",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "ingunn@hauge-vgs.no",
+  "mobil": "454 65 452",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4276",
+    "poststed": "VEAVÅGEN",
+    "adresse": [
+      "Breiabergvegen 4"
+    ],
+    "kommune": "KARMØY",
+    "kommunenummer": "1149"
+  },
+  "stiftelsesdato": "2018-02-13",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Arrangere 17. mai feiring for allmenheten i Veavågen."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2025-03-14",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920453236"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

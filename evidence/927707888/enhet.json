@@ -1,0 +1,55 @@
+{
+  "organisasjonsnummer": "927707888",
+  "navn": "1ST DAAW RØGEBERG",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2021-09-11",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "68.200",
+    "beskrivelse": "Utleie av egen eller leid fast eiendom"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "9007",
+    "poststed": "TROMSØ",
+    "adresse": [
+      "Strandvegen 23"
+    ],
+    "kommune": "TROMSØ",
+    "kommunenummer": "5501"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Utleie av bolig."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927707888"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Erlend Thiem",
+    "birth_year": "1999-08-02"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Erlend Thiem",
+    "birth_year": "1999-08-02"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Thorbjørn Andre Thiem",
+    "birth_year": "1968-10-04"
+  }
+]

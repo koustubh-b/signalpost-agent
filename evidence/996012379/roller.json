@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Jon Inge Steinsland",
+    "birth_year": "1989-01-10"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Jon Inge Steinsland",
+    "birth_year": "1989-01-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Stian Flåt-Larsen",
+    "birth_year": "1981-02-11"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Marianne Rønnekleiv",
+    "birth_year": "1974-08-03"
+  }
+]

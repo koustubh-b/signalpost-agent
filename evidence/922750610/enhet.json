@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "922750610",
+  "navn": "17.MAI NEMNDA I DALE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-07-10",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6963",
+    "poststed": "DALE I SUNNFJORD",
+    "adresse": [
+      "c/o Torill Øen",
+      "Dalsåsvegen 34A"
+    ],
+    "kommune": "FJALER",
+    "kommunenummer": "4646"
+  },
+  "stiftelsesdato": "2019-01-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "aktivitet": [
+    "Arrangere 17. mai i Dale kvart år, basert på dugnad."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2019-07-10",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922750610"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

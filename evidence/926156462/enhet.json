@@ -1,0 +1,83 @@
+{
+  "organisasjonsnummer": "926156462",
+  "navn": "1000 BOLIG AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "ESAS NEWCO 20075 AS",
+      "fraDato": "2020-12-10 16:30:18",
+      "tilDato": "2021-01-11 11:12:12"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2020-12-10",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "68.110",
+    "beskrivelse": "Kjøp og salg av egen fast eiendom"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2022-12-15",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-05-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3474",
+    "poststed": "ÅROS",
+    "adresse": [
+      "Bergveien 11"
+    ],
+    "kommune": "ASKER",
+    "kommunenummer": "3203"
+  },
+  "stiftelsesdato": "2020-12-01",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2020-12-22",
+  "vedtektsfestetFormaal": [
+    "Investere i selskaper og eiendom og alt annet som naturlig faller",
+    "sammen med dette, herunder å delta i andre selskaper med lignende",
+    "virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg",
+    "interessert i andre foretagende."
+  ],
+  "aktivitet": [
+    "Kjøp, salg og utleie av eiendom. Selge arkitekttjenester vedrørende",
+    "byggverk."
+  ],
+  "registreringsdatoForetaksregisteret": "2020-12-10",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2020-12-10",
+  "fravalgRevisjonBeslutningsDato": "2020-12-01",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2020-12-10"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926156462"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

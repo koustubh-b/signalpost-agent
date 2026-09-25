@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Adam Gajas",
+    "birth_year": "1996-01-02"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Eroll Sadriu",
+    "birth_year": "1981-04-20"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Yousef Ali Gajas",
+    "birth_year": "1994-01-03"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "934147413",
+    "birth_year": null
+  }
+]

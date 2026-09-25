@@ -1,0 +1,55 @@
+{
+  "organisasjonsnummer": "922897522",
+  "navn": "1984 AMELIE ANGELL",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-06-19",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "49.420",
+    "beskrivelse": "Flyttetransport"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2067",
+    "poststed": "JESSHEIM",
+    "adresse": [
+      "Smedalsvingen 5"
+    ],
+    "kommune": "ULLENSAKER",
+    "kommunenummer": "3209"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Flyttehjelp, vask, maskinkjøring og annet praktisk arbeid."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922897522"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

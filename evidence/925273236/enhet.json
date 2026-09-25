@@ -1,0 +1,90 @@
+{
+  "organisasjonsnummer": "925273236",
+  "navn": "1 HJELPENDE HÅND AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "NYE 1 HJELPENDE HÅND AS",
+      "fraDato": "2020-06-30 13:04:54",
+      "tilDato": "2020-09-24 11:40:50"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2020-06-30",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "81.100",
+    "beskrivelse": "Kombinerte tjenester tilknyttet eiendomsdrift"
+  },
+  "antallAnsatte": 23,
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2020-07-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-09-30",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-09-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0975",
+    "poststed": "OSLO",
+    "adresse": [
+      "Stålfjæra 17"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2020-06-19",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2020-09-30",
+  "vedtektsfestetFormaal": [
+    "Tjenester innen drift og vedlikehold knyttet til fast eiendom som",
+    "vaktmestertjeneste, renhold, håndverkstjenester, snørydding og",
+    "utemiljø, samt andre tjenester som naturlig faller sammen med dette.",
+    "Kan også inkludere deltakelse i andre selskaper med lignende",
+    "virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg",
+    "interessert i andre foretak."
+  ],
+  "aktivitet": [
+    "Tjenester innen drift og vedlikehold knyttet til fast eiendom som",
+    "vaktmestertjeneste, renhold, håndverkstjenester, snørydding og",
+    "utemiljø, samt andre tjenester som naturlig faller sammen med dette.",
+    "Kan også inkludere deltakelse i andre selskaper med lignende",
+    "virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre seg",
+    "interessert i andre foretak."
+  ],
+  "registreringsdatoForetaksregisteret": "2020-06-30",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": true,
+  "kapital": {
+    "belop": 67399.8,
+    "antallAksjer": 224666,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2020-09-24"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925273236"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

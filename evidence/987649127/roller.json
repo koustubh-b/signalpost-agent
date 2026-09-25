@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Beth Erfjord",
+    "birth_year": "1969-03-29"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Torfinn Havn",
+    "birth_year": "1956-07-17"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Per Ingvar Omdal",
+    "birth_year": "1960-03-27"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Gunnar Midtgarden",
+    "birth_year": "1955-03-10"
+  }
+]

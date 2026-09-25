@@ -1,0 +1,74 @@
+{
+  "organisasjonsnummer": "925397644",
+  "navn": "1 ELEKTRIKER AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2020-07-27",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "43.210",
+    "beskrivelse": "Elektrisk installasjonsarbeid"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2021-01-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-02-15",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "7506",
+    "poststed": "STJØRDAL",
+    "adresse": [
+      "Reealleen 48"
+    ],
+    "kommune": "STJØRDAL",
+    "kommunenummer": "5035"
+  },
+  "stiftelsesdato": "2020-07-12",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2020-07-12",
+  "vedtektsfestetFormaal": [
+    "Salg av elektrotjenester og elektromateriell, samt hva hermed står i",
+    "forbindelse, herunder å delta i andre selskaper."
+  ],
+  "aktivitet": [
+    "Elektrisk installasjonsarbeid."
+  ],
+  "registreringsdatoForetaksregisteret": "2020-07-27",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2020-07-27",
+  "fravalgRevisjonBeslutningsDato": "2020-07-12",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2020-07-27"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925397644"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

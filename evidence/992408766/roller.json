@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Christina Minge",
+    "birth_year": "1985-10-27"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Christina Minge",
+    "birth_year": "1985-10-27"
+  },
+  {
+    "title": "Varamedlem",
+    "group": "Styre",
+    "name": "Ketil Minge",
+    "birth_year": "1963-07-31"
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "970024344",
+    "birth_year": null
+  }
+]

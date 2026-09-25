@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Mads Nation",
+    "birth_year": "1987-08-03"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Fredrik Hoseth",
+    "birth_year": "1988-10-06"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Mads Nation",
+    "birth_year": "1987-08-03"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jonatan Nation",
+    "birth_year": "1990-07-01"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Vegard Østrem",
+    "birth_year": "1989-08-11"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "John Markus Rødal",
+    "birth_year": "1988-06-12"
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "organisasjonsnummer": "930261629",
+  "navn": "1779 INVEST RISE",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2022-11-18",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "47.810",
+    "beskrivelse": "Detaljhandel med motorvogner"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1779",
+    "poststed": "HALDEN",
+    "adresse": [
+      "Hjortefaret 4"
+    ],
+    "kommune": "HALDEN",
+    "kommunenummer": "3101"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Kjøp og salg av kjøretøy."
+  ],
+  "registreringsdatoForetaksregisteret": "2022-11-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930261629"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

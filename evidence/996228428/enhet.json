@@ -1,0 +1,71 @@
+{
+  "organisasjonsnummer": "996228428",
+  "navn": "15.15-KONSERTENE I ÅS",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1431",
+    "poststed": "ÅS",
+    "adresse": [
+      "c/o Kulturskolen i Ås",
+      "Postboks 195"
+    ],
+    "kommune": "ÅS",
+    "kommunenummer": "3218"
+  },
+  "registreringsdatoEnhetsregisteret": "2010-12-11",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.390",
+    "beskrivelse": "Andre tjenester tilknyttet kunstnerisk virksomhet og underholdningsvirksomhet"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1430",
+    "poststed": "ÅS",
+    "adresse": [
+      "c/o Kulturskolen i Ås",
+      "Skoleveien 1"
+    ],
+    "kommune": "ÅS",
+    "kommunenummer": "3218"
+  },
+  "stiftelsesdato": "2009-09-19",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "15.15-konsertenes formål er å arrangere kammerkonserter av høy,",
+    "profesjonell kvalitet, i Ås. Vår konsertarena er den tradisjonsrike",
+    "\"Festsalen\" i Ås."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/996228428"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

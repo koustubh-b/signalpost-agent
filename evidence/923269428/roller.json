@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Frank Ribe",
+    "birth_year": "1969-06-08"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Linda Kokai",
+    "birth_year": "1969-10-13"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Stephan Kokai",
+    "birth_year": "1966-12-19"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jan Helge Kjøstvedt",
+    "birth_year": "1968-07-01"
+  }
+]

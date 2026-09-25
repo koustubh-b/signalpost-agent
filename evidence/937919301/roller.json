@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Martine Branem",
+    "birth_year": "1980-03-01"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Terje Syljeset",
+    "birth_year": "1973-06-01"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Christian Bøe",
+    "birth_year": "1983-04-25"
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "organisasjonsnummer": "935674557",
+  "navn": "1353 EIENDOM AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-06-13",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "68.110",
+    "beskrivelse": "Kjøp og salg av egen fast eiendom"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1353",
+    "poststed": "BÆRUMS VERK",
+    "adresse": [
+      "Bakerovnsgrenda 34"
+    ],
+    "kommune": "BÆRUM",
+    "kommunenummer": "3201"
+  },
+  "stiftelsesdato": "2025-05-21",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2025-05-21",
+  "vedtektsfestetFormaal": [
+    "Kjøp og salg av egen fast eiendom."
+  ],
+  "aktivitet": [
+    "Kjøp og salg av egen fast eiendom."
+  ],
+  "registreringsdatoForetaksregisteret": "2025-06-13",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2025-06-13",
+  "fravalgRevisjonBeslutningsDato": "2025-05-21",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2025-06-13"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935674557"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

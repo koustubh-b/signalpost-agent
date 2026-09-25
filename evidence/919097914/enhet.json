@@ -1,0 +1,75 @@
+{
+  "organisasjonsnummer": "919097914",
+  "navn": "2 PONDER EL AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2017-06-08",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "43.210",
+    "beskrivelse": "Elektrisk installasjonsarbeid"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2017-07-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2017-09-06",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2017-10-12",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2017-10-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1396",
+    "poststed": "BILLINGSTAD",
+    "adresse": [
+      "Alf Kristoffersens vei 6"
+    ],
+    "kommune": "ASKER",
+    "kommunenummer": "3203"
+  },
+  "stiftelsesdato": "2017-04-03",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2017-04-03",
+  "vedtektsfestetFormaal": [
+    "Å tilby elektrisk installasjon og rådgivning, samt konsulentbistand og",
+    "rådgivning."
+  ],
+  "aktivitet": [
+    "Elektrisk installasjon og rådgivning."
+  ],
+  "registreringsdatoForetaksregisteret": "2017-06-08",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2017-06-08",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 100000.0,
+    "antallAksjer": 1000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2017-06-08"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919097914"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

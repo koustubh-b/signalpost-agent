@@ -1,0 +1,62 @@
+{
+  "organisasjonsnummer": "912992101",
+  "navn": "1. GODVIK SJØSPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "1-godvik-sjo.webnode.no",
+  "registreringsdatoEnhetsregisteret": "2014-01-18",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "1godviksjo@gmail.com",
+  "mobil": "924 49 142",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5179",
+    "poststed": "GODVIK",
+    "adresse": [
+      "Leirvikveien 73C"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "stiftelsesdato": "2013-10-23",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "1. Godvik sjøspeidergruppes formål er å utvikle mennesker til",
+    "selvstendighet og til å ta aktivt ansvar i samfunnet i samsvar med",
+    "idealene fra speiderløftet og speiderloven."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2014-01-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912992101"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

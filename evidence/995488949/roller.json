@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Marianne Moltke-Hansen",
+    "birth_year": "1951-12-16"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Marius Ringsrud",
+    "birth_year": "1981-06-22"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Blerina Zeqiri",
+    "birth_year": "1992-02-25"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Sigrid Valberg",
+    "birth_year": "1991-03-27"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Trygve Homme",
+    "birth_year": "1964-03-30"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Morten Gluva",
+    "birth_year": "1958-04-03"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Øyvind Dahl",
+    "birth_year": "1971-04-13"
+  }
+]

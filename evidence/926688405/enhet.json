@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "926688405",
+  "navn": "1 TOUCH 5 STARS PISULA",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2021-02-26",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "81.210",
+    "beskrivelse": "Rengjøring av bygninger"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2021-05-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-06-12",
+  "epostadresse": "marianna.pisula.mp@gmail.com",
+  "mobil": "968 04 178",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0268",
+    "poststed": "OSLO",
+    "adresse": [
+      "Ingar Nilsens vei 7"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Rengjøringstjenester, renhold."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926688405"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

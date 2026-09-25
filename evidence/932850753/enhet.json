@@ -1,0 +1,62 @@
+{
+  "organisasjonsnummer": "932850753",
+  "navn": "2 NK SOLUTION SP. Z O.O. SP. K",
+  "organisasjonsform": {
+    "kode": "UTLA",
+    "beskrivelse": "Utenlandsk enhet",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2024-01-18",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Polen",
+    "landkode": "PL",
+    "poststed": "PL - 25 650 KIELCE",
+    "adresse": [
+      "ul. Dluga 25"
+    ]
+  },
+  "stiftelsesdato": "2019-11-18",
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Utenlandsk enhet/foretak."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "registreringsnummerIHjemlandet": "0000814282",
+  "foretaksformIHjemlandet": {
+    "kode": "S.K.",
+    "beskrivelse": "Spolka Komandytowa",
+    "beskrivelseBokmaal": "Kommandittselskap"
+  },
+  "utenlandskRegisterNavn": "Krajowy Rejestr Sadowy",
+  "utenlandskRegisterAdresse": {
+    "land": "Polen",
+    "poststed": "00-454 Warszawa",
+    "adresse": [
+      "Ministerstwo Sprawiedliwosci",
+      "ul. Czerniakowska 100"
+    ]
+  },
+  "underlagtLovgivningLand": "Polen",
+  "underlagtLovgivningLandKode": "PL",
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/932850753"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

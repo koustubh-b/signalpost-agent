@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Roger Aase",
+    "birth_year": "1980-12-23"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Merethe Vetti",
+    "birth_year": "1984-08-13"
+  },
+  {
+    "title": "Varamedlem",
+    "group": "Styre",
+    "name": "Lillian Aud Aase",
+    "birth_year": "1956-04-13"
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "924046066",
+    "birth_year": null
+  }
+]

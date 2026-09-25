@@ -1,0 +1,72 @@
+{
+  "organisasjonsnummer": "992516844",
+  "navn": "1985 BY HAIDAR",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "N.W.A GRILLHOUSE Burhan Jafar Haidar",
+      "fraDato": "2008-04-07 20:36:24",
+      "tilDato": "2012-04-24 20:32:55"
+    },
+    {
+      "navn": "N.W.A AUTOLAKK BURHAN JAFAR HAIDAR",
+      "fraDato": "2012-04-24 20:32:55",
+      "tilDato": "2022-04-07 11:50:34"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2008-04-07",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "70.200",
+    "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "n.w.agrillhouse@hotmail.com",
+  "mobil": "414 70 727",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1815",
+    "poststed": "ASKIM",
+    "adresse": [
+      "Løkkekroken 3"
+    ],
+    "kommune": "INDRE ØSTFOLD",
+    "kommunenummer": "3118"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Utleie av arbeidskraft og konsulenttjenester til horeca bransjen:",
+    "hjelper restauranter i Norge med oppsett av restaurant konsept, alt",
+    "fra A til Å før oppstart, alt fra å lage logo, meny oppsett, kjøkken",
+    "oppsett, oppskrifter, til ferdig produkt ut deres."
+  ],
+  "registreringsdatoForetaksregisteret": "2008-04-07",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992516844"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "919773200",
+  "navn": "2011-BARNA VED GRØTTE SKOLE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2017-10-23",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "7320",
+    "poststed": "FANNREM",
+    "adresse": [
+      "c/o Karin Fjelldal By",
+      "Fjellmobredden 24"
+    ],
+    "kommune": "ORKLAND",
+    "kommunenummer": "5059"
+  },
+  "stiftelsesdato": "2017-09-05",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Formålet med foreningen er å arbeide for å skape et godt samhold",
+    "mellom foreldre og elever ved 2011-barna ved Grøtte Skole. Foreningen",
+    "jobber for å gjøre sosiale aktiviteter sammen."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919773200"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

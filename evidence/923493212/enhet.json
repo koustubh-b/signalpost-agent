@@ -1,0 +1,56 @@
+{
+  "organisasjonsnummer": "923493212",
+  "navn": "1985 MARIANNE IDA ANKILL DVERSET ILSTAD",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-10-01",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.111",
+    "beskrivelse": "Skapende kunstnerisk virksomhet innenfor litteratur"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "8016",
+    "poststed": "BODØ",
+    "adresse": [
+      "c/o marianne ilstad",
+      "Edvards vei 26"
+    ],
+    "kommune": "BODØ",
+    "kommunenummer": "1804"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Forfatter og salg av egne bøker."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923493212"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

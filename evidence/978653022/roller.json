@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Gunnar Gjermundsen",
+    "birth_year": "1976-09-30"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Gunnar Gjermundsen",
+    "birth_year": "1976-09-30"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Rune Johansen",
+    "birth_year": "1968-11-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Inger Helene Holmelin",
+    "birth_year": "1952-04-16"
+  }
+]

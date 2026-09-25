@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "926145827",
+  "navn": "2014 KULLET NESHEIM SKOLE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2020-12-23",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "jbstrbekk@icloud.com",
+  "mobil": "915 16 147",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4849",
+    "poststed": "ARENDAL",
+    "adresse": [
+      "c/o Jan Birger Stebekk",
+      "Tveiteveien 68"
+    ],
+    "kommune": "ARENDAL",
+    "kommunenummer": "4203"
+  },
+  "stiftelsesdato": "2020-11-30",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Forening som skal samordne og legge til rette for arrangementer og",
+    "aktiviteter for 2014 kullet i Austre Moland i Arendal Kommune."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2020-12-23",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926145827"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "935939151",
+  "navn": "1111 SOLUTIONS LTD",
+  "organisasjonsform": {
+    "kode": "NUF",
+    "beskrivelse": "Norskregistrert utenlandsk foretak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0121",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o BDO Advokater AS",
+      "Postboks 1704 Vika"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "registreringsdatoEnhetsregisteret": "2025-08-23",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "78.200",
+    "beskrivelse": "Utleie av arbeidskraft og andre personaladministrative tjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Storbritannia",
+    "landkode": "GB",
+    "poststed": "BANFFSHIRE AB42 1WN SCOTLAND",
+    "adresse": [
+      "Goldwells House Grange Road,",
+      "Peterhead"
+    ]
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Utleie av arbeidskraft innen offshore."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935939151"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,60 @@
+{
+  "organisasjonsnummer": "916204914",
+  "navn": "1. NIDAROS ST. GEORGS GILDE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2015-12-09",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.910",
+    "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "99102325",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "7033",
+    "poststed": "TRONDHEIM",
+    "adresse": [
+      "c/o Elin Drange",
+      "Christian Eggens veg 29"
+    ],
+    "kommune": "TRONDHEIM",
+    "kommunenummer": "5001"
+  },
+  "stiftelsesdato": "1997-03-14",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Bistand til Kirkens bymisjons arbeid for barn og foreldre. Økonomisk",
+    "støtte til barnehjem/gatebarn i Estland. Praktisk hjelp til",
+    "speiderarbeid i regionen. Økonomisk bidrag til nødhjelpsarbeid."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916204914"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

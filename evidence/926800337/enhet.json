@@ -1,0 +1,77 @@
+{
+  "organisasjonsnummer": "926800337",
+  "navn": "19LFS AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2021-03-16",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "71.129",
+    "beskrivelse": "Annen teknisk konsulentvirksomhet"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4018",
+    "poststed": "STAVANGER",
+    "adresse": [
+      "Liang 7A"
+    ],
+    "kommune": "STAVANGER",
+    "kommunenummer": "1103"
+  },
+  "stiftelsesdato": "2021-03-09",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2023",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2021-03-09",
+  "vedtektsfestetFormaal": [
+    "Konsulenttjeneseter til olje, gass og vind innen posisjonering av",
+    "enheter plattformer og Mono piles, samtidig treningskonsulent for",
+    "offshore ansatte, World Wide."
+  ],
+  "aktivitet": [
+    "Konsulent og instalasjon av Jack up rigger, for drilling, vedlikehold",
+    "og geotekniske undersøkelser, som også inkluderer, instalering av",
+    "plattformer og fundamenter for olje, gass og vind farmer. I tillegg",
+    "kommer det til å være spesial kurser som er for olje, gass og vind",
+    "ansatte, World Wide."
+  ],
+  "registreringsdatoForetaksregisteret": "2021-03-16",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2021-03-16",
+  "fravalgRevisjonBeslutningsDato": "2021-03-09",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2021-03-16"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926800337"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

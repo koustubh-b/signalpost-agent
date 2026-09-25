@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "988677132",
+  "navn": "1P Rune Melberg",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2005-10-10",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "63.100",
+    "beskrivelse": "Datainfrastruktur, -behandling, -lagring og tilknyttede tjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2022-02-23",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-01-16",
+  "epostadresse": "rune.melberg@gmail.com",
+  "mobil": "917 77 745",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4100",
+    "poststed": "JØRPELAND",
+    "adresse": [
+      "Tunglandsvegen 39B"
+    ],
+    "kommune": "STRAND",
+    "kommunenummer": "1130"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Portal/startside for private internettsider. Det vil også på sikt være",
+    "ønskelig å starte salg/formidling av nye/brukte varer, og helst",
+    "innenfor lystbåtmarkedet. Fotografering og fotoredigering."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/988677132"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

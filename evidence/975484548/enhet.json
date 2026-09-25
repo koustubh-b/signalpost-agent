@@ -1,0 +1,67 @@
+{
+  "organisasjonsnummer": "975484548",
+  "navn": "2. SANDNES SJØSPEIDERGRUPPE AV NSF",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "SJØSPEIDERNE I SANDNES",
+      "fraDato": "1996-03-04 16:13:03",
+      "tilDato": "2002-06-11 20:41:15"
+    }
+  ],
+  "hjemmeside": "www.2sandnessjo.no",
+  "registreringsdatoEnhetsregisteret": "1996-03-04",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "post@2sandnessjo.no",
+  "telefon": "51 66 14 93",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4328",
+    "poststed": "SANDNES",
+    "adresse": [
+      "Daleveien 110"
+    ],
+    "kommune": "SANDNES",
+    "kommunenummer": "1108"
+  },
+  "stiftelsesdato": "1968-11-08",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "sisteInnsendteAarsregnskap": "2019",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Sjøspeidergruppe"
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2009-03-14",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/975484548"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

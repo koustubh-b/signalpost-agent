@@ -1,0 +1,78 @@
+{
+  "organisasjonsnummer": "896637452",
+  "navn": "1. SKJOLD SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.skjoldspeider.org",
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5038",
+    "poststed": "BERGEN",
+    "adresse": [
+      "c/o Bjørn Arne Øvrebø",
+      "Øyjordsveien 78"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "registreringsdatoEnhetsregisteret": "2011-03-03",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "boevr@online.no",
+  "mobil": "958 33 447",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5236",
+    "poststed": "RÅDAL",
+    "adresse": [
+      "Harald Skjolds veg 32"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "stiftelsesdato": "1956-02-18",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "1. Skjold speidergruppes mål er i samsvar med Norges Speiderforbunds",
+    "formålsparagraf 1-5 å utvikle medlemmene til selvstendige og",
+    "ansvarsbevisste mennesker. 1. Skjold skal ha vekt på friluftsliv,",
+    "samfunnsengasjement, internasjonal forståelse og opplevelse av",
+    "speideridealene, samt å gi medlemmene medbestemmelse og ansvar. 1.",
+    "Skjold speidergruppe er åpen for begge kjønn fra 8 års alder, uansett",
+    "etnisk bakgrunn, religion eller nasjonalitet."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2011-03-03",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/896637452"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Anne Britt Hauge",
+    "birth_year": "1950-10-31"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Per Kristian Eide",
+    "birth_year": "1966-03-15"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Gro Bråthen",
+    "birth_year": "1949-12-03"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ole Johnny Myrvold",
+    "birth_year": "1970-11-19"
+  }
+]

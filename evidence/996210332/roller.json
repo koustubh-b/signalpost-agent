@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Yngve Skreosen",
+    "birth_year": "1964-08-15"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Yngve Skreosen",
+    "birth_year": "1964-08-15"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jarle Olvar Nygård",
+    "birth_year": "1965-05-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Elisabeth Skreosen",
+    "birth_year": "1964-03-31"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Erlend Kleppe",
+    "birth_year": "1999-12-13"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Eirik Skreosen",
+    "birth_year": "1999-06-10"
+  }
+]

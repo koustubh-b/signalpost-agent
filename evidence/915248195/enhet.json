@@ -1,0 +1,60 @@
+{
+  "organisasjonsnummer": "915248195",
+  "navn": "100ART RAPAK",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2015-04-16",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "43.340",
+    "beskrivelse": "Maler- og glassarbeid"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2016-07-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2016-09-17",
+  "epostadresse": "100art.no@gmail.com",
+  "mobil": "400 92 111",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4387",
+    "poststed": "BJERKREIM",
+    "adresse": [
+      "Odlandsvegen 123"
+    ],
+    "kommune": "BJERKREIM",
+    "kommunenummer": "1114"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Maling og renovering av hus. Fasadevask. Rengjøring. Flislegging.",
+    "Snekkerarbeid."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/915248195"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

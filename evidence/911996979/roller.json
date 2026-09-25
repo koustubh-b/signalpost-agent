@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Jon Arne Kristiansen",
+    "birth_year": "1972-01-30"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Eva Kristin Kvalvaag",
+    "birth_year": "1966-11-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kristin Hurlen",
+    "birth_year": "1964-07-23"
+  }
+]

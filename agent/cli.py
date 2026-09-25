@@ -43,6 +43,9 @@ def lookup(orgnr: str, out: str | None, no_financials: bool, db: str):
     except brreg_client.NotFound as exc:
         click.echo(json.dumps({"organisasjonsnummer": orgnr, "error": str(exc)}), err=True)
         sys.exit(1)
+    except brreg_client.Gone as exc:
+        click.echo(json.dumps({"organisasjonsnummer": orgnr, "error": str(exc), "status": "deregistered"}), err=True)
+        sys.exit(1)
     finally:
         store.close()
 

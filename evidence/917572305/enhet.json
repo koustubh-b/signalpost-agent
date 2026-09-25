@@ -1,0 +1,75 @@
+{
+  "organisasjonsnummer": "917572305",
+  "navn": "007 TRANSPORT AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2016-08-16",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "53.200",
+    "beskrivelse": "Andre post- og budtjenester"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2016-09-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2016-10-25",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2021-12-14",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2021-12-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1385",
+    "poststed": "ASKER",
+    "adresse": [
+      "Nedre Måsan 21"
+    ],
+    "kommune": "ASKER",
+    "kommunenummer": "3203"
+  },
+  "stiftelsesdato": "2016-07-25",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2024",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2016-07-25",
+  "vedtektsfestetFormaal": [
+    "Budbil og varetransport tjenester og annet som naturlig faller sammen",
+    "med dette."
+  ],
+  "aktivitet": [
+    "Budbil og varetransport."
+  ],
+  "registreringsdatoForetaksregisteret": "2016-08-16",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2016-08-16",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 60000.0,
+    "antallAksjer": 60000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2016-08-16"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917572305"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

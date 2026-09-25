@@ -1,0 +1,77 @@
+{
+  "organisasjonsnummer": "822178952",
+  "navn": "130 LV KAFFEBAR AVD SOLA",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "KAFFEBAREN 330 SKV SOLA",
+      "fraDato": "2019-02-07 15:10:30",
+      "tilDato": "2024-09-23 13:01:49"
+    }
+  ],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4097",
+    "poststed": "SOLA",
+    "adresse": [
+      "Postboks 69"
+    ],
+    "kommune": "SOLA",
+    "kommunenummer": "1124"
+  },
+  "registreringsdatoEnhetsregisteret": "2019-02-07",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "saremoy@gmail.com",
+  "mobil": "920 49 617",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4050",
+    "poststed": "SOLA",
+    "adresse": [
+      "Skvadronvegen 7"
+    ],
+    "kommune": "SOLA",
+    "kommunenummer": "1124"
+  },
+  "stiftelsesdato": "2019-01-29",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Foreningen driver med velferdstiltak for de ansatte ved 130 luftving",
+    "avdeling Sola. Dette er alt fra felles vafler hver fredag, til",
+    "samlinger etter arbeidstid."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/822178952"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Rune Hoel",
+    "birth_year": "1969-08-15"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Lars Rasch",
+    "birth_year": "1982-02-18"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Sidsel Bakke",
+    "birth_year": "1981-01-13"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Malin Oustad",
+    "birth_year": "1988-03-08"
+  }
+]

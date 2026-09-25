@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "984034652",
+  "navn": "15. HAUGESUND KFUK-KFUM SPEIDERE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2017-06-09",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5521",
+    "poststed": "HAUGESUND",
+    "adresse": [
+      "c/o Arne Kjell Øverland",
+      "Presthaugvegen 2A"
+    ],
+    "kommune": "HAUGESUND",
+    "kommunenummer": "1106"
+  },
+  "stiftelsesdato": "1961-09-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Drift av speiderarbeid, barn og ung, friluftsliv."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2023-03-10",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/984034652"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "921575661",
+  "navn": "17. MAI MARKER SKOLE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2018-12-31",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1870",
+    "poststed": "ØRJE",
+    "adresse": [
+      "c/o Lars Johansson",
+      "Hammerveien 12"
+    ],
+    "kommune": "MARKER",
+    "kommunenummer": "3122"
+  },
+  "stiftelsesdato": "2018-12-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Foreningen 17. mai Marker skole sørger for et flott arrangement som",
+    "finner sted på Marker skole på 17. mai. Aktiviteter: Det er salg av",
+    "mat, drikke og søtsaker. Det er lek, loddsalg og aktiviteter for",
+    "barna. Det er i tillegg underholdning fra utendørs scene."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2018-12-31",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/921575661"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

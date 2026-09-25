@@ -1,0 +1,85 @@
+{
+  "organisasjonsnummer": "929403819",
+  "navn": "06 BOYS AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0360",
+    "poststed": "OSLO",
+    "adresse": [
+      "Bruksenhetsnummer H0502",
+      "Hertzbergs gate 4C"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "registreringsdatoEnhetsregisteret": "2022-06-22",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.201",
+    "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0360",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Erlend Skeid",
+      "Bruksenhetsnummer H0502",
+      "Hertzbergs gate 4C"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2022-04-26",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2022-04-26",
+  "vedtektsfestetFormaal": [
+    "Konsert og bandvirksomhet."
+  ],
+  "aktivitet": [
+    "Band som levere konserter, og musikk til strømmetjenester."
+  ],
+  "registreringsdatoForetaksregisteret": "2022-06-22",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2022-06-22",
+  "fravalgRevisjonBeslutningsDato": "2022-04-26",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 40000.0,
+    "antallAksjer": 4000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2022-06-22"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929403819"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

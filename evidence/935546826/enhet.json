@@ -1,0 +1,72 @@
+{
+  "organisasjonsnummer": "935546826",
+  "navn": "1128 INVEST AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-05-22",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "00.000",
+    "beskrivelse": "Uoppgitt"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6456",
+    "poststed": "SKÅLA",
+    "adresse": [
+      "Saksegjerdet 17"
+    ],
+    "kommune": "MOLDE",
+    "kommunenummer": "1506"
+  },
+  "stiftelsesdato": "2025-04-22",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2025-04-22",
+  "vedtektsfestetFormaal": [
+    "Eie aksjer og investere i virksomheter av enhver art, samt det som",
+    "naturlig faller sammen med dette."
+  ],
+  "aktivitet": [
+    "Investering i aksjer og verdipapirer."
+  ],
+  "registreringsdatoForetaksregisteret": "2025-05-22",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2025-05-22",
+  "fravalgRevisjonBeslutningsDato": "2025-04-22",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2025-05-22"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935546826"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

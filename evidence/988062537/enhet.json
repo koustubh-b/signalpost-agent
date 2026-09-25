@@ -1,0 +1,75 @@
+{
+  "organisasjonsnummer": "988062537",
+  "navn": "1. FRÆNA ELNESVÅGEN SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "1. FRÆNA ELNESVÅGEN",
+      "fraDato": "2005-04-12 20:28:11",
+      "tilDato": "2026-06-10 18:14:36"
+    }
+  ],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6440",
+    "poststed": "ELNESVÅGEN",
+    "adresse": [
+      "v/Odd Kjetil Sørgaard",
+      "Skrubbærstien 7"
+    ],
+    "kommune": "HUSTADVIKA",
+    "kommunenummer": "1579"
+  },
+  "registreringsdatoEnhetsregisteret": "2005-04-12",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "906 66 656",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6440",
+    "poststed": "ELNESVÅGEN",
+    "adresse": [],
+    "kommune": "HUSTADVIKA",
+    "kommunenummer": "1579"
+  },
+  "stiftelsesdato": "1975-02-15",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "aktivitet": [
+    "Ideel barne og ungdomsorganisasjon.",
+    " "
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2009-05-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/988062537"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,55 @@
+{
+  "organisasjonsnummer": "936535968",
+  "navn": "(ENSE STUDIOS) HØGBRÅT",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-11-13",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "74.110",
+    "beskrivelse": "Industri-, produkt- og motedesignvirksomhet"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3772",
+    "poststed": "KRAGERØ",
+    "adresse": [
+      "Sjådamveien 42B"
+    ],
+    "kommune": "KRAGERØ",
+    "kommunenummer": "4014"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Design, produksjon og salg av klær."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936535968"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

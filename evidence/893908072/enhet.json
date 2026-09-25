@@ -1,0 +1,60 @@
+{
+  "organisasjonsnummer": "893908072",
+  "navn": "1. BJØRKELANGEN SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "speidergruppa.org",
+  "registreringsdatoEnhetsregisteret": "2009-04-14",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "post@speidergruppa.org",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1940",
+    "poststed": "BJØRKELANGEN",
+    "adresse": [
+      "Stasjonsveien 34"
+    ],
+    "kommune": "AURSKOG-HØLAND",
+    "kommunenummer": "3226"
+  },
+  "stiftelsesdato": "1993-01-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Arbeide med barn innen praktisk viten og friluftsliv. Utvikle barn og",
+    "ungdom til å bli selvstendige."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2009-04-14",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/893908072"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

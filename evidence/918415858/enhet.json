@@ -1,0 +1,65 @@
+{
+  "organisasjonsnummer": "918415858",
+  "navn": "2. ST. GEORGS GILDE I DRAMMEN",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2017-03-22",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "anne.haagensen59@gmail.com",
+  "mobil": "408 70 314",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3057",
+    "poststed": "SOLBERGELVA",
+    "adresse": [
+      "c/o Astrid Reinertsen",
+      "Bergåsveien 21"
+    ],
+    "kommune": "DRAMMEN",
+    "kommunenummer": "3301"
+  },
+  "stiftelsesdato": "1984-01-31",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "2. St. Georgs Gilde i Drammen er et lokalt gilde medlem av St. Georgs",
+    "Gildene i Norge. De bygger på speideridealene slik disse er uttrykt i",
+    "speiderloven. Organisasjonens formål er: Å hjelpe de enkelte",
+    "gildemedlemmene til etter beste evne å leve opp til speideridealene. Å",
+    "arbeide for å fremme speider- og gildebevegelsen lokalt, nasjonalt og",
+    "internasjonalt. Å arbeide for mellom-menneskelig hjelpsomhet,",
+    "toleranse og forståelse."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/918415858"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

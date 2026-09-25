@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Ivar Arne Lid",
+    "birth_year": "1975-07-11"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Odd Martin Svensli",
+    "birth_year": "1966-12-02"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Marianne Svensli",
+    "birth_year": "1969-08-05"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kjell-Inge Berknes",
+    "birth_year": "1966-08-26"
+  }
+]

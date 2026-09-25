@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Gustav Stamnes",
+    "birth_year": "1996-03-30"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Anne Lise Ladegård",
+    "birth_year": "1998-05-07"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Charlotte Elisabeth Mellbye",
+    "birth_year": "1998-02-21"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Johanne Hoffmann",
+    "birth_year": "1993-03-04"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Nora Marie Kilstad",
+    "birth_year": "1997-05-06"
+  }
+]

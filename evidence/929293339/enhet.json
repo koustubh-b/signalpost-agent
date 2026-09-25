@@ -1,0 +1,75 @@
+{
+  "organisasjonsnummer": "929293339",
+  "navn": "10KLASSE KINSARVIK UNGDOMSSKULE - SKULETUR",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "KLASSETUR 2023 10KLASSE KINSARVIK UNGDOMSSKULE",
+      "fraDato": "2022-06-27 11:49:12",
+      "tilDato": "2023-06-07 10:17:00"
+    }
+  ],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5781",
+    "poststed": "LOFTHUS",
+    "adresse": [
+      "Ullensvangvegen 257"
+    ],
+    "kommune": "ULLENSVANG",
+    "kommunenummer": "4618"
+  },
+  "registreringsdatoEnhetsregisteret": "2022-06-27",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "480 03 958",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5781",
+    "poststed": "LOFTHUS",
+    "adresse": [
+      "c/o Grete Kristin Lutro Høysæter",
+      "Hellelandsvegen 27"
+    ],
+    "kommune": "ULLENSVANG",
+    "kommunenummer": "4618"
+  },
+  "stiftelsesdato": "2022-03-17",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Tjene og samle inn penger til klassetur i 10. klasse 2023."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929293339"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

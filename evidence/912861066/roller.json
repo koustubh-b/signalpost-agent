@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Kenneth Edvin Haugedal",
+    "birth_year": "1972-09-11"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Robert Van Dijk",
+    "birth_year": "1978-06-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ronny Johansen",
+    "birth_year": "1974-10-12"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "John Christian Webb",
+    "birth_year": "1978-09-28"
+  }
+]

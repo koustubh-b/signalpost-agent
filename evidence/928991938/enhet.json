@@ -1,0 +1,56 @@
+{
+  "organisasjonsnummer": "928991938",
+  "navn": "10W SPITZMÜLLER PETROPHYSICS CONSULTING",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2022-03-26",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "09.109",
+    "beskrivelse": "Andre tjenester tilknyttet utvinning av råolje og naturgass"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1929",
+    "poststed": "AULI",
+    "adresse": [
+      "Grensevegen 19A"
+    ],
+    "kommune": "NES",
+    "kommunenummer": "3228"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Konsulenttjenester innen petrofysikk som gir",
+    "formasjonsevalueringstjenester til olje- og gasselskaper."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/928991938"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

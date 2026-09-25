@@ -1,0 +1,62 @@
+{
+  "organisasjonsnummer": "935174759",
+  "navn": "13 FACTORY ST PTY LTD",
+  "organisasjonsform": {
+    "kode": "NUF",
+    "beskrivelse": "Norskregistrert utenlandsk foretak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5808",
+    "poststed": "BERGEN",
+    "adresse": [
+      "c/o Advokatfirmaet Magnus Legal AS",
+      "Postboks 904 Sentrum"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "registreringsdatoEnhetsregisteret": "2025-03-24",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "71.200",
+    "beskrivelse": "Teknisk prøving og analyse"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Australia",
+    "landkode": "AU",
+    "poststed": "AU-4570 IMBIL QLD",
+    "adresse": [
+      "48 Michelle Ct"
+    ]
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Tilby imspeksjon og testing av oljerørledninger på land og offshore",
+    "for vurdering og analyse, samt tjenester som naturlig er tilknyttet",
+    "dette."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935174759"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

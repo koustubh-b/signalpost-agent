@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Turid Simensen",
+    "birth_year": "1943-07-21"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Magne Sveli",
+    "birth_year": "1950-08-12"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Hilde Andreassen",
+    "birth_year": "1961-12-16"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jan Erik Blomgren",
+    "birth_year": "1941-03-27"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Helge Sagen",
+    "birth_year": "1953-03-29"
+  }
+]

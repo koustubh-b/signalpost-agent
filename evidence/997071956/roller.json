@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Forretningsfører",
+    "group": "Forretningsfører",
+    "name": "Therese Danielsen",
+    "birth_year": "1963-10-24"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "John Cornelis Smits",
+    "birth_year": "1958-03-06"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Therese Danielsen",
+    "birth_year": "1963-10-24"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ragnar Sturtzel",
+    "birth_year": "1958-02-25"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Morten Woldseth",
+    "birth_year": "1958-05-09"
+  }
+]

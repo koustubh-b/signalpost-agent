@@ -1,0 +1,77 @@
+{
+  "organisasjonsnummer": "924829214",
+  "navn": "@RNEBLIKK AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.oerneblikk.com",
+  "registreringsdatoEnhetsregisteret": "2020-04-21",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "86.221",
+    "beskrivelse": "Spesialiserte legetjenester, unntatt psykiatriske legetjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "oerntf@online.no",
+  "mobil": "+4791653049",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0195",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Ørn Terje Foss",
+      "Freserveien 29"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2020-01-02",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2020-01-02",
+  "vedtektsfestetFormaal": [
+    "Arbeidsmedisinsk veiledning og spesialistpraksis og annet som naturlig",
+    "faller sammen med dette"
+  ],
+  "aktivitet": [
+    "Arbeidsmedisinsk veiledning og spesialistpraksis og annet som naturlig",
+    "faller sammen med dette (bransjekode 86.221)"
+  ],
+  "registreringsdatoForetaksregisteret": "2020-04-21",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2020-04-21",
+  "fravalgRevisjonBeslutningsDato": "2020-01-02",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2020-04-21"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924829214"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

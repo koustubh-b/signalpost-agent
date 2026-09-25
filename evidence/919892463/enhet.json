@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "919892463",
+  "navn": "17. MAI STOKMARKNES",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2017-11-24",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "8450",
+    "poststed": "STOKMARKNES",
+    "adresse": [
+      "5 klasse",
+      "Skolegata 3"
+    ],
+    "kommune": "HADSEL",
+    "kommunenummer": "1866"
+  },
+  "stiftelsesdato": "2017-10-11",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "17.mai Stokmarknes er en forening hvor formålet er å arrangere 17. mai",
+    "på Stokmarknes, i Hadsel kommune, hvert år."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2017-11-24",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919892463"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

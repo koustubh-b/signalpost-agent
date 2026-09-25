@@ -1,0 +1,63 @@
+{
+  "organisasjonsnummer": "934469488",
+  "navn": "1000 BALLONGER DA",
+  "organisasjonsform": {
+    "kode": "DA",
+    "beskrivelse": "Ansvarlig selskap med delt ansvar",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/DA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2024-11-18",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.201",
+    "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2069",
+    "poststed": "JESSHEIM",
+    "adresse": [
+      "c/o Martin Andersson",
+      "Inga Gulbrandsens veg 6"
+    ],
+    "kommune": "ULLENSAKER",
+    "kommunenummer": "3209"
+  },
+  "stiftelsesdato": "2024-11-04",
+  "institusjonellSektorkode": {
+    "kode": "2300",
+    "beskrivelse": "Personlige foretak"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2025-10-20",
+  "vedtektsfestetFormaal": [
+    "Produksjon av musikk og annen virksomhet som naturlig hører sammen med",
+    "dette."
+  ],
+  "aktivitet": [
+    "Utøvende kunstnere og underholdningsvirksomhet innen musikk."
+  ],
+  "registreringsdatoForetaksregisteret": "2024-11-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934469488"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "916915985",
+  "navn": "17. MAI-KOMITEANE PÅ VALESTRAND",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5281",
+    "poststed": "VALESTRANDSFOSSEN",
+    "adresse": [
+      "c/o Kristin Kleppe",
+      "Burkelandsvegen 100"
+    ],
+    "kommune": "OSTERØY",
+    "kommunenummer": "4630"
+  },
+  "registreringsdatoEnhetsregisteret": "2016-04-23",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "17.mai.valestrand@gmail.com",
+  "mobil": "402 32 844",
+  "stiftelsesdato": "2016-04-11",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "aktivitet": [
+    "Foreininga skal arrangera 17. mai-feiring for Valestrandbygda."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916915985"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

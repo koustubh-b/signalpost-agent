@@ -1,0 +1,62 @@
+{
+  "organisasjonsnummer": "918761268",
+  "navn": "17.MAI KOMITE FOR LYE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4347",
+    "poststed": "LYE",
+    "adresse": [
+      "c/o Johnny Scheie",
+      "Klokkelyngvegen 7"
+    ],
+    "kommune": "TIME",
+    "kommunenummer": "1121"
+  },
+  "registreringsdatoEnhetsregisteret": "2017-03-27",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "jscheie@sinus-elektro.no",
+  "mobil": "993 83 548",
+  "stiftelsesdato": "2016-10-31",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "aktivitet": [
+    "Foreningen skal planlegge og gjennomføre 17.mai på Lye. Overskudd skal",
+    "gå til Polenkomiteen på Lye slik at elever får reise på skoletur til",
+    "Polen."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2017-03-27",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/918761268"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

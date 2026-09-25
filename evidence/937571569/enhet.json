@@ -1,0 +1,86 @@
+{
+  "organisasjonsnummer": "937571569",
+  "navn": "153 INVEST AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3134",
+    "poststed": "TØNSBERG",
+    "adresse": [
+      "c/o 55 Invest AS",
+      "Postboks 55 Råel"
+    ],
+    "kommune": "TØNSBERG",
+    "kommunenummer": "3905"
+  },
+  "registreringsdatoEnhetsregisteret": "2026-04-24",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "68.200",
+    "beskrivelse": "Utleie av egen eller leid fast eiendom"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3080",
+    "poststed": "HOLMESTRAND",
+    "adresse": [
+      "c/o Puma Gruppen AS",
+      "Rådhusgaten 3"
+    ],
+    "kommune": "HOLMESTRAND",
+    "kommunenummer": "3903"
+  },
+  "stiftelsesdato": "2026-03-30",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2026-03-30",
+  "vedtektsfestetFormaal": [
+    "Kjøpe, selge eie, leie ut, utvikle og drifte fast eiendom, samt eie",
+    "aksjer og andeler i andre eiendomsselskap samt det som naturlig står i",
+    "forbindelse med dette."
+  ],
+  "aktivitet": [
+    "Erverv, drift, salg og forvaltning av fast eiendom, eierskap til andre",
+    "eiendomsselskap mv."
+  ],
+  "registreringsdatoForetaksregisteret": "2026-04-24",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2026-04-24",
+  "fravalgRevisjonBeslutningsDato": "2026-03-30",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 5000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2026-04-24"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937571569"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,55 @@
+{
+  "organisasjonsnummer": "926948040",
+  "navn": "13EN TVEITEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2021-04-15",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "85.594",
+    "beskrivelse": "Privatundervisning"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5042",
+    "poststed": "BERGEN",
+    "adresse": [
+      "Moldbakken 28"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Leksehjelp og undervisning."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926948040"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

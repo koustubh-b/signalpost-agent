@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Erik Hansen",
+    "birth_year": "1980-06-29"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Erik Hansen",
+    "birth_year": "1980-06-29"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "988999016",
+    "birth_year": null
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "organisasjonsnummer": "978653022",
+  "navn": "2. NØTTERØY SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "2. NØTTERØY SPEIDERGRUPPE",
+      "fraDato": "1997-06-26 20:16:24",
+      "tilDato": "1999-12-20 19:11:33"
+    }
+  ],
+  "hjemmeside": "www.2notteroy.no",
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3120",
+    "poststed": "NØTTERØY",
+    "adresse": [
+      "c/o Inger Helene Holmelin",
+      "Lundgaardveien 10"
+    ],
+    "kommune": "FÆRDER",
+    "kommunenummer": "3911"
+  },
+  "registreringsdatoEnhetsregisteret": "1997-06-26",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "iholmeli@online.no",
+  "telefon": "33 32 17 51",
+  "mobil": "995 94 708",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3121",
+    "poststed": "NØTTERØY",
+    "adresse": [
+      "Speiderveien 5"
+    ],
+    "kommune": "FÆRDER",
+    "kommunenummer": "3911"
+  },
+  "stiftelsesdato": "1931-12-15",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speidervirksomhet."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2016-04-06",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/978653022"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

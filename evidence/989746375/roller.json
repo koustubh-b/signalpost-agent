@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Harald Høiberg",
+    "birth_year": "1952-11-17"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Thom Oscar Lauritsen",
+    "birth_year": "1965-08-15"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Randi Marie Rypestøl",
+    "birth_year": "1969-11-15"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Janne Paulsen",
+    "birth_year": "1979-02-26"
+  }
+]

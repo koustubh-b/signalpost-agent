@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Ole Eriksen",
+    "birth_year": "1979-08-25"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Preben Fagerholt",
+    "birth_year": "1981-06-29"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jørgen Walnum",
+    "birth_year": "1980-04-07"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Andreas Halvorsen",
+    "birth_year": "1949-07-18"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Tor Edvardsen",
+    "birth_year": "1958-04-05"
+  }
+]

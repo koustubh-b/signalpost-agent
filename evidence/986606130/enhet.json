@@ -1,0 +1,62 @@
+{
+  "organisasjonsnummer": "986606130",
+  "navn": "1. VÅLERENGA SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2022-04-01",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "anetteml@gmail.com",
+  "mobil": "970 07 398",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0957",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Anette Monsen Londalen",
+      "Alundamveien 67"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "1911-12-31",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speideraktiviteter for barn og ungdom på Vålerenga i bydel Gamle Oslo",
+    "i Oslo kommune. Speidergruppa er medlem av Oslospeiderne krets og",
+    "Norges speiderforbund."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2022-04-01",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/986606130"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

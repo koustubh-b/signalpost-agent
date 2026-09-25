@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Stian Andresen",
+    "birth_year": "1983-10-24"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Camilla Pernille Kvaksrud",
+    "birth_year": "1988-04-12"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Guro Sukkestad Mistereggen",
+    "birth_year": "1986-04-15"
+  }
+]

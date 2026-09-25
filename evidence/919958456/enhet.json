@@ -1,0 +1,77 @@
+{
+  "organisasjonsnummer": "919958456",
+  "navn": "101 INVEST AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2017-11-23",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "85.531",
+    "beskrivelse": "Undervisning ved godkjente trafikkskoler"
+  },
+  "hjelpeenhetskode": {
+    "kode": "70.100",
+    "beskrivelse": "Hovedkontortjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1831",
+    "poststed": "ASKIM",
+    "adresse": [
+      "Hovsveien 8"
+    ],
+    "kommune": "INDRE ØSTFOLD",
+    "kommunenummer": "3118"
+  },
+  "stiftelsesdato": "2017-11-12",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2018-01-12",
+  "vedtektsfestetFormaal": [
+    "Kjøp, salg og utleie av fast eller leid eiendom, og utstyr/verktøy og",
+    "maskiner av enhver art. Investering i andre selskaper, aksjer, fond og",
+    "verdipapirer. Investeringsvirksomhet av enhver art, herunder",
+    "deltakelse i andre selskaper samt alt som står i forbindelse hermed."
+  ],
+  "aktivitet": [
+    "Investering i selskaper."
+  ],
+  "registreringsdatoForetaksregisteret": "2017-11-23",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2017-11-23",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2017-11-23"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919958456"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

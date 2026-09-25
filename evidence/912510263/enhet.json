@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "912510263",
+  "navn": "08 SERVICE DANIEL SAVIC",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2013-10-08",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "88.996",
+    "beskrivelse": "Andre sosialtjenester uten botilbud ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "dakisavic@live.com",
+  "mobil": "979 24 428",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4072",
+    "poststed": "RANDABERG",
+    "adresse": [
+      "Fjellprydveien 1"
+    ],
+    "kommune": "RANDABERG",
+    "kommunenummer": "1127"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Helse og omsorg: Arbeid med barn, unge og voksne med forskjellig",
+    "funksjonshemming, behov og bakgrunn. Annen forebyggende helsetjeneste."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912510263"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

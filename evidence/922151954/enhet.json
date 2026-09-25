@@ -1,0 +1,69 @@
+{
+  "organisasjonsnummer": "922151954",
+  "navn": "1912 SAMEIE",
+  "organisasjonsform": {
+    "kode": "ESEK",
+    "beskrivelse": "Eierseksjonssameie",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ESEK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5020",
+    "poststed": "BERGEN",
+    "adresse": [
+      "Postboks 7280"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "registreringsdatoEnhetsregisteret": "2019-02-01",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "97.001",
+    "beskrivelse": "Aktiviteter i borettslag og boligsameier"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5015",
+    "poststed": "BERGEN",
+    "adresse": [
+      "Nygårdsgaten 13"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "stiftelsesdato": "2018-09-24",
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2026-03-16",
+  "vedtektsfestetFormaal": [
+    "Eierseksjonssameie"
+  ],
+  "aktivitet": [
+    "Eierseksjonssameie"
+  ],
+  "registreringsdatoForetaksregisteret": "2019-02-01",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922151954"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

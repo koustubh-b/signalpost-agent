@@ -1,0 +1,83 @@
+{
+  "organisasjonsnummer": "980292738",
+  "navn": "1-2-TRE ELEMENTPRODUKSJON AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "ILEBREKKE INDUSTRI AS",
+      "fraDato": "1998-11-27 20:13:26",
+      "tilDato": "2007-01-06 14:40:04"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "1998-11-27",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "16.230",
+    "beskrivelse": "Produksjon av andre bygningsartikler"
+  },
+  "antallAnsatte": 49,
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "1999-01-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2001-02-15",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-09-10",
+  "epostadresse": "firmapost@1-2-tre.no",
+  "telefon": "33 30 74 00",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3178",
+    "poststed": "VÅLE",
+    "adresse": [
+      "Svinevoll",
+      "Bispeveien 1526"
+    ],
+    "kommune": "TØNSBERG",
+    "kommunenummer": "3905"
+  },
+  "stiftelsesdato": "1998-10-15",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2016-08-25",
+  "vedtektsfestetFormaal": [
+    "Produksjon og handel og hva derved står i forbindelse."
+  ],
+  "aktivitet": [
+    "Produksjon av byggevarer."
+  ],
+  "registreringsdatoForetaksregisteret": "1998-11-27",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 500000.0,
+    "antallAksjer": 500,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "1998-11-27"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/980292738"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

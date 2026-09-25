@@ -1,0 +1,81 @@
+{
+  "organisasjonsnummer": "979168268",
+  "navn": "...BARE MODALEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "ANDERS HURUM MODALEN",
+      "fraDato": "1997-08-27 18:18:29",
+      "tilDato": "2003-08-13 20:33:31"
+    },
+    {
+      "navn": "MODALEN MASKIN",
+      "fraDato": "2003-08-13 20:33:31",
+      "tilDato": "2017-05-31 13:24:00"
+    }
+  ],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3503",
+    "poststed": "HØNEFOSS",
+    "adresse": [
+      "Postboks 1222 Flattum"
+    ],
+    "kommune": "RINGERIKE",
+    "kommunenummer": "3305"
+  },
+  "registreringsdatoEnhetsregisteret": "1997-08-27",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "33.120",
+    "beskrivelse": "Reparasjon og vedlikehold av maskiner"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2017-05-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2017-09-20",
+  "mobil": "91354577",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1543",
+    "poststed": "VESTBY",
+    "adresse": [
+      "c/o Vestby Regnskapskontor AS",
+      "Kleverveien 6"
+    ],
+    "kommune": "VESTBY",
+    "kommunenummer": "3216"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Maskinservice og veivedlikehold, kurs og eventsvirksomhet."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/979168268"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

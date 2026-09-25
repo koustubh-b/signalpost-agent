@@ -1,0 +1,56 @@
+{
+  "organisasjonsnummer": "920921167",
+  "navn": "1-2-3 FØRSTEHJELP MARTHE OPITZ VÅRDAL",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2018-05-30",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "85.597",
+    "beskrivelse": "Annen undervisning ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5379",
+    "poststed": "STEINSLAND",
+    "adresse": [
+      "Lauvåsen 28"
+    ],
+    "kommune": "ØYGARDEN",
+    "kommunenummer": "4626"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Førsthjepskurs, helseberedskap og alt som kommer inn under dette."
+  ],
+  "registreringsdatoForetaksregisteret": "2018-05-30",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920921167"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

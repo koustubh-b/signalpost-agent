@@ -1,0 +1,93 @@
+{
+  "organisasjonsnummer": "911837722",
+  "navn": "123KULDE AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "KIM'S KJØLESERVICE AS",
+      "fraDato": "2013-04-18 20:27:03",
+      "tilDato": "2015-01-12 12:36:12"
+    }
+  ],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5888",
+    "poststed": "BERGEN",
+    "adresse": [
+      "Postboks 290"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "registreringsdatoEnhetsregisteret": "2013-04-18",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "43.222",
+    "beskrivelse": "Kuldeanlegg-, varmepumpearbeid og installasjon av peiser"
+  },
+  "antallAnsatte": 7,
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2013-05-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2013-06-15",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-09-10",
+  "mobil": "416 16 565",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5265",
+    "poststed": "YTRE ARNA",
+    "adresse": [
+      "Fabrikkvegen 1"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "stiftelsesdato": "2013-02-27",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2014-09-25",
+  "vedtektsfestetFormaal": [
+    "Salg, service og montasje av kuldeteknisk utstyr."
+  ],
+  "aktivitet": [
+    "Salg, service og montasje av kuldeteknisk utstyr."
+  ],
+  "registreringsdatoForetaksregisteret": "2013-04-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2013-04-18",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 300,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2013-04-18"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/911837722"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

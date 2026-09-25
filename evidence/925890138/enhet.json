@@ -1,0 +1,57 @@
+{
+  "organisasjonsnummer": "925890138",
+  "navn": "14 CUSTOM V/ JONASSEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2020-11-02",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.120",
+    "beskrivelse": "Skapende kunstnerisk virksomhet innenfor visuell kunst"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4365",
+    "poststed": "NÆRBØ",
+    "adresse": [
+      "Roskdalen 9"
+    ],
+    "kommune": "HÅ",
+    "kommunenummer": "1119"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Malerkunst og salg av egen kunst, konsulentvirksomhet innen",
+    "markedsføring og logodesign og annet som naturlig faller sammen med",
+    "dette."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925890138"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

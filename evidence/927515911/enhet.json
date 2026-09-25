@@ -1,0 +1,81 @@
+{
+  "organisasjonsnummer": "927515911",
+  "navn": "123 REVISJON AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "NAKKENS ANDRE AS",
+      "fraDato": "2021-08-09 15:42:51",
+      "tilDato": "2023-03-27 16:43:30"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2021-08-09",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "69.201",
+    "beskrivelse": "Revisjon"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2023-09-05",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-09-05",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2023-09-12",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2023-09-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3124",
+    "poststed": "TØNSBERG",
+    "adresse": [
+      "Jarlsøveien 84"
+    ],
+    "kommune": "TØNSBERG",
+    "kommunenummer": "3905"
+  },
+  "stiftelsesdato": "2021-07-09",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2023-08-21",
+  "vedtektsfestetFormaal": [
+    "Revisjon og konsulentvirksomhet samt å føre regnskap for andre, og",
+    "andre relaterte tjenester."
+  ],
+  "aktivitet": [
+    "Revisjon, konsulentvirksomhet og økonomisk rådgivning, samt å føre",
+    "regnskap for andre."
+  ],
+  "registreringsdatoForetaksregisteret": "2021-08-09",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 100000.0,
+    "antallAksjer": 100000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2023-09-06"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927515911"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

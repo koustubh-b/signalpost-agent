@@ -1,0 +1,84 @@
+{
+  "organisasjonsnummer": "914204364",
+  "navn": "1852 INVEST AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4696",
+    "poststed": "KRISTIANSAND S",
+    "adresse": [
+      "Postboks 9094 Sørlandsparken"
+    ],
+    "kommune": "KRISTIANSAND",
+    "kommunenummer": "4204"
+  },
+  "registreringsdatoEnhetsregisteret": "2014-09-24",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "68.110",
+    "beskrivelse": "Kjøp og salg av egen fast eiendom"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4636",
+    "poststed": "KRISTIANSAND S",
+    "adresse": [
+      "Skibåsen 37"
+    ],
+    "kommune": "KRISTIANSAND",
+    "kommunenummer": "4204"
+  },
+  "stiftelsesdato": "2014-09-05",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2014-11-20",
+  "vedtektsfestetFormaal": [
+    "Investeringsvirksomhet med verdipapirer og/eller andre verdiobjekter,",
+    "herunder blant annet kjøp, salg og leie av fast eiendom, samt alt som",
+    "står i naturlig forbindelse med dette."
+  ],
+  "aktivitet": [
+    "Investeringsvirksomhet med verdipapirer og/eller andre verdiobjekter,",
+    "herunder blant annet kjøp, salg og leie av fast eiendom, samt alt som",
+    "står i naturlig forbindelse med dette."
+  ],
+  "registreringsdatoForetaksregisteret": "2014-09-24",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": true,
+  "kapital": {
+    "belop": 300000.0,
+    "antallAksjer": 100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2014-12-03"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/914204364"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

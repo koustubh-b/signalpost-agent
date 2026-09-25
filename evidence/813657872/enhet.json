@@ -1,0 +1,73 @@
+{
+  "organisasjonsnummer": "813657872",
+  "navn": "1. SKUDENESHAVN SJØ SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.1skudeneshavnsjo.com",
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4297",
+    "poststed": "SKUDENESHAVN",
+    "adresse": [
+      "Postboks 86"
+    ],
+    "kommune": "KARMØY",
+    "kommunenummer": "1149"
+  },
+  "registreringsdatoEnhetsregisteret": "2014-05-20",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "gruppen@1skudeneshavnsjo.com",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4280",
+    "poststed": "SKUDENESHAVN",
+    "adresse": [
+      "Holmen 21"
+    ],
+    "kommune": "KARMØY",
+    "kommunenummer": "1149"
+  },
+  "stiftelsesdato": "1928-12-22",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Skal utvikle mennesker til selvstendighet og til å ta aktivt ansvar i",
+    "samfunnet i samsvar med idealene fra speiderløftet og speiderloven.",
+    "Aktiviteter for barn og ungdom, med lærerike og spennende aktiviteter",
+    "på land og sjø. Stort fokus på sikkerhetsopplæring og mestring."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2014-05-20",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/813657872"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

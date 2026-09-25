@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "818825072",
+  "navn": "17. MAIKOMITEEN VED INNBYGDA SKOLE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2017-04-04",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "979 77 404",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2420",
+    "poststed": "TRYSIL",
+    "adresse": [
+      "c/o Elisabet Søgaard",
+      "Fageråsvegen 1"
+    ],
+    "kommune": "TRYSIL",
+    "kommunenummer": "3421"
+  },
+  "stiftelsesdato": "2017-03-12",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Arrangere 17. mai i Innbygda Trysil på vegne av 7. klassene og bidra",
+    "til skoleavslutning for disse."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/818825072"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

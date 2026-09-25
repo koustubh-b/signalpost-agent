@@ -1,0 +1,63 @@
+{
+  "organisasjonsnummer": "918186220",
+  "navn": "1. SELFORS SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2016-12-13",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "8616",
+    "poststed": "MO I RANA",
+    "adresse": [
+      "c/o Carina Berge",
+      "Aspveien 2"
+    ],
+    "kommune": "RANA",
+    "kommunenummer": "1833"
+  },
+  "stiftelsesdato": "1978-08-12",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speidergruppe som driver med friluftsliv for barn og unge fra 3.",
+    "klasse og oppover. Vi har ukentlige møter der vi øver på ferdigheter",
+    "som førstehjelp, kart og kompass, bruk av kniv og øks, primitiv",
+    "matlaging, samarbeid, toleranse og mye mer. Vi drar også på hytteturer",
+    "og teltturer. Vårt mål er å hjelpe barn til å bli selvstendige,",
+    "ansvarsbevisste og engasjert i samfunnet."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2016-12-13",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/918186220"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

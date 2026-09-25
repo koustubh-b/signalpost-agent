@@ -22,7 +22,7 @@ import datetime as dt
 from dataclasses import dataclass
 from typing import Any, Optional
 
-import requests
+from .http_util import get_json
 
 BASE_URL = "https://data.brreg.no/regnskapsregisteret/regnskap"
 # Confirmed against the LIVE api-docs on 2026-09-24 (the archived spec on
@@ -30,8 +30,7 @@ BASE_URL = "https://data.brreg.no/regnskapsregisteret/regnskap"
 # shape): orgNummer is a PATH parameter, e.g.
 #   GET https://data.brreg.no/regnskapsregisteret/regnskap/923609016
 # NOT a query parameter on the bare /regnskap path. Response is a JSON list
-# of accounting-year records (verified against Equinor's real 2025 filing),
-# matching the field names used in extract_headline_figures() below.
+# of accounting-year records (verified against Equinor's real 2025 filing).
 
 
 @dataclass
@@ -55,18 +54,8 @@ def fetch_latest_accounts(orgnr: str, timeout: float = 8.0) -> Optional[Regnskap
     than a wrong or fabricated number given the challenge's scoring rules.
     """
     url = f"{BASE_URL}/{orgnr}"
-    try:
-        resp = requests.get(
-            url,
-            headers={"Accept": "application/json"},
-            timeout=timeout,
-        )
-        if resp.status_code != 200:
-            return None
-        records = resp.json()
-        if not isinstance(records, list) or not records:
-            return None
-    except (requests.exceptions.RequestException, ValueError):
+    records = get_json(url, timeout=timeout)
+    if not isinstance(records, list) or not records:
         return None
 
     def _period_end(rec: dict) -> str:
@@ -85,9 +74,9 @@ def fetch_latest_accounts(orgnr: str, timeout: float = 8.0) -> Optional[Regnskap
 
 def extract_headline_figures(result: RegnskapResult) -> dict[str, Any]:
     """
-    Pull out a small, clearly-labeled set of headline numbers from a raw
-    accounts record, in the currency it was reported in. Anything not
-    present in the source is simply left out, never zero-filled.
+    Pull out a clearly-labeled set of headline numbers from a raw accounts
+    record, in the currency it was reported in. Anything not present in the
+    source is simply left out, never zero-filled or estimated.
     """
     rec = result.latest
     out: dict[str, Any] = {"currency": rec.get("valuta")}
@@ -95,9 +84,12 @@ def extract_headline_figures(result: RegnskapResult) -> dict[str, Any]:
     resultat = rec.get("resultatregnskapResultat", {}) or {}
     drift = resultat.get("driftsresultat", {}) or {}
     driftsinntekter = drift.get("driftsinntekter", {}) or {}
+    driftskostnader = drift.get("driftskostnader", {}) or {}
 
     if "sumDriftsinntekter" in driftsinntekter:
         out["revenue"] = driftsinntekter["sumDriftsinntekter"]
+    if "sumDriftskostnader" in driftskostnader:
+        out["operating_expenses"] = driftskostnader["sumDriftskostnader"]
     if "driftsresultat" in drift:
         out["operating_result"] = drift["driftsresultat"]
     if "aarsresultat" in resultat:
@@ -107,5 +99,17 @@ def extract_headline_figures(result: RegnskapResult) -> dict[str, Any]:
     egenkapital = egenkapital_gjeld.get("egenkapital", {}) or {}
     if "sumEgenkapital" in egenkapital:
         out["equity"] = egenkapital["sumEgenkapital"]
+    gjeld = egenkapital_gjeld.get("gjeld", {}) or {}
+    if "sumGjeld" in gjeld:
+        out["liabilities"] = gjeld["sumGjeld"]
+
+    eiendeler = rec.get("eiendeler", {}) or {}
+    if "sumEiendeler" in eiendeler:
+        out["assets"] = eiendeler["sumEiendeler"]
+
+    loenn = rec.get("loennOpplysninger", {}) or {}
+    if "loennskostnader" in loenn:
+        out["wage_costs"] = loenn["loennskostnader"]
 
     return {k: v for k, v in out.items() if v is not None}
+

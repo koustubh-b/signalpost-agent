@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Jon-Terje Lepsøy",
+    "birth_year": "1965-03-08"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Jon-Terje Lepsøy",
+    "birth_year": "1965-03-08"
+  },
+  {
+    "title": "Varamedlem",
+    "group": "Styre",
+    "name": "Liv My Falck",
+    "birth_year": "1974-06-14"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "888976272",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "987260335",
+    "birth_year": null
+  }
+]

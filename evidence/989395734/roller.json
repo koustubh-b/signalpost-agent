@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Stine Bugge",
+    "birth_year": "1974-11-01"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Rolf Arnesen",
+    "birth_year": "1957-11-03"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Stine Bugge",
+    "birth_year": "1974-11-01"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Andrea Nyvang",
+    "birth_year": "1993-01-10"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "980422917",
+    "birth_year": null
+  }
+]

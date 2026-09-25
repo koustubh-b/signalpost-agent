@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Markus Rånes",
+    "birth_year": "1993-09-24"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Anne Astad",
+    "birth_year": "1968-08-22"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Åge Ødegård",
+    "birth_year": "1974-08-03"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Lillian Harstad",
+    "birth_year": "1982-09-06"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Andreas Aarset",
+    "birth_year": "1972-12-30"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Dina Marie Gildestad",
+    "birth_year": "2004-04-07"
+  }
+]

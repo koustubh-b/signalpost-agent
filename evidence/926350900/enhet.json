@@ -1,0 +1,67 @@
+{
+  "organisasjonsnummer": "926350900",
+  "navn": "2 A TECH APS",
+  "organisasjonsform": {
+    "kode": "UTLA",
+    "beskrivelse": "Utenlandsk enhet",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2021-01-07",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Danmark",
+    "landkode": "DK",
+    "poststed": "DK-2100 KØBENHAVN Ø",
+    "adresse": [
+      "c/o Italia Consult",
+      "Horenemansgade 33"
+    ]
+  },
+  "stiftelsesdato": "2014-10-07",
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2014-10-07",
+  "vedtektsfestetFormaal": [
+    "Utenlandsk foretak"
+  ],
+  "aktivitet": [
+    "Utenlandsk enhet/foretak"
+  ],
+  "registreringsdatoForetaksregisteret": "2021-01-07",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "registreringsnummerIHjemlandet": "36399740",
+  "foretaksformIHjemlandet": {
+    "kode": "APS",
+    "beskrivelse": "Anpartsselskap",
+    "beskrivelseBokmaal": "Selskap med begrenset ansvar"
+  },
+  "utenlandskRegisterNavn": "Erhvervsstyrelsen",
+  "utenlandskRegisterAdresse": {
+    "land": "Danmark",
+    "poststed": "2100 København Ø",
+    "adresse": [
+      "Langelinie Allé 17"
+    ]
+  },
+  "underlagtLovgivningLand": "Danmark",
+  "underlagtLovgivningLandKode": "DK",
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926350900"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

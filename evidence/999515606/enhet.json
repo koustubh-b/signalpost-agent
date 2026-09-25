@@ -1,0 +1,75 @@
+{
+  "organisasjonsnummer": "999515606",
+  "navn": "1001 NATT AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2013-01-12",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "47.110",
+    "beskrivelse": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler"
+  },
+  "antallAnsatte": 5,
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2013-01-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2013-04-09",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-11",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-08-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "8622",
+    "poststed": "MO I RANA",
+    "adresse": [
+      "Kirkegata 10"
+    ],
+    "kommune": "RANA",
+    "kommunenummer": "1833"
+  },
+  "stiftelsesdato": "2012-12-18",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2022-03-01",
+  "vedtektsfestetFormaal": [
+    "Handel med dagligvarer og andre produkter/tjenester som naturlig hører",
+    "sammen med dette."
+  ],
+  "aktivitet": [
+    "Dagligvareforretning."
+  ],
+  "registreringsdatoForetaksregisteret": "2013-01-12",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 1000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2013-01-12"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/999515606"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

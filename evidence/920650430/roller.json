@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Lars Christian Øystad",
+    "birth_year": "1981-12-10"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Kjersti Moe",
+    "birth_year": "1979-05-31"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Arne Vold",
+    "birth_year": "1969-07-05"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Inger Kristin Mehus",
+    "birth_year": "1986-04-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kristian Slagstad",
+    "birth_year": "1987-05-12"
+  }
+]

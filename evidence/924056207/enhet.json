@@ -1,0 +1,55 @@
+{
+  "organisasjonsnummer": "924056207",
+  "navn": "1987 AMIN FAISAL HASSAN AHMAD",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-12-10",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "47.110",
+    "beskrivelse": "Detaljhandel med bredt vareutvalg med hovedvekt på nærings- og nytelsesmidler"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5353",
+    "poststed": "STRAUME",
+    "adresse": [
+      "Steinsvikvegen 19A"
+    ],
+    "kommune": "ØYGARDEN",
+    "kommunenummer": "4626"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Butikk med dagligvarer blant annet grønnsaker, ris, pasta osv."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/924056207"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

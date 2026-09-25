@@ -1,0 +1,71 @@
+{
+  "organisasjonsnummer": "996239977",
+  "navn": "1. HAUGERUD SPEIDERGRUPPE AV NORGES SPEIDERFORBUND",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "1haugerud.no",
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0616",
+    "poststed": "OSLO",
+    "adresse": [
+      "Postboks 2 Haugerud"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "registreringsdatoEnhetsregisteret": "2010-11-30",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0673",
+    "poststed": "OSLO",
+    "adresse": [
+      "Haugerudsenteret 47"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "1945-12-16",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "1. Haugerud Speidergruppe av Norges Speiderforbund's formål er å",
+    "utvikle mennesker til selvstendighet og til å ta aktivt ansvar i",
+    "samfunnet i samsvar med idealene fra speiderløftet og speiderloven."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2010-11-30",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/996239977"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

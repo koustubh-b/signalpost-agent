@@ -1,0 +1,80 @@
+{
+  "organisasjonsnummer": "926397036",
+  "navn": "123HAPPYNOW AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2021-01-25",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "85.597",
+    "beskrivelse": "Annen undervisning ellers"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2022-03-16",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2022-03-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6516",
+    "poststed": "KRISTIANSUND N",
+    "adresse": [
+      "c/o Aseema Uglefot",
+      "Nergata 18"
+    ],
+    "kommune": "KRISTIANSUND",
+    "kommunenummer": "1505"
+  },
+  "stiftelsesdato": "2020-11-30",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2020-11-30",
+  "vedtektsfestetFormaal": [
+    "Kursvirksomhet, undervisning, veiledning, rådgivning coaching,",
+    "alternativ behandling, og opplæring innen personlig utvikling herunder",
+    "generell bevisstgjøring."
+  ],
+  "aktivitet": [
+    "Kurs og utdanningsvirksomhet med hovedvekt på nettbaserte løsninger.",
+    "Det er relatert utdannelser innen stressmestring,",
+    "konsentrasjonsproblematikk, life coaching, hypnoterapi og healing.",
+    "Utdannelsene skal nå alle som vil jobbe dette på alle nivå. Vi vil",
+    "også tilby individuell oppfølging og rådgivning."
+  ],
+  "registreringsdatoForetaksregisteret": "2021-01-25",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2021-01-25",
+  "fravalgRevisjonBeslutningsDato": "2020-11-30",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2021-01-25"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926397036"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

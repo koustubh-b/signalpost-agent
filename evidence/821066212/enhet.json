@@ -1,0 +1,93 @@
+{
+  "organisasjonsnummer": "821066212",
+  "navn": "123 HOUSING AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "GLOBAL ALLIANCE AS",
+      "fraDato": "2018-07-04 14:34:34",
+      "tilDato": "2018-12-21 12:14:55"
+    },
+    {
+      "navn": "RS GLOBAL ENERGY AS",
+      "fraDato": "2018-12-21 12:14:55",
+      "tilDato": "2023-07-11 10:44:47"
+    }
+  ],
+  "hjemmeside": "www.123housing.no",
+  "registreringsdatoEnhetsregisteret": "2018-07-04",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "68.200",
+    "beskrivelse": "Utleie av egen eller leid fast eiendom"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2023-10-03",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-11-01",
+  "epostadresse": "gaute@steinkopf.no",
+  "mobil": "48890081",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0276",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Tore Hofstad",
+      "Nedre Skøyen vei 12"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2018-05-17",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2024",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2025-03-03",
+  "vedtektsfestetFormaal": [
+    "Å formidle bolig og annen virksomhet som hører naturlig inn under",
+    "dette, samt å eie i andre selskaper."
+  ],
+  "aktivitet": [
+    "Formidle konsulenttjenester ved å leie inn",
+    "konsulenter fra både norske og utenlandske konsulentselskaper.",
+    "Hovedområdet for bedriftens tjenester vil være å hjelpe norske og",
+    "utenlandske selskaper med å etablerer seg i Norge og andre",
+    "land/regioner som selskapet har sitt kontaktnett i."
+  ],
+  "registreringsdatoForetaksregisteret": "2018-07-04",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2018-07-04",
+  "fravalgRevisjonBeslutningsDato": "2018-05-17",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 2950039.92,
+    "antallAksjer": 73750998,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2025-03-19"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/821066212"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

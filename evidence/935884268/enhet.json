@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "935884268",
+  "navn": "123 HÅNDVERKERTJENESTER GABRIEL BJERKNES",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-08-05",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "43.340",
+    "beskrivelse": "Maler- og glassarbeid"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3210",
+    "poststed": "SANDEFJORD",
+    "adresse": [
+      "Museumsgata 4"
+    ],
+    "kommune": "SANDEFJORD",
+    "kommunenummer": "3907"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Malertjenester.",
+    "Gulvlegging, flislegging og tapetsering.",
+    "Snekkerarbeid, montering av dører, vinduer, kjøkken med mer.",
+    "Budtjenester.",
+    "Reparasjon og vedlikehold av biler."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935884268"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

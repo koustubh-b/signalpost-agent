@@ -1,0 +1,75 @@
+{
+  "organisasjonsnummer": "832915432",
+  "navn": "12 VOLT AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2024-02-12",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "43.210",
+    "beskrivelse": "Elektrisk installasjonsarbeid"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2024-02-18",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2024-02-19",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3186",
+    "poststed": "HORTEN",
+    "adresse": [
+      "Borreveien 11"
+    ],
+    "kommune": "HORTEN",
+    "kommunenummer": "3901"
+  },
+  "stiftelsesdato": "2024-02-06",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2024-02-06",
+  "vedtektsfestetFormaal": [
+    "Import, salg, montasje og utvikling av løsninger for strøm og varme i",
+    "bil, båt og hytte."
+  ],
+  "aktivitet": [
+    "Import, salg, montasje og utvikling av løsninger for strøm og varme i",
+    "bil, båt og hytte."
+  ],
+  "registreringsdatoForetaksregisteret": "2024-02-12",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2024-02-12",
+  "fravalgRevisjonBeslutningsDato": "2024-02-06",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 100000.0,
+    "antallAksjer": 100000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2024-02-12"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/832915432"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

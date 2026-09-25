@@ -1,0 +1,75 @@
+{
+  "organisasjonsnummer": "937379382",
+  "navn": "&LUNDE AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2026-03-18",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "70.200",
+    "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2026-03-31",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-03-31",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-07-15",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-07-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3950",
+    "poststed": "BREVIK",
+    "adresse": [
+      "Rindes veg 13"
+    ],
+    "kommune": "PORSGRUNN",
+    "kommunenummer": "4001"
+  },
+  "stiftelsesdato": "2026-02-18",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2026-02-18",
+  "vedtektsfestetFormaal": [
+    "Konsulentvirksomhet innen handel og retail, samt annet som naturlig",
+    "hører innunder."
+  ],
+  "aktivitet": [
+    "Konsulentvirksomhet innen handel og retail."
+  ],
+  "registreringsdatoForetaksregisteret": "2026-03-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2026-03-18",
+  "fravalgRevisjonBeslutningsDato": "2026-02-18",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2026-03-18"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937379382"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

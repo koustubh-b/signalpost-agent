@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Roger Frustøl",
+    "birth_year": "1984-07-24"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Stine Andersen",
+    "birth_year": "1981-11-20"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Rune Carlsen",
+    "birth_year": "1977-03-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Renate Frustøl",
+    "birth_year": "1985-08-22"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Arne Gustav Hageland",
+    "birth_year": "1967-12-29"
+  }
+]

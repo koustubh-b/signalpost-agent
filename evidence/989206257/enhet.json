@@ -1,0 +1,72 @@
+{
+  "organisasjonsnummer": "989206257",
+  "navn": "1 EGERSUND SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.1egersund.no/",
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4372",
+    "poststed": "EGERSUND",
+    "adresse": [
+      "c/o Oddvar.aamodt",
+      "Hestnesveien 11"
+    ],
+    "kommune": "EIGERSUND",
+    "kommunenummer": "1101"
+  },
+  "registreringsdatoEnhetsregisteret": "2006-01-09",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "oddvar.aamodt@speiding.no",
+  "mobil": "488 80 912",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4373",
+    "poststed": "EGERSUND",
+    "adresse": [
+      "Langevannsveien 95"
+    ],
+    "kommune": "EIGERSUND",
+    "kommunenummer": "1101"
+  },
+  "stiftelsesdato": "1921-12-31",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speiderlag tilsluttet Norges Speiderforbund."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2016-09-13",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/989206257"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

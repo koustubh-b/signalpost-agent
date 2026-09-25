@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Per Christian Lidtveit",
+    "birth_year": "1980-02-09"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Hans Idar Windsland",
+    "birth_year": "1972-03-23"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Per Christian Lidtveit",
+    "birth_year": "1980-02-09"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "915380875",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "977087511",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "978616070",
+    "birth_year": null
+  }
+]

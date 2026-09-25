@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "821804302",
+  "navn": "2012-BARNA VED GRØTTE SKOLE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2018-11-29",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "7320",
+    "poststed": "FANNREM",
+    "adresse": [
+      "c/o Lene Haukli",
+      "Grøttevegen 3"
+    ],
+    "kommune": "ORKLAND",
+    "kommunenummer": "5059"
+  },
+  "stiftelsesdato": "2018-10-30",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Formålet med foreningen er å arbeide for å skape et godt samhold",
+    "mellom foreldre og elever ved 2012-barna ved Grøtte Skole. Foreningen",
+    "jobber for å gjøre sosiale aktiviteter sammen."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/821804302"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

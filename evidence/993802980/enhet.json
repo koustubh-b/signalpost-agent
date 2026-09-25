@@ -1,0 +1,68 @@
+{
+  "organisasjonsnummer": "993802980",
+  "navn": "1. GRIMSTAD MSK",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "1. GRIMSTAD NMU",
+      "fraDato": "2009-02-28 15:20:48",
+      "tilDato": "2016-04-09 14:30:05"
+    }
+  ],
+  "hjemmeside": "www.nmu.grimstad.cc",
+  "registreringsdatoEnhetsregisteret": "2009-02-28",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "st-haugn@online.no",
+  "mobil": "476 04 393",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4876",
+    "poststed": "GRIMSTAD",
+    "adresse": [
+      "Grooseveien 36"
+    ],
+    "kommune": "GRIMSTAD",
+    "kommunenummer": "4202"
+  },
+  "stiftelsesdato": "1943-09-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "1. Grimstad NMUs formål er å utvikle mennekser til selvstendighet og",
+    "til å ta aktivt ansvar i samfunnet i samsvar med idealene fra",
+    "speiderløftet og speiderloven."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2009-02-28",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/993802980"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

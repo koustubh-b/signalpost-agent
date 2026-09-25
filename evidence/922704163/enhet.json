@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "922704163",
+  "navn": "17 MAI KOMITE - HARØY SKULEKRINS",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6296",
+    "poststed": "HARØY",
+    "adresse": [
+      "c/o Frank Vassgård",
+      "Litleholen 57"
+    ],
+    "kommune": "ÅLESUND",
+    "kommunenummer": "1508"
+  },
+  "registreringsdatoEnhetsregisteret": "2019-05-06",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "stiftelsesdato": "2019-04-09",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Arrangere 17 mai for Harøy Skulekrins."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2019-05-06",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922704163"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,63 @@
+{
+  "organisasjonsnummer": "995967952",
+  "navn": "(HUB) HJELP UGANDAS BARN",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.ugandasbarn.org",
+  "registreringsdatoEnhetsregisteret": "2010-09-23",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "ugandas.barn@gmail.com",
+  "telefon": "33 61 07 10",
+  "mobil": "406 42 078",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "8484",
+    "poststed": "RISØYHAMN",
+    "adresse": [
+      "Skjoldehamnveien 1400"
+    ],
+    "kommune": "ANDØY",
+    "kommunenummer": "1871"
+  },
+  "stiftelsesdato": "2010-09-15",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Barnehjem.",
+    "Hjelp til selvhjelp.",
+    "Innsamling av gaver.",
+    "Vaksinering mot malaria."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/995967952"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Ole Henrik Dyrkolbotn",
+    "birth_year": "1989-01-12"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Therese Træen",
+    "birth_year": "1984-01-09"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Svenn Even Skistad",
+    "birth_year": "1981-05-10"
+  }
+]

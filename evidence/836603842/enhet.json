@@ -1,0 +1,77 @@
+{
+  "organisasjonsnummer": "836603842",
+  "navn": "10NNN AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-12-18",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "62.200",
+    "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2026-01-16",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-01-22",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-04-13",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-04-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0478",
+    "poststed": "OSLO",
+    "adresse": [
+      "Omsens gate 8"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2025-12-04",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2025-12-04",
+  "vedtektsfestetFormaal": [
+    "Konsulentvirksomhet, rekrutteringsvirksomhet, kjøp og salg av varer,",
+    "investering i og utleie av fast eiendom, kjøp og salg av aksjer samt",
+    "deltakelse i andre selskaper."
+  ],
+  "aktivitet": [
+    "Konsulenttjenester innen IT."
+  ],
+  "registreringsdatoForetaksregisteret": "2025-12-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2025-12-18",
+  "fravalgRevisjonBeslutningsDato": "2025-12-04",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 3000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2025-12-18"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/836603842"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

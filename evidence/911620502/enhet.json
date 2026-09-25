@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "911620502",
+  "navn": "1T BAND FORENING",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.1tblues.com",
+  "registreringsdatoEnhetsregisteret": "2013-02-26",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.201",
+    "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "surlasz@me.com",
+  "mobil": "911 84 726",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "9475",
+    "poststed": "BORKENES",
+    "adresse": [
+      "Røysveien 7"
+    ],
+    "kommune": "KVÆFJORD",
+    "kommunenummer": "5510"
+  },
+  "stiftelsesdato": "2013-02-15",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Fremme og dyrke interesse for å spille musikk i hovedsak",
+    "Blues/Bluesrock og å gjøre musikken tilgjengelig til de andre gjennom",
+    "å spille/framføre musikken i forskjelleige sammenheng."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/911620502"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

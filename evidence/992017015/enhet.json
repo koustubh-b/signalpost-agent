@@ -1,0 +1,95 @@
+{
+  "organisasjonsnummer": "992017015",
+  "navn": "07365 DOKVA AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "DOKVA AS",
+      "fraDato": "2007-12-17 20:52:55",
+      "tilDato": "2009-04-08 20:32:51"
+    },
+    {
+      "navn": "07365 RØRFORNYING NORGE AS",
+      "fraDato": "2009-04-08 20:32:51",
+      "tilDato": "2009-11-18 20:27:19"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2007-12-17",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "42.210",
+    "beskrivelse": "Bygging av vann- og kloakkanlegg"
+  },
+  "hjelpeenhetskode": {
+    "kode": "62.100",
+    "beskrivelse": "Dataprogrammeringstjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2020-01-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-08-28",
+  "telefon": "55 39 55 00",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5105",
+    "poststed": "EIDSVÅG I ÅSANE",
+    "adresse": [
+      "Hovedbygget 3. Etasje",
+      "Eidsvågveien 150"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "stiftelsesdato": "2007-11-15",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2023-11-16",
+  "vedtektsfestetFormaal": [
+    "Utvikling og drifting av WEB-baserte styringssystemer for",
+    "entrepenørvirksomhet, samt å drive entrepenørvirksomhet. Videre å",
+    "drive videoinspeksjon av røranlegg samt rørfornying og hva dermed står",
+    "i forbindelse. Videre å drive konsulenttjeneste innenfor",
+    "undervannsteknikk, herunder også deltakelse i andre selskaper med",
+    "lignende formål."
+  ],
+  "aktivitet": [
+    "Utvikling og drift av WEB-baserte styringssystemer."
+  ],
+  "registreringsdatoForetaksregisteret": "2007-12-17",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2024-09-30",
+  "fravalgRevisjonBeslutningsDato": "2024-09-10",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 100100.0,
+    "antallAksjer": 100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2023-12-05"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992017015"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

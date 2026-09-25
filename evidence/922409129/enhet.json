@@ -1,0 +1,60 @@
+{
+  "organisasjonsnummer": "922409129",
+  "navn": "2012 KULLET KNAPSTAD BARNE- OG UNGDOMSSKOLE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-03-18",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "ellen.langebeck@icloud.com",
+  "mobil": "908 68 465",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1823",
+    "poststed": "KNAPSTAD",
+    "adresse": [
+      "c/o Ellen Langebeck",
+      "Bjørneveien 104"
+    ],
+    "kommune": "INDRE ØSTFOLD",
+    "kommunenummer": "3118"
+  },
+  "stiftelsesdato": "2019-02-06",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Foreningens formål er innsamling og sparing til felles velferdstiltak",
+    "for 2012 kullet på Knapstad Barne- og Ungdomsskole."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922409129"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

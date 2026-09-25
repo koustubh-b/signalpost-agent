@@ -1,0 +1,73 @@
+{
+  "organisasjonsnummer": "836193962",
+  "navn": "1337 REGNSKAP AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-09-18",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "69.202",
+    "beskrivelse": "Regnskapsføring og bokføring"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0650",
+    "poststed": "OSLO",
+    "adresse": [
+      "Jens Bjelkes gate 61"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2025-06-30",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "vedtektsdato": "2025-06-30",
+  "vedtektsfestetFormaal": [
+    "Å tilby regnskapstjenester, konsulenttjenester og",
+    "programvareutvikling, samt annen virksomhet som naturlig hører sammen",
+    "med dette."
+  ],
+  "aktivitet": [
+    "Regnskapsføring."
+  ],
+  "registreringsdatoForetaksregisteret": "2025-09-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2025-09-18",
+  "fravalgRevisjonBeslutningsDato": "2025-06-30",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2025-09-18"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/836193962"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

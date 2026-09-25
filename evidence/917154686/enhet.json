@@ -1,0 +1,70 @@
+{
+  "organisasjonsnummer": "917154686",
+  "navn": "123 BEDRIFT V/SIMON PETER VEDØY",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "SP GRAFISK DESIGN SIMON PETER VEDØY",
+      "fraDato": "2016-05-12 09:27:47",
+      "tilDato": "2017-07-31 14:42:16"
+    }
+  ],
+  "hjemmeside": "www.123bedrift.no",
+  "registreringsdatoEnhetsregisteret": "2016-05-12",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "74.120",
+    "beskrivelse": "Grafisk design og visuell kommunikasjonsdesign"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2017-07-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2017-08-16",
+  "epostadresse": "post@123bedrift.no",
+  "mobil": "99160183",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4250",
+    "poststed": "KOPERVIK",
+    "adresse": [
+      "Fridtjof Nansens veg 94A"
+    ],
+    "kommune": "KARMØY",
+    "kommunenummer": "1149"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Grafisk design inkluderer laging av logoer, brosjyrer, annet reklame",
+    "materiell. Sosiale medier innebære, reklame, videosnutter og lyd.",
+    "Webdesign, apps og annen nettbasert media. Vi tilbyr også IT tjenester",
+    "og kurs. 123Bedrift har også en underleverandør kalt CoupleTip som",
+    "tilbyr varer på nett for målgruppe fra start av forhold til gift."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/917154686"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

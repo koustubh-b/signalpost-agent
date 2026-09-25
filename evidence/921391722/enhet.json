@@ -1,0 +1,62 @@
+{
+  "organisasjonsnummer": "921391722",
+  "navn": "1054 ENTERTAINMENT DANIEL MCMANUS AMPONG",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "1993 DANIEL MCMANUS AMPONG",
+      "fraDato": "2018-09-13 11:21:38",
+      "tilDato": "2018-09-22 15:16:33"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2018-09-13",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "74.990",
+    "beskrivelse": "All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1069",
+    "poststed": "OSLO",
+    "adresse": [
+      "Lindebergveien 5C"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Plateselskap og management i musikkbransjen."
+  ],
+  "registreringsdatoForetaksregisteret": "2018-09-13",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/921391722"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

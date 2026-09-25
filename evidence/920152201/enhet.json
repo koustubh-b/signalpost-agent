@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "920152201",
+  "navn": "2. ÅLSUND ST.GEORGSGILDE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2017-12-20",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6005",
+    "poststed": "ÅLESUND",
+    "adresse": [
+      "c/o Inger Anne Fladmark",
+      "Storhauggata 3"
+    ],
+    "kommune": "ÅLESUND",
+    "kommunenummer": "1508"
+  },
+  "stiftelsesdato": "2000-12-31",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "St Georgs Gildene er en bevegelse for voksne både med og uten",
+    "speiderbakgrunn. Sammen er vi en del av et internasjonalt felleskap",
+    "som bygger på de samme verdier som speiderbevegelsen. Vårt mål er å",
+    "arbeide for speidersaken både lokal, nasjonalt og internasjonalt."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2017-12-20",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920152201"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

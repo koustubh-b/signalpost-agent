@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "936703615",
+  "navn": "101 COPENHAGEN APS",
+  "organisasjonsform": {
+    "kode": "UTLA",
+    "beskrivelse": "Utenlandsk enhet",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-12-04",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Danmark",
+    "landkode": "DK",
+    "poststed": "DK-1100 KØBENHAVN K",
+    "adresse": [
+      "Østergade 17"
+    ]
+  },
+  "stiftelsesdato": "2018-11-29",
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Utenlandsk enhet/foretak."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "registreringsnummerIHjemlandet": "40058966",
+  "foretaksformIHjemlandet": {
+    "kode": "APS",
+    "beskrivelse": "Anpartsselskap",
+    "beskrivelseBokmaal": "Selskap med begrenset ansvar"
+  },
+  "utenlandskRegisterNavn": "Erhvervsstyrelsen",
+  "utenlandskRegisterAdresse": {
+    "land": "Danmark",
+    "poststed": "2100 København Ø",
+    "adresse": [
+      "Langelinie Allé 17"
+    ]
+  },
+  "underlagtLovgivningLand": "Danmark",
+  "underlagtLovgivningLandKode": "DK",
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936703615"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "923597573",
+  "navn": "1966 CHAWEEPHEN KHAMMA",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-10-11",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "96.230",
+    "beskrivelse": "Aktiviteter i dagspa, badstue og dampbad"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "chaweephenkhamma@gmail.com",
+  "mobil": "463 58 758",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2080",
+    "poststed": "EIDSVOLL",
+    "adresse": [
+      "c/o Chaweephen Khamma",
+      "Khamma Chalin Massasje",
+      "Siggerudhagan 142C"
+    ],
+    "kommune": "EIDSVOLL",
+    "kommunenummer": "3240"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Thai massasje."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923597573"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

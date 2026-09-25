@@ -1,0 +1,60 @@
+{
+  "organisasjonsnummer": "932115948",
+  "navn": "\"CAROLINE\" KAROLINA KARCZMARCZYK",
+  "organisasjonsform": {
+    "kode": "UTLA",
+    "beskrivelse": "Utenlandsk enhet",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "CAROLINE KAROLINE PIRCH",
+      "fraDato": "2023-09-22 13:23:48",
+      "tilDato": "2025-05-23 13:38:24"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2023-09-22",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "caroline.office@wp.pl",
+  "mobil": "+48514479904",
+  "forretningsadresse": {
+    "land": "Polen",
+    "landkode": "PL",
+    "poststed": "PL-83-200 STAROGARD GDANSKI",
+    "adresse": [
+      "Osiedle Nadzieja 19 lok. 2"
+    ]
+  },
+  "stiftelsesdato": "2023-04-18",
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Utenlandsk enhet."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "foretaksformIHjemlandet": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "beskrivelseBokmaal": "Enkeltpersonforetak"
+  },
+  "underlagtLovgivningLand": "Polen",
+  "underlagtLovgivningLandKode": "PL",
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/932115948"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

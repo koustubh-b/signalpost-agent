@@ -1,0 +1,76 @@
+{
+  "organisasjonsnummer": "811699632",
+  "navn": "2 CLAP STUDIO DA",
+  "organisasjonsform": {
+    "kode": "DA",
+    "beskrivelse": "Ansvarlig selskap med delt ansvar",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/DA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.2clapstudio.com",
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0165",
+    "poststed": "OSLO",
+    "adresse": [
+      "Keysers gate 4A"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "registreringsdatoEnhetsregisteret": "2013-03-13",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "59.110",
+    "beskrivelse": "Produksjon av film, video og fjernsynsprogrammer"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "contact@2clapstudio.com",
+  "telefon": "95 28 14 08",
+  "mobil": "984 42 114",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3403",
+    "poststed": "LIER",
+    "adresse": [
+      "Haskollveien 79"
+    ],
+    "kommune": "LIER",
+    "kommunenummer": "3312"
+  },
+  "stiftelsesdato": "2013-03-11",
+  "institusjonellSektorkode": {
+    "kode": "2300",
+    "beskrivelse": "Personlige foretak"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2013-03-11",
+  "vedtektsfestetFormaal": [
+    "2 Clap Studio skal produsere og utgi nyskapende og spennende spill."
+  ],
+  "aktivitet": [
+    "Underholdning - interaktive produksjoner."
+  ],
+  "registreringsdatoForetaksregisteret": "2013-03-13",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/811699632"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

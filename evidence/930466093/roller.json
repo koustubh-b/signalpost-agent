@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Oddgeir Johnsen",
+    "birth_year": "1964-09-03"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Tor-Jonny Johnsen",
+    "birth_year": "1968-08-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Oddgeir Johnsen",
+    "birth_year": "1964-09-03"
+  }
+]

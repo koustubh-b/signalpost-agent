@@ -1,0 +1,57 @@
+{
+  "organisasjonsnummer": "822981992",
+  "navn": "1991 TAAR NÁÁN AMYEEN-KWÉ",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-06-27",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "53.200",
+    "beskrivelse": "Andre post- og budtjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "9009",
+    "poststed": "TROMSØ",
+    "adresse": [
+      "Erik Vangbergs gate 19"
+    ],
+    "kommune": "TROMSØ",
+    "kommunenummer": "5501"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Matleveranser fra restauranter til privatpersoner/bedrifter ved bruk",
+    "av personlig framkomstmiddel (bil, scooter eller sykkel). Alle varer",
+    "er produsert i restaurant."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/822981992"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

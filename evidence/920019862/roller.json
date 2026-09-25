@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Dora Elisabeth Olsen",
+    "birth_year": "1959-09-18"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Antje Behrendt",
+    "birth_year": "1981-01-02"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Einar Lieng",
+    "birth_year": "1973-03-12"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Stein Erik Opdahl",
+    "birth_year": "1976-05-14"
+  }
+]

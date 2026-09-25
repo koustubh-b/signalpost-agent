@@ -1,0 +1,78 @@
+{
+  "organisasjonsnummer": "992357010",
+  "navn": "2 SNØMENN AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.2snomenn.no",
+  "registreringsdatoEnhetsregisteret": "2008-02-25",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "43.222",
+    "beskrivelse": "Kuldeanlegg-, varmepumpearbeid og installasjon av peiser"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2008-03-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2008-06-02",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2023-07-12",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2023-07-10",
+  "epostadresse": "post@2snomenn.no",
+  "telefon": "66 80 30 33",
+  "mobil": "997 25 550",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1410",
+    "poststed": "KOLBOTN",
+    "adresse": [
+      "Holteveien 36"
+    ],
+    "kommune": "NORDRE FOLLO",
+    "kommunenummer": "3207"
+  },
+  "stiftelsesdato": "2008-02-15",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2008-02-15",
+  "vedtektsfestetFormaal": [
+    "Fremstilling/salg av tjenester til kuldebransjen."
+  ],
+  "aktivitet": [
+    "Levere kuldetjenester til private, kuldebransjen,",
+    "næringsmiddelindustrien og annen virksomhet."
+  ],
+  "registreringsdatoForetaksregisteret": "2008-02-25",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 100000.0,
+    "antallAksjer": 100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2008-02-28"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992357010"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

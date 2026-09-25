@@ -1,0 +1,60 @@
+{
+  "organisasjonsnummer": "925299081",
+  "navn": "16RAA SPORSHEIM",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2020-07-06",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "74.990",
+    "beskrivelse": "All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2026-08-22",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2026-08-26",
+  "epostadresse": "mgmt@16raa.no",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0194",
+    "poststed": "OSLO",
+    "adresse": [
+      "Rostockgata 74"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Management-tjeneste for artister. Omhandler rådgivning, veiledning,",
+    "representasjon m.v. i forbindelse med artisters karriere innen",
+    "musikkbransjen."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925299081"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

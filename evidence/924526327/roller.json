@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Marius Mathiesen",
+    "birth_year": "1970-11-09"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Finn Olav Elde",
+    "birth_year": "1965-04-04"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Henrik Lie-Nielsen",
+    "birth_year": "1977-03-02"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Nils Kristian Liveng-Ness",
+    "birth_year": "1982-01-15"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ragnar Henriksen",
+    "birth_year": "1974-02-02"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "935416779",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "987260335",
+    "birth_year": null
+  }
+]

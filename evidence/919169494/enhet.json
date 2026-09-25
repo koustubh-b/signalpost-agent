@@ -1,0 +1,87 @@
+{
+  "organisasjonsnummer": "919169494",
+  "navn": "10MILESNORTH AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Tyskland",
+    "landkode": "DE",
+    "poststed": "DE-38114 Braunschweig",
+    "adresse": [
+      "Scheibe Immobilien",
+      "Hamburger Strasse 284"
+    ]
+  },
+  "registreringsdatoEnhetsregisteret": "2017-07-11",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "55.200",
+    "beskrivelse": "Drift av vandrerhjem og ferieleiligheter"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2018-03-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2018-05-15",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-09-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "8185",
+    "poststed": "VÅGAHOLMEN",
+    "adresse": [
+      "Fagerheim"
+    ],
+    "kommune": "RØDØY",
+    "kommunenummer": "1836"
+  },
+  "stiftelsesdato": "2017-05-09",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2017-05-09",
+  "vedtektsfestetFormaal": [
+    "Turisme, overnatting, fiskecamp med utleie av hytter, båter, biler og",
+    "næringslokaler. Selskapet skal i tillegg kunne delta i investeringer,",
+    "også kunne delta i andre selskap med tilsvarende virksomheter."
+  ],
+  "aktivitet": [
+    "Turisme, overnatting, fiskecamp med utleie av hytter, båter, biler og",
+    "næringslokaler. Selskapet skal i tillegg kunne delta i investeringer,",
+    "også kunne delta i andre selskap med tilsvarende virksomheter."
+  ],
+  "registreringsdatoForetaksregisteret": "2017-07-11",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2017-07-11",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 100000.0,
+    "antallAksjer": 100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2017-07-11"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919169494"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

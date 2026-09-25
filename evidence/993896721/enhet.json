@@ -1,0 +1,74 @@
+{
+  "organisasjonsnummer": "993896721",
+  "navn": "1. STOKMARKNES SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "8455",
+    "poststed": "STOKMARKNES",
+    "adresse": [
+      "Postboks 26"
+    ],
+    "kommune": "HADSEL",
+    "kommunenummer": "1866"
+  },
+  "registreringsdatoEnhetsregisteret": "2009-04-18",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "bhart@online.no",
+  "telefon": "76 15 26 96",
+  "mobil": "909 95 030",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "8450",
+    "poststed": "STOKMARKNES",
+    "adresse": [
+      "Ann-Katrin Grimstad",
+      "Rådhusgata 1"
+    ],
+    "kommune": "HADSEL",
+    "kommunenummer": "1866"
+  },
+  "stiftelsesdato": "1929-03-15",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "1. Stokmarknes Speidergruppes formål er å utvikle mennesker til",
+    "selvstendighet og til å ta aktivt ansvar i samfunn i samsvar med",
+    "idealene fra speiderløftet og speiderloven."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2009-04-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/993896721"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

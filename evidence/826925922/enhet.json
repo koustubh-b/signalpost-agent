@@ -1,0 +1,78 @@
+{
+  "organisasjonsnummer": "826925922",
+  "navn": "2 M HOLDING AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2021-04-12",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "43.990",
+    "beskrivelse": "Annen spesialisert bygge- og anleggsvirksomhet ikke nevnt annet sted"
+  },
+  "hjelpeenhetskode": {
+    "kode": "70.100",
+    "beskrivelse": "Hovedkontortjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2056",
+    "poststed": "ALGARHEIM",
+    "adresse": [
+      "Julsetvegen 3"
+    ],
+    "kommune": "ULLENSAKER",
+    "kommunenummer": "3209"
+  },
+  "stiftelsesdato": "2021-03-02",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2021-03-02",
+  "vedtektsfestetFormaal": [
+    "Kjøp og salg av aksjer og andre verdipapirer, investering, utvikling",
+    "og drift av fast eiendom, samt hva hermed står i forbindelse, herunder",
+    "å delta i andre selskaper med liknende virksomhet."
+  ],
+  "aktivitet": [
+    "Kjøp og salg av aksjer og andre verdipapirer. Investering, utvikling",
+    "og drift av fast eiendom."
+  ],
+  "registreringsdatoForetaksregisteret": "2021-04-12",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2021-04-12",
+  "fravalgRevisjonBeslutningsDato": "2021-03-02",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2021-04-12"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/826925922"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Andrii Verkhniatskyi",
+    "birth_year": "1982-06-03"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Andrii Verkhniatskyi",
+    "birth_year": "1982-06-03"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Valeriia Talalai",
+    "birth_year": "1995-02-13"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Igor Demianenko",
+    "birth_year": "1990-03-05"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Volodymyr Rusyniuk",
+    "birth_year": "1994-09-17"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Maryna Kodenchuk",
+    "birth_year": "1985-12-17"
+  }
+]

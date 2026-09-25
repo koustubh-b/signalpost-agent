@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Sandra Elise Håbakk",
+    "birth_year": "1994-09-12"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Eline Gundersen",
+    "birth_year": "2003-05-14"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Tonje Nilsen",
+    "birth_year": "1990-08-18"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Else Johanne Kordahl",
+    "birth_year": "2004-10-19"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Per Arne Ruud",
+    "birth_year": "1969-07-01"
+  }
+]

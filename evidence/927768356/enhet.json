@@ -1,0 +1,65 @@
+{
+  "organisasjonsnummer": "927768356",
+  "navn": "2015-LAGET",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "LØRENSKOG HOCKEY 2015-LAGET",
+      "fraDato": "2021-09-20 11:51:16",
+      "tilDato": "2023-02-09 08:30:37"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2021-09-20",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "93.120",
+    "beskrivelse": "Aktiviteter i idrettslag og -klubber"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "chrill74@gmail.com",
+  "mobil": "952 41 060",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2010",
+    "poststed": "STRØMMEN",
+    "adresse": [
+      "Støperiveien 65"
+    ],
+    "kommune": "LILLESTRØM",
+    "kommunenummer": "3205"
+  },
+  "stiftelsesdato": "2021-08-31",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Å drive organisert idrett i Lørenskog Ishockeyklubb."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2021-09-20",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/927768356"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

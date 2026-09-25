@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Ken Are Johnsen",
+    "birth_year": "1971-11-23"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Hans Morten Olafson",
+    "birth_year": "1971-04-14"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Knut Alfred Olaussen",
+    "birth_year": "1965-02-04"
+  }
+]

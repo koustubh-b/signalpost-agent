@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "926033549",
+  "navn": "(U)SERIØST",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2020-11-25",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "userioest.nord@gmail.com",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "8026",
+    "poststed": "BODØ",
+    "adresse": [
+      "Universitetsalléen 11"
+    ],
+    "kommune": "BODØ",
+    "kommunenummer": "1804"
+  },
+  "stiftelsesdato": "2020-10-09",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Skal være en studentpodkast for studentene ved Nord Universitet.",
+    "Det skal fungere som en moderne studentavis for å dele nyttig",
+    "informasjon og bidra til et bedre studentmiljø. Vi slipper ukentlige",
+    "episoder."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2020-11-25",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926033549"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

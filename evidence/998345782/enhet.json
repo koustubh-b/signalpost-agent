@@ -1,0 +1,72 @@
+{
+  "organisasjonsnummer": "998345782",
+  "navn": "1. GRUE SPEIDERGRUPPES FORELDRERÅD",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2260",
+    "poststed": "KIRKENÆR",
+    "adresse": [
+      "Prestgardsgutua 176"
+    ],
+    "kommune": "GRUE",
+    "kommunenummer": "3417"
+  },
+  "registreringsdatoEnhetsregisteret": "2012-08-30",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "400 00 741",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2260",
+    "poststed": "KIRKENÆR",
+    "adresse": [
+      "Finnskogvegen 369"
+    ],
+    "kommune": "GRUE",
+    "kommunenummer": "3417"
+  },
+  "stiftelsesdato": "1975-07-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Sikre økonomisk grunnlag for 1. Grue speidergruppe. Arbeide for",
+    "rekruttering og stabilitet i speideraktivitet i Grue. Være",
+    "kontaktledd mellom speiderledere og hjemmene. Ivareta speidergruppas",
+    "utstyr/eiendeler."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2012-08-30",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/998345782"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Jørgen Jensen",
+    "birth_year": "1979-09-28"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Jørgen Jensen",
+    "birth_year": "1979-09-28"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Heidi Bøås",
+    "birth_year": "1978-07-11"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "914658314",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "983338917",
+    "birth_year": null
+  }
+]

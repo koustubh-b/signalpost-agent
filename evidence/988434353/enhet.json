@@ -1,0 +1,60 @@
+{
+  "organisasjonsnummer": "988434353",
+  "navn": "'PATAPHYSIKA Remi Nilsen",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2005-08-03",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "85.597",
+    "beskrivelse": "Annen undervisning ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "remi.nilsen@chello.no",
+  "telefon": "22 67 48 62",
+  "mobil": "404 63 921",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0173",
+    "poststed": "OSLO",
+    "adresse": [
+      "Waldemar Thranes gate 49A"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "1.Undervisning i filosofi for skoler og bibliotek. 2.Konsulentoppdrag",
+    "som tekstforfatter. 3.Frilansjournalist/skribent for tidsskrifter og",
+    "aviser."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/988434353"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

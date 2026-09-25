@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "892781362",
+  "navn": "1AID HOLLÅS",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.1-aid.no",
+  "registreringsdatoEnhetsregisteret": "2008-06-14",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "85.597",
+    "beskrivelse": "Annen undervisning ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "1-aid@1-aid.no",
+  "mobil": "413 08 419",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "7500",
+    "poststed": "STJØRDAL",
+    "adresse": [
+      "Kjøpmannsgata 3"
+    ],
+    "kommune": "STJØRDAL",
+    "kommunenummer": "5035"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Førstehjelpsundervisning. Salg av førstehjelpsutstyr og",
+    "arbeidsbekledning."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/892781362"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

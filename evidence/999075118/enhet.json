@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "999075118",
+  "navn": "1 B ÅLMA- GISSINGERBEKKEN BEITELAG",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2012-10-31",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "01.620",
+    "beskrivelse": "Tjenester tilknyttet husdyrhold"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "tonjech@gmail.com",
+  "mobil": "941 43 140",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "7344",
+    "poststed": "OPPDAL",
+    "adresse": [
+      "Hevlesvegen 108"
+    ],
+    "kommune": "OPPDAL",
+    "kommunenummer": "5021"
+  },
+  "stiftelsesdato": "2012-10-02",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Organisert tilsyn og sanking av husdyr på beite."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/999075118"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

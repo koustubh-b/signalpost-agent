@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Tommy Sollyst",
+    "birth_year": "1970-06-19"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ragnar Lahtinen",
+    "birth_year": "1979-08-13"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Fredrik Tangen",
+    "birth_year": "1991-07-25"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Geirmund Grønberg",
+    "birth_year": "1970-03-28"
+  }
+]

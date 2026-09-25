@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Silje Kristine Sandgren",
+    "birth_year": "1991-05-10"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Silje Kristine Sandgren",
+    "birth_year": "1991-05-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Stian Magnussen",
+    "birth_year": "1973-11-23"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jostein Skimmeland",
+    "birth_year": "1984-04-07"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Svein Magne Risa",
+    "birth_year": "1995-10-26"
+  }
+]

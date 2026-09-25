@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "922592233",
+  "navn": "17. MAI-NEMNDA I VIKSDALEN",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-04-05",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "terstval@online.no",
+  "mobil": "954 53 097",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6978",
+    "poststed": "VIKSDALEN",
+    "adresse": [
+      "Skulen"
+    ],
+    "kommune": "SUNNFJORD",
+    "kommunenummer": "4647"
+  },
+  "stiftelsesdato": "2019-03-21",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "aktivitet": [
+    "Kvart år planlegge, organisere og gjennomføre ei verdig feiring av 17.",
+    "mai i Viksdalen. Alt arbeid er basert på dugnad."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922592233"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Nicolai Rygh",
+    "birth_year": "1979-05-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Petter Bøckman",
+    "birth_year": "1967-12-13"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Henrik Hafseng",
+    "birth_year": "1975-10-13"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kari Holmen",
+    "birth_year": "1972-05-22"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Olav Hallingstad",
+    "birth_year": "1981-12-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Lauritz Johan Rygh",
+    "birth_year": "2009-03-13"
+  }
+]

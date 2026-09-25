@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Arild Eikaas",
+    "birth_year": "1953-12-01"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Arild Eikaas",
+    "birth_year": "1953-12-01"
+  },
+  {
+    "title": "Varamedlem",
+    "group": "Styre",
+    "name": "Bente Eikaas",
+    "birth_year": "1960-09-30"
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "952419234",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "980995151",
+    "birth_year": null
+  }
+]

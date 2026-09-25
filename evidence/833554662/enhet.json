@@ -1,0 +1,57 @@
+{
+  "organisasjonsnummer": "833554662",
+  "navn": "100% SERVICE ENGELSGJERD",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2024-06-05",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "43.320",
+    "beskrivelse": "Snekkerarbeid"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1767",
+    "poststed": "HALDEN",
+    "adresse": [
+      "Eskevikveien 54"
+    ],
+    "kommune": "HALDEN",
+    "kommunenummer": "3101"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Eiendomservice, snekkerarbeid, vedlikehold, håndverktjenester og",
+    "transport."
+  ],
+  "registreringsdatoForetaksregisteret": "2024-06-05",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/833554662"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,55 @@
+{
+  "organisasjonsnummer": "926439944",
+  "navn": "06565 DROSJE DIBIROV",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2021-01-22",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "49.330",
+    "beskrivelse": "Passasjertransport på forespørsel utført av fører med kjøretøy"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2625",
+    "poststed": "FÅBERG",
+    "adresse": [
+      "Jørstadmovegen 763"
+    ],
+    "kommune": "LILLEHAMMER",
+    "kommunenummer": "3405"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Persontransport med drosje"
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926439944"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

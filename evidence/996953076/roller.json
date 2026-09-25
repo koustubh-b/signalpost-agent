@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Egil Hatling",
+    "birth_year": "1967-03-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Alexander Miller",
+    "birth_year": "1967-05-29"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Axel Stove Lorentzen",
+    "birth_year": "1952-12-18"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "John-Arne Grøsland",
+    "birth_year": "1964-08-09"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Stein Oscar Levorsen",
+    "birth_year": "1952-04-24"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Arild Johansen",
+    "birth_year": "1964-10-02"
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "820767942",
+  "navn": "17. MAI - SØVIK SKULEKRINS",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2018-04-30",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "anne.lena.rishaug@vinmonopolet.no",
+  "mobil": "918 68 899",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6280",
+    "poststed": "SØVIK",
+    "adresse": [
+      "C/O Kristine Nordang Longvanes",
+      "Søvikneset 70"
+    ],
+    "kommune": "HARAM",
+    "kommunenummer": "1580"
+  },
+  "stiftelsesdato": "2018-02-13",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Arrangere et familiearrangement for hele Søvik og Gamlem i Haram på",
+    "nasjonaldagen."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2018-04-30",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/820767942"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

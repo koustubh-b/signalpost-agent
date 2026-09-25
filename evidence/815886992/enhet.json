@@ -1,0 +1,46 @@
+{
+  "organisasjonsnummer": "815886992",
+  "navn": "100% FOREIGN OWNED SUBSIDIARY \"SIEMENS UKRAINE\"",
+  "organisasjonsform": {
+    "kode": "UTLA",
+    "beskrivelse": "Utenlandsk enhet",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2015-10-20",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "telefon": "+3803922300",
+  "forretningsadresse": {
+    "land": "Ukraina",
+    "landkode": "UA",
+    "poststed": "Kyiv 03680",
+    "adresse": [
+      "4-V, Mykola Grinchenco Str."
+    ]
+  },
+  "stiftelsesdato": "1997-07-18",
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Utenlandsk enhet/foretak"
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/815886992"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

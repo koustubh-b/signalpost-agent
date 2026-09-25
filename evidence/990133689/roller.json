@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Lene Topper",
+    "birth_year": "1973-08-04"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Roar Hauge",
+    "birth_year": "1972-06-15"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kjetil Nilsen",
+    "birth_year": "1972-02-24"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Espen Jensen",
+    "birth_year": "1981-11-12"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Linda Cecilie Nybøe-Olsen",
+    "birth_year": "1982-01-13"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Espen Gunnar Aune",
+    "birth_year": "1969-06-16"
+  }
+]

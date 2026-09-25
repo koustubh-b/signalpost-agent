@@ -1,0 +1,56 @@
+{
+  "organisasjonsnummer": "934419871",
+  "navn": "2 METER JASCEMSKAS",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2024-11-06",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "95.310",
+    "beskrivelse": "Reparasjon og vedlikehold av motorvogner"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6030",
+    "poststed": "LANGEVÅG",
+    "adresse": [
+      "Sloghaugvegen 49"
+    ],
+    "kommune": "SULA",
+    "kommunenummer": "1531"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Bilpleie."
+  ],
+  "registreringsdatoForetaksregisteret": "2024-11-06",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934419871"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Roger Henriksen",
+    "birth_year": "1983-01-24"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Roger Henriksen",
+    "birth_year": "1983-01-24"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jan Fredrik Steine",
+    "birth_year": "1965-06-07"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Svein Arild Frøshaug",
+    "birth_year": "1984-08-27"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Joakim Grandal",
+    "birth_year": "1988-06-22"
+  }
+]

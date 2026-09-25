@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Haraldur Jonsson",
+    "birth_year": "1963-12-20"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Marino Marinosson",
+    "birth_year": "1967-11-24"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Stig Kongsfjell",
+    "birth_year": "1969-04-23"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "987009713",
+    "birth_year": null
+  }
+]

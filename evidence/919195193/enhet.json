@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "919195193",
+  "navn": "100PA RAPAK",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2017-06-26",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "43.340",
+    "beskrivelse": "Maler- og glassarbeid"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2020-07-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-09-09",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4387",
+    "poststed": "BJERKREIM",
+    "adresse": [
+      "Odlandsvegen 123"
+    ],
+    "kommune": "BJERKREIM",
+    "kommunenummer": "1114"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Maling og renovering av hus. Fasadevask. Rengjøring. Flislegging.",
+    "Snekkerarbeid."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919195193"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

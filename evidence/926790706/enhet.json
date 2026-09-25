@@ -1,0 +1,80 @@
+{
+  "organisasjonsnummer": "926790706",
+  "navn": "2+SAFECARE @ NYABENDA",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "LEVEHELELIVETSIKRET NYABENDA -CARES",
+      "fraDato": "2021-04-14 11:40:16",
+      "tilDato": "2022-04-11 12:02:32"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2021-04-14",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "88.105",
+    "beskrivelse": "Avlastning utenfor institusjon"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "lhls.nyabendacares@gmail.com",
+  "mobil": "46560528",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1346",
+    "poststed": "GJETTUM",
+    "adresse": [
+      "Dønskitoppen 16N"
+    ],
+    "kommune": "BÆRUM",
+    "kommunenummer": "3201"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Styrke og fasilitere for personer over 60 år, funksjonshemmede,",
+    "personer med kronisk sykdom og innvandreres deltakelse i sosial,",
+    "kulturell, religiøs, fritids og samfunnets aktiviteter ved å kjøre og",
+    "følge/bli med dem til og fra organisert eller uorganiserte aktiviteter",
+    "eller behandlingsinstitusjoner. Assistere og samhandle med overnevnte",
+    "personers ressurser i praktisk bistand som vare/mat handling,",
+    "henting/levering av apotek, post, lånte eller utlånte varer,",
+    "fest/seremoni forberedelse som pådekking, opprydding, rengjøring,",
+    "terrasse/hagen opprydding. Rengjøring i privat eller",
+    "institusjonstjenester. Avlaste alenemødre, fedre og barns",
+    "omsorgsinstitusjoner ved å fasilitere deres deltakelse i sosial",
+    "og samfunnets formelle eller uformelle aktiviteter og fritidsgjøremål.",
+    "Rådgi, veilede og informere/undervise om sykdomsforebyggende,",
+    "helsefremmende livsstil, skoleliv, arbeidsliv og sosial deltakelse.",
+    "Tiltak og innvandrere orienteres til forskjellige institusjoner og",
+    "viktige offentlige steder i nærmiljøet. Ringetilsyn og avtale",
+    "påminnelse i telefon samtale. Følge/ledsage til planlagte ferier",
+    "innen- og utenlands."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926790706"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

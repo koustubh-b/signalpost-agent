@@ -1,0 +1,71 @@
+{
+  "organisasjonsnummer": "988701424",
+  "navn": "1. HEISTAD SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3928",
+    "poststed": "PORSGRUNN",
+    "adresse": [
+      "c/o Hans Eide",
+      "Klevstrand terrasse 3"
+    ],
+    "kommune": "PORSGRUNN",
+    "kommunenummer": "4001"
+  },
+  "registreringsdatoEnhetsregisteret": "2008-06-25",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "cbborge@broadpark.no",
+  "mobil": "901 61 359",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3940",
+    "poststed": "PORSGRUNN",
+    "adresse": [
+      "Lundedalslia 46"
+    ],
+    "kommune": "PORSGRUNN",
+    "kommunenummer": "4001"
+  },
+  "stiftelsesdato": "1942-07-21",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speidergruppe som holder aktiviteter for barn og ungdom i nærmiljøet."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2009-02-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/988701424"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

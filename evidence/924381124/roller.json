@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Anne Berit Bjelde",
+    "birth_year": "1987-09-15"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Charlotte Helena Jacobsson",
+    "birth_year": "1994-02-20"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kristine Berentsen",
+    "birth_year": "1983-04-14"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ailin Helgestad",
+    "birth_year": "1986-11-03"
+  }
+]

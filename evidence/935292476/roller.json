@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Ståle Melby",
+    "birth_year": "1974-09-02"
+  },
+  {
+    "title": "Forretningsfører",
+    "group": "Forretningsfører",
+    "name": "966847263",
+    "birth_year": null
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Kim André Haugen",
+    "birth_year": "1987-12-16"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Frode Espelid",
+    "birth_year": "1983-03-24"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Roger Limbodal",
+    "birth_year": "1960-09-16"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ståle Melby",
+    "birth_year": "1974-09-02"
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "966847263",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "999581641",
+    "birth_year": null
+  }
+]

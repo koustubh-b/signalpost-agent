@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Kjetil Solheim",
+    "birth_year": "1980-10-11"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jan-Eirik Osa",
+    "birth_year": "1979-08-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Geir-Atle Osa",
+    "birth_year": "1971-03-16"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "995198827",
+    "birth_year": null
+  }
+]

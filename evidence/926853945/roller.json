@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Astrid Tranøy",
+    "birth_year": "1978-10-18"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ina Therese Nornes",
+    "birth_year": "1985-06-21"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Marianne Falnes",
+    "birth_year": "1982-10-21"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Frank Olsen",
+    "birth_year": "1965-08-22"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Per Magne Vikshåland",
+    "birth_year": "1986-11-05"
+  }
+]

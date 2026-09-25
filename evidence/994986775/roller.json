@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Jostein Døssland",
+    "birth_year": "1953-06-18"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Jostein Døssland",
+    "birth_year": "1953-06-18"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Magne Døssland",
+    "birth_year": "1978-09-01"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Leif Døssland",
+    "birth_year": "1978-09-01"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "999079539",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "983338917",
+    "birth_year": null
+  }
+]

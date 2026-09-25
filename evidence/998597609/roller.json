@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Leif Egil Nilsen",
+    "birth_year": "1960-08-25"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Stig Ketil Lunde",
+    "birth_year": "1964-08-01"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Leif Egil Nilsen",
+    "birth_year": "1960-08-25"
+  }
+]

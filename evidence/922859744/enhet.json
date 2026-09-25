@@ -1,0 +1,73 @@
+{
+  "organisasjonsnummer": "922859744",
+  "navn": "1028 HYTTEDRIFT AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-06-07",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "36.000",
+    "beskrivelse": "Uttak fra kilde, rensing og distribusjon av vann"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2019-09-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2019-10-28",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3550",
+    "poststed": "GOL",
+    "adresse": [
+      "Furujordet 27"
+    ],
+    "kommune": "GOL",
+    "kommunenummer": "3324"
+  },
+  "stiftelsesdato": "2019-05-16",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2024",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2019-05-16",
+  "vedtektsfestetFormaal": [
+    "Eie og drifte vann- og avløpsanlegg, samt tilby andre driftsrelaterte",
+    "tjenester."
+  ],
+  "aktivitet": [
+    "Eie og drifte vann- og avløpsanlegg. Andre driftsrelaterte tjenester",
+    "som snøbrøyting mv."
+  ],
+  "registreringsdatoForetaksregisteret": "2019-06-07",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": true,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2019-06-07"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922859744"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

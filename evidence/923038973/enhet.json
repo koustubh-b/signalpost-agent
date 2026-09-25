@@ -1,0 +1,64 @@
+{
+  "organisasjonsnummer": "923038973",
+  "navn": "17.MAIKOMITEEN I FANA BYSTRØK",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2020-03-31",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5244",
+    "poststed": "FANA",
+    "adresse": [
+      "17.maikomiteen i Fana Bystrøk",
+      "v/ Eivind Hermansen",
+      "Fanaflaten 12"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "stiftelsesdato": "2019-04-29",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Organisasjonen er knyttet til å arrangere ulike arrangement i Fana",
+    "Bydel på 17. mai. I første rekke bekransning og prosesjon.",
+    "Organisasjonen skal jobbe for å ivareta tradisjoner og spre",
+    "informasjon om historiske viktige steder og personer i vår bydel.",
+    "Organisasjonen skal også jobbe for identitet, inkludering og",
+    "fellesskapsfølelse."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2020-03-31",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923038973"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Even Jamt",
+    "birth_year": "1962-10-30"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Torstein Jarl Karlsen",
+    "birth_year": "1949-05-12"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Tord Nilssen",
+    "birth_year": "1974-08-22"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "May-Anita Østingsen",
+    "birth_year": "1955-11-17"
+  }
+]

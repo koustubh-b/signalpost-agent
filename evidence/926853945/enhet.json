@@ -1,0 +1,57 @@
+{
+  "organisasjonsnummer": "926853945",
+  "navn": "17.MAI KOMITE SKUDENESHAVN",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4297",
+    "poststed": "SKUDENESHAVN",
+    "adresse": [
+      "Postboks 118"
+    ],
+    "kommune": "KARMØY",
+    "kommunenummer": "1149"
+  },
+  "registreringsdatoEnhetsregisteret": "2021-04-30",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "stiftelsesdato": "2021-03-02",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "aktivitet": [
+    "Planlegging og gjennomføring av 17. mai i Skudeneshavn."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2021-04-30",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926853945"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "935571316",
+  "navn": "”GREEN POINT” MICHAL WOZNICZKO",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-06-02",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "85.597",
+    "beskrivelse": "Annen undervisning ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4365",
+    "poststed": "NÆRBØ",
+    "adresse": [
+      "Skjerpevegen 102"
+    ],
+    "kommune": "HÅ",
+    "kommunenummer": "1119"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Overlevelseskurs, eventyrreiser, organisering av utendørs",
+    "teambuilding-arrangementer. Opplæring i navigasjon og håndtering av",
+    "nødsituasjoner. Utleie av friluftsutstyr, ekspedisjonskjøretøy og",
+    "ekspedisjonsvogner."
+  ],
+  "registreringsdatoForetaksregisteret": "2025-06-02",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935571316"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

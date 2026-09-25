@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "936067786",
+  "navn": "2 HORN DA",
+  "organisasjonsform": {
+    "kode": "DA",
+    "beskrivelse": "Ansvarlig selskap med delt ansvar",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/DA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-09-15",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "01.452",
+    "beskrivelse": "Geitehold"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5337",
+    "poststed": "RONG",
+    "adresse": [
+      "Veslevarden 68"
+    ],
+    "kommune": "ØYGARDEN",
+    "kommunenummer": "4626"
+  },
+  "stiftelsesdato": "2025-08-20",
+  "institusjonellSektorkode": {
+    "kode": "2300",
+    "beskrivelse": "Personlige foretak"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2025-08-20",
+  "vedtektsfestetFormaal": [
+    "Kjøpe geiter og ha til landskaps pleie."
+  ],
+  "aktivitet": [
+    "Kjøpe geiter og ha til landskaps pleie."
+  ],
+  "registreringsdatoForetaksregisteret": "2025-09-15",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936067786"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

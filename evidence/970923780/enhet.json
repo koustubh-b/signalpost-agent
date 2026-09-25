@@ -1,0 +1,84 @@
+{
+  "organisasjonsnummer": "970923780",
+  "navn": "1MOMENT H MILLER",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "DATAGRAFISK ASSIST H M ØRITSLAND",
+      "fraDato": "1995-02-20 04:53:00",
+      "tilDato": "2006-04-01 15:18:54"
+    },
+    {
+      "navn": "FELINE MEDIA Helene Maria Øritsland",
+      "fraDato": "2006-04-01 15:18:54",
+      "tilDato": "2007-03-08 22:57:33"
+    },
+    {
+      "navn": "PANTER FILM Miller",
+      "fraDato": "2007-03-08 22:57:33",
+      "tilDato": "2007-10-03 20:46:14"
+    },
+    {
+      "navn": "PANTER FILM Helene Maria Øritsland Miller",
+      "fraDato": "2007-10-03 20:46:14",
+      "tilDato": "2007-10-09 20:29:28"
+    },
+    {
+      "navn": "PANTER FILM Helene Maria Øritsland Miller",
+      "fraDato": "2007-10-09 20:29:28",
+      "tilDato": "2023-06-20 10:46:16"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "1995-02-20",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "74.200",
+    "beskrivelse": "Fotografvirksomhet"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "helena@1momentphoto.com",
+  "mobil": "413 23 175",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1339",
+    "poststed": "VØYENENGA",
+    "adresse": [
+      "Horniveien 12"
+    ],
+    "kommune": "BÆRUM",
+    "kommunenummer": "3201"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Fotografering og eventer. Grafisk design og media."
+  ],
+  "registreringsdatoForetaksregisteret": "2007-10-09",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/970923780"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

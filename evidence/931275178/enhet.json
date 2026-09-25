@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "931275178",
+  "navn": "17.MAI KOMITEEN I TINGVOLLVÅGEN",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2023-04-27",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "bernts@gmail.com",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6630",
+    "poststed": "TINGVOLL",
+    "adresse": [
+      "c/o Bernt Smedsrud",
+      "Rimstadbukta 20"
+    ],
+    "kommune": "TINGVOLL",
+    "kommunenummer": "1560"
+  },
+  "stiftelsesdato": "2023-03-30",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Planlegge og arrangere feiring av nasjonaldagen i Tingvollvågen."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2023-04-27",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931275178"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

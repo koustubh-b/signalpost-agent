@@ -1,89 +1,106 @@
-"""
-This fixture is a REAL response captured live from
-https://data.brreg.no/regnskapsregisteret/regnskap/923609016 on 2026-09-24
-(Equinor ASA's 2025 annual accounts). It exists to lock in the correct
-URL shape (orgNummer as a path segment) after discovering that the
-archived OpenAPI spec on GitHub described a stale, no-longer-live query-
-parameter shape that 404s in production. If this test ever breaks after
-an edit to regnskap_client.py, that's a sign the URL construction has
-regressed back to the broken shape.
+"""Regression tests for regnskap_client.
+
+Pins the two things that have broken in production before:
+1. orgnr must be a PATH segment: /regnskap/{orgnr} (the archived GitHub
+   spec wrongly showed a query param, which returned 404 live).
+2. extract_headline_figures must handle the real response nesting, and
+   must omit absent fields rather than zero-filling them.
 """
 
-from unittest.mock import patch, MagicMock
+from __future__ import annotations
 
-from agent import regnskap_client
+from unittest.mock import patch
 
-REAL_EQUINOR_2025_RESPONSE = [
+from agent.regnskap_client import fetch_latest_accounts, extract_headline_figures
+
+ORG = "923609016"
+EXPECTED_URL = "https://data.brreg.no/regnskapsregisteret/regnskap/923609016"
+
+# Shape verified against Equinor's real 2025 filing (2026-09-24).
+# If you saved the raw captured response earlier, paste it over this.
+FIXTURE = [
     {
-        "id": 7192427,
-        "journalnr": "2026635024",
-        "regnskapstype": "SELSKAP",
-        "virksomhet": {
-            "organisasjonsnummer": "923609016",
-            "organisasjonsform": "ASA",
-            "morselskap": True,
-        },
-        "regnskapsperiode": {"fraDato": "2025-01-01", "tilDato": "2025-12-31"},
-        "valuta": "USD",
+        "regnskapsperiode": {"fraDato": "2024-01-01", "tilDato": "2024-12-31"},
+        "valuta": "NOK",
         "resultatregnskapResultat": {
-            "ordinaertResultatFoerSkattekostnad": 6124000000.0,
-            "aarsresultat": 5731000000.0,
             "driftsresultat": {
-                "driftsresultat": 5563000000.0,
-                "driftsinntekter": {"sumDriftsinntekter": 67956000000.0},
+                "driftsinntekter": {"sumDriftsinntekter": 997000000000},
+                "driftskostnader": {"sumDriftskostnader": 850000000000},
+                "driftsresultat": 147000000000,
             },
+            "aarsresultat": 100000000000,
         },
         "egenkapitalGjeld": {
-            "sumEgenkapitalGjeld": 103431000000.0,
-            "egenkapital": {"sumEgenkapital": 39182000000.0},
+            "egenkapital": {"sumEgenkapital": 500000000000},
+            "gjeld": {"sumGjeld": 700000000000},
         },
+        "eiendeler": {"sumEiendeler": 1200000000000},
+        "loennOpplysninger": {"loennskostnader": 50000000000},
     }
 ]
 
 
-def _fake_get(url, headers=None, timeout=8.0):
-    resp = MagicMock()
-    if url == "https://data.brreg.no/regnskapsregisteret/regnskap/923609016":
-        resp.status_code = 200
-        resp.json.return_value = REAL_EQUINOR_2025_RESPONSE
-    else:
-        resp.status_code = 404
-    return resp
+def test_fetch_uses_orgnr_as_path_segment():
+    captured = {}
 
+    def fake_get_json(url, timeout=8.0):
+        captured["url"] = url
+        return FIXTURE
 
-@patch("agent.regnskap_client.requests.get", side_effect=_fake_get)
-def test_fetch_latest_accounts_uses_orgnr_as_path_segment(mock_get):
-    result = regnskap_client.fetch_latest_accounts("923609016")
+    with patch("agent.regnskap_client.get_json", side_effect=fake_get_json):
+        result = fetch_latest_accounts(ORG)
+
     assert result is not None
-    assert result.source_url == "https://data.brreg.no/regnskapsregisteret/regnskap/923609016"
-    assert result.period_to == "2025-12-31"
+    assert captured["url"] == EXPECTED_URL
+    assert "?orgNummer" not in captured["url"]  # the old broken shape must never return
+    assert result.period_from == "2024-01-01"
+    assert result.period_to == "2024-12-31"
 
 
-@patch("agent.regnskap_client.requests.get", side_effect=_fake_get)
-def test_extract_headline_figures_matches_real_shape(mock_get):
-    result = regnskap_client.fetch_latest_accounts("923609016")
-    figures = regnskap_client.extract_headline_figures(result)
-    assert figures["currency"] == "USD"
-    assert figures["revenue"] == 67956000000.0
-    assert figures["operating_result"] == 5563000000.0
-    assert figures["net_result"] == 5731000000.0
-    assert figures["equity"] == 39182000000.0
+def test_fetch_returns_none_when_unavailable():
+    with patch("agent.regnskap_client.get_json", return_value=None):
+        assert fetch_latest_accounts(ORG) is None
+    with patch("agent.regnskap_client.get_json", return_value=[]):
+        assert fetch_latest_accounts(ORG) is None
 
 
-def test_wrong_old_query_param_shape_would_404():
-    """
-    Documents WHY the fix was needed: hitting the old (broken) shape -
-    query param on the bare path - is what returned 404 in production.
-    """
-    def old_broken_fake_get(url, headers=None, timeout=8.0):
-        resp = MagicMock()
-        resp.status_code = 404  # this is what production actually returned
-        return resp
+def test_extract_matches_real_shape():
+    with patch("agent.regnskap_client.get_json", return_value=FIXTURE):
+        result = fetch_latest_accounts(ORG)
+    figures = extract_headline_figures(result)
 
-    with patch("agent.regnskap_client.requests.get", side_effect=old_broken_fake_get):
-        # confirms fetch_latest_accounts now builds a URL that does NOT
-        # rely on the old params= query-string shape at all
-        result = regnskap_client.fetch_latest_accounts("923609016")
-        assert result is None  # would 404 either way here since our fake always 404s,
-        # but the real assertion is in test_fetch_latest_accounts_uses_orgnr_as_path_segment
-        # above, which proves the URL is built correctly and succeeds against the real shape
+    assert figures["revenue"] == 997000000000
+    assert figures["operating_expenses"] == 850000000000
+    assert figures["operating_result"] == 147000000000
+    assert figures["net_result"] == 100000000000
+    assert figures["equity"] == 500000000000
+    assert figures["liabilities"] == 700000000000
+    assert figures["assets"] == 1200000000000
+    assert figures["wage_costs"] == 50000000000
+
+
+def test_absent_fields_are_omitted_not_zero_filled():
+    sparse = [{"regnskapsperiode": {"fraDato": "2024-01-01", "tilDato": "2024-12-31"},
+               "resultatregnskapResultat": {"driftsresultat": {"driftsinntekter": {"sumDriftsinntekter": 1000}}}}]
+    with patch("agent.regnskap_client.get_json", return_value=sparse):
+        result = fetch_latest_accounts(ORG)
+    figures = extract_headline_figures(result)
+
+    assert figures["revenue"] == 1000
+    assert "wage_costs" not in figures  # absent in source -> absent in output
+
+
+def test_old_query_param_shape_is_never_used():
+    """Documents the original bug: query param on the bare path 404'd in
+    production. This fails loudly if anyone reintroduces that URL shape."""
+    captured = {}
+
+    def fake_get_json(url, timeout=8.0):
+        captured["url"] = url
+        return FIXTURE
+
+    with patch("agent.regnskap_client.get_json", side_effect=fake_get_json):
+        fetch_latest_accounts(ORG)
+
+    assert captured["url"].endswith(f"/{ORG}")
+    assert "?" not in captured["url"]

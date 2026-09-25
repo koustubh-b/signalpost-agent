@@ -1,0 +1,72 @@
+{
+  "organisasjonsnummer": "936978843",
+  "navn": "100BIRDIES AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2026-01-16",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "93.190",
+    "beskrivelse": "Sportsaktiviteter ikke nevnt annet sted"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1367",
+    "poststed": "SNARØYA",
+    "adresse": [
+      "Hundsundveien 23"
+    ],
+    "kommune": "BÆRUM",
+    "kommunenummer": "3201"
+  },
+  "stiftelsesdato": "2026-01-04",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2026-01-04",
+  "vedtektsfestetFormaal": [
+    "Profesjonell virksomhet innen konkurransegolf, med veiledning innen",
+    "idrett."
+  ],
+  "aktivitet": [
+    "Profesjonell virksomhet innen konkurransegolf, med veiledning innen",
+    "idrett."
+  ],
+  "registreringsdatoForetaksregisteret": "2026-01-16",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2026-01-16",
+  "fravalgRevisjonBeslutningsDato": "2026-01-04",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2026-01-16"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936978843"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

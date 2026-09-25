@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Geir Hamre",
+    "birth_year": "1966-01-11"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Geir Hamre",
+    "birth_year": "1966-01-11"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Amalie Hamre",
+    "birth_year": "1998-04-06"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Anne Lise Repstad",
+    "birth_year": "1986-03-14"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Julianne Holand",
+    "birth_year": "1986-05-20"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kristian Øvrebø",
+    "birth_year": "1989-04-05"
+  }
+]

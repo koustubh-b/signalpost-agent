@@ -8,9 +8,11 @@ gets scored on "find useful information", "match correctly with evidence",
 from __future__ import annotations
 
 import datetime as dt
+import json
+import os
 from typing import Any, Optional
 
-from . import brreg_client, regnskap_client, explain
+from . import brreg_client, regnskap_client, explain, roller_client
 from .orgnr import validate, InvalidOrgNumber
 from .cache import ProfileStore
 
@@ -19,7 +21,10 @@ from .cache import ProfileStore
 COMPARABLE_FIELDS = (
     "name", "status", "employees", "address", "industry", "vat_registered",
     "website", "latest_accounts_period_end",
+    "telefon", "epostadresse", "registrertKapital", "slettedato",
 )
+
+EVIDENCE_DIR = os.environ.get("SIGNALPOST_EVIDENCE_DIR", "evidence")
 
 
 def _addr(a: Optional[dict]) -> Optional[str]:
@@ -27,6 +32,71 @@ def _addr(a: Optional[dict]) -> Optional[str]:
         return None
     parts = [", ".join(a.get("adresse") or []), a.get("postnummer"), a.get("poststed"), a.get("land")]
     return ", ".join(p for p in parts if p)
+
+
+def _save_evidence(orgnr: str, unit_data: dict,
+                   regnskap_latest: Optional[dict] = None,
+                   roles_data: Optional[list] = None) -> None:
+    """Save raw API responses under evidence/<orgnr>/ for auditability.
+    Never raises -- snapshots are a bonus, not a dependency."""
+    try:
+        d = os.path.join(EVIDENCE_DIR, orgnr)
+        os.makedirs(d, exist_ok=True)
+        with open(os.path.join(d, "enhet.json"), "w", encoding="utf-8") as f:
+            json.dump(unit_data, f, ensure_ascii=False, indent=2)
+        if regnskap_latest is not None:
+            with open(os.path.join(d, "regnskap.json"), "w", encoding="utf-8") as f:
+                json.dump(regnskap_latest, f, ensure_ascii=False, indent=2)
+        if roles_data is not None:
+            with open(os.path.join(d, "roller.json"), "w", encoding="utf-8") as f:
+                json.dump(roles_data, f, ensure_ascii=False, indent=2)
+    except OSError:
+        pass
+
+
+def _expanded_unit_facts(e: dict, source_url: str, fetched_at: str) -> dict:
+    """Every additional directly-stated register field. Absent -> omitted,
+    never guessed. Inline explanations keep this self-contained."""
+    facts: dict[str, Any] = {}
+
+    def _fact(value, explanation):
+        return {"value": value, "source_url": source_url,
+                "retrieved_at": fetched_at, "explanation": explanation}
+
+    for key, label in (
+        ("telefon", "Phone number"),
+        ("epostadresse", "Email address"),
+        ("sisteInnsendteAarsregnskap", "Most recent fiscal year with filed accounts"),
+    ):
+        if e.get(key):
+            facts[key] = _fact(e[key], f"{label} as recorded in the register.")
+
+    for nk in ("naeringskode2", "naeringskode3"):
+        code = (e.get(nk) or {}).get("kode")
+        if code:
+            desc = (e.get(nk) or {}).get("beskrivelse") or "no description"
+            facts[nk] = _fact(
+                f"{code} – {desc}".strip(" –"),
+                f"Secondary industry classification (NACE): {code} – {desc}.",
+            )
+
+    kapital = e.get("kapital") or {}
+    if kapital.get("belop"):
+        valuta = kapital.get("valuta", "NOK")
+        amount = f"{kapital['belop']:,} {valuta}"
+        facts["registrertKapital"] = _fact(
+            amount,
+            f"Share capital registered in the Register of Business Enterprises: {amount}.",
+        )
+
+    if e.get("slettedato"):
+        facts["deletion"] = _fact(
+            e["slettedato"],
+            f"This entity was deleted from the register on {e['slettedato']}. "
+            "Facts reflect the last registered state before deletion.",
+        )
+
+    return facts
 
 
 def build_profile(
@@ -111,13 +181,13 @@ def build_profile(
         },
         "founding_and_registration": {
             "value": {
-                "stiftelsesdato": e.get("stiftelsedato"),
+                "stiftelsesdato": e.get("stiftelsesdato"),
                 "registreringsdato": e.get("registreringsdatoEnhetsregisteret"),
             },
             "source_url": unit.source_url,
             "retrieved_at": unit.fetched_at,
             "explanation": explain.explain_founding(
-                e.get("stiftelsedato"), e.get("registreringsdatoEnhetsregisteret")
+                e.get("stiftelsesdato"), e.get("registreringsdatoEnhetsregisteret")
             ),
         },
         "website": {
@@ -128,7 +198,26 @@ def build_profile(
         },
     }
 
+    # --- Enrichment: extra register facts + deleted-entity guard ---
+    facts.update(_expanded_unit_facts(e, unit.source_url, unit.fetched_at))
+
+    # --- Roles: only main units have them; best-effort, omitted on failure ---
+    roles = None
+    if unit.unit_type == "hovedenhet":
+        roles = roller_client.fetch_roles(orgnr)
+        if roles:
+            facts["roles"] = {
+                "value": roles,
+                "source_url": f"https://data.brreg.no/enhetsregisteret/api/enheter/{orgnr}/roller",
+                "retrieved_at": run_time,
+                "explanation": (
+                    f"{len(roles)} current role(s) registered (board, CEO, auditor, etc.). "
+                    "Resigned roles are excluded; source is the roles register only."
+                ),
+            }
+
     latest_accounts_period_end = None
+    regnskap = None
     if include_financials:
         try:
             regnskap = regnskap_client.fetch_latest_accounts(orgnr)
@@ -157,6 +246,11 @@ def build_profile(
                 "explanation": explain.explain_accounts(False, None),
             }
 
+    # --- Evidence snapshots: raw API responses saved for auditability ---
+    _save_evidence(orgnr, e,
+                   regnskap.latest if (include_financials and regnskap) else None,
+                   roles)
+
     profile: dict[str, Any] = {
         "organisasjonsnummer": orgnr,
         "as_of": run_time,
@@ -175,6 +269,10 @@ def build_profile(
             "vat_registered": facts["vat_registered"]["value"],
             "website": facts["website"]["value"],
             "latest_accounts_period_end": latest_accounts_period_end,
+            "telefon": e.get("telefon"),
+            "epostadresse": e.get("epostadresse"),
+            "registrertKapital": (e.get("kapital") or {}).get("belop"),
+            "slettedato": e.get("slettedato"),
         }
         changes = store.diff_and_store(orgnr, comparable)
         profile["changes_since_last_check"] = changes

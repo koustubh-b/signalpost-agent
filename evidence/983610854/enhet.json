@@ -1,0 +1,63 @@
+{
+  "organisasjonsnummer": "983610854",
+  "navn": "1. GRORUD SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2011-12-10",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "ljhaga@outlook.com",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0891",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Lars Jørgen Haga",
+      "Sørbråtveien 104A"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "1918-01-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Foreningen skal være en interesseorganisasjon for ungdom med formål om",
+    "å utvikle mennesker til selvstendighet, for å ta aktiv del i samfunnet",
+    "og å gjøre naturen mer tilgjengelig ved å tilby turer og aktiviteter.",
+    "Foreningen skal drives non profitt og alle innsparte midler ska brukes",
+    "til formålet."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2019-08-17",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/983610854"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

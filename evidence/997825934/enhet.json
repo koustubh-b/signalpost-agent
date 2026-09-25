@@ -1,0 +1,60 @@
+{
+  "organisasjonsnummer": "997825934",
+  "navn": "2-ER TURA",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2012-02-04",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "telefon": "61 19 65 01",
+  "mobil": "41636129",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2850",
+    "poststed": "LENA",
+    "adresse": [
+      "c/o Liv Astri Ødegård",
+      "Vallevegen 30"
+    ],
+    "kommune": "ØSTRE TOTEN",
+    "kommunenummer": "3442"
+  },
+  "stiftelsesdato": "2000-02-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Rydding og vedlikehold av gamle seterstier på Totenåsen, lodd nr 2.",
+    "Skilting og restaurering av gamle kulturminner."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997825934"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

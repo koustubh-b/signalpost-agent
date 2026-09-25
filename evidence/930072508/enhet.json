@@ -1,0 +1,76 @@
+{
+  "organisasjonsnummer": "930072508",
+  "navn": "0GCS AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2022-11-22",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "28.130",
+    "beskrivelse": "Produksjon av pumper og kompressorer ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5009",
+    "poststed": "BERGEN",
+    "adresse": [
+      "Stemmeveien 48"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "stiftelsesdato": "2022-11-09",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2024",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2022-11-09",
+  "vedtektsfestetFormaal": [
+    "Fremstilling/salg av sirkulasjonssystemer, automasjonssystemer for",
+    "sirkulasjonssystemer og programvare og andre produkter som naturlig",
+    "faller sammen med dette, herunder å delta i andre selskaper med",
+    "lignende virksomhet, kjøp og salg av aksjer, eller på annen måte gjøre",
+    "seg interessert i andre foretagender."
+  ],
+  "aktivitet": [
+    "Produsere sirkulasjonspumper, selge vedlikeholdstjenester til",
+    "sirkulasjonssystemene og selge sirkulasjonssystemer på internett."
+  ],
+  "registreringsdatoForetaksregisteret": "2022-11-22",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2022-11-22",
+  "fravalgRevisjonBeslutningsDato": "2022-11-09",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 100000.0,
+    "antallAksjer": 1000000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2022-11-22"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930072508"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

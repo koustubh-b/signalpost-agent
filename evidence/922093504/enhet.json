@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "922093504",
+  "navn": "13. HAUGESUND KFUK-KFUM SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-01-22",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5525",
+    "poststed": "HAUGESUND",
+    "adresse": [
+      "c/o Tore Daniel Hjortland",
+      "Karmsundgata 252"
+    ],
+    "kommune": "HAUGESUND",
+    "kommunenummer": "1106"
+  },
+  "stiftelsesdato": "2018-02-08",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speiderarbeid for barn og ungdom"
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2019-01-22",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922093504"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

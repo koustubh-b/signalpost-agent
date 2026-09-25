@@ -1,0 +1,63 @@
+{
+  "organisasjonsnummer": "922933529",
+  "navn": "1CONZEPT APS",
+  "organisasjonsform": {
+    "kode": "UTLA",
+    "beskrivelse": "Utenlandsk enhet",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.1consept.dk",
+  "registreringsdatoEnhetsregisteret": "2019-06-20",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "anders@1consept.dk",
+  "mobil": "+4530112372",
+  "forretningsadresse": {
+    "land": "Danmark",
+    "landkode": "DK",
+    "poststed": "DK-7120 VEJLE Ø",
+    "adresse": [
+      "Højderyggen 17"
+    ]
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Utenlandsk enhet/foretak"
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "registreringsnummerIHjemlandet": "27029752",
+  "foretaksformIHjemlandet": {
+    "kode": "APS",
+    "beskrivelse": "Anpartsselskap",
+    "beskrivelseBokmaal": "Selskap med begrenset ansvar"
+  },
+  "utenlandskRegisterNavn": "Erhvervsstyrelsen",
+  "utenlandskRegisterAdresse": {
+    "land": "Danmark",
+    "poststed": "2100 København Ø",
+    "adresse": [
+      "Langelinie Allé 17"
+    ]
+  },
+  "underlagtLovgivningLand": "Danmark",
+  "underlagtLovgivningLandKode": "DK",
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922933529"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

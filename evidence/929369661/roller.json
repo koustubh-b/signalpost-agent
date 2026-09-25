@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Roy Olsen",
+    "birth_year": "1972-06-21"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Ingri Marie Sivertsen",
+    "birth_year": "1987-06-05"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ole Kristian Kjellbakk",
+    "birth_year": "1981-02-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Alf Gøran Knutsen",
+    "birth_year": "1980-07-27"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "834836912",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "922633452",
+    "birth_year": null
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "815911342",
+  "navn": "1. DRAMMEN SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2015-10-26",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3018",
+    "poststed": "DRAMMEN",
+    "adresse": [
+      "C/O Silje Bjørge",
+      "Rebbansbakken 6"
+    ],
+    "kommune": "DRAMMEN",
+    "kommunenummer": "3301"
+  },
+  "stiftelsesdato": "1921-01-12",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Driver speiding på Øren og Bragernes skolekrets i Drammen."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2015-10-26",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/815911342"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

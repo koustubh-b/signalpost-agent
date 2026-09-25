@@ -1,0 +1,60 @@
+{
+  "organisasjonsnummer": "916268408",
+  "navn": "2.42 SKIEN",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2015-11-20",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.910",
+    "beskrivelse": "Aktiviteter i religiøse organisasjoner"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "brittern@gmail.com",
+  "mobil": "791 84 050",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3721",
+    "poststed": "SKIEN",
+    "adresse": [
+      "c/o Anna Emilia Urnes",
+      "Sommerfrydvegen 31"
+    ],
+    "kommune": "SKIEN",
+    "kommunenummer": "4003"
+  },
+  "stiftelsesdato": "2015-10-21",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Vi er et menighetsfellesskap som ønsker å trene mennesker i den",
+    "kristne troen. Dette skjer gjennom jevnlige samlinger i hjemmene."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916268408"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

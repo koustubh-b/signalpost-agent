@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Adrian Reftun",
+    "birth_year": "1997-12-10"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Adrian Reftun",
+    "birth_year": "1997-12-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Vetle Olsen-Ryum",
+    "birth_year": "2000-01-19"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Anette Tjemsland",
+    "birth_year": "1997-04-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Julie Rasmussen",
+    "birth_year": "1992-08-16"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Steinar Johnsen",
+    "birth_year": "1998-02-28"
+  }
+]

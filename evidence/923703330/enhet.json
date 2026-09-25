@@ -1,0 +1,82 @@
+{
+  "organisasjonsnummer": "923703330",
+  "navn": "2 HJUL SERVICE AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-10-28",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "95.320",
+    "beskrivelse": "Reparasjon og vedlikehold av motorsykler"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2020-03-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2020-04-11",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2021-12-14",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2021-12-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6200",
+    "poststed": "STRANDA",
+    "adresse": [
+      "Movegen 8"
+    ],
+    "kommune": "STRANDA",
+    "kommunenummer": "1525"
+  },
+  "stiftelsesdato": "2019-09-23",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2019-09-23",
+  "vedtektsfestetFormaal": [
+    "Salg, reparasjon og service av motorsykkel, scooter og moped samt salg",
+    "av deler og tilbehør kjøretøy og fører og annet som naturlig faller",
+    "sammen med dette."
+  ],
+  "aktivitet": [
+    "Service og reparasjon av motorsykkler, moped og scooter. Transport til",
+    "/ fra verksted, vinterlagring med vedlikehold fe. av batteriladding,",
+    "salg av tilbehør som olje, bremseklosser, dekk osv. i butikk og ved",
+    "forsendelse. Dekkmontering / -skifting for kjøretøy med 2 hjul, salg",
+    "av tilbehør til fører fe. regntøy osv. i butikk og ved forsendelse",
+    "etter ordre per e-post osv."
+  ],
+  "registreringsdatoForetaksregisteret": "2019-10-28",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2019-10-28",
+  "fravalgRevisjonBeslutningsDato": "2019-09-23",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2019-10-28"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/923703330"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

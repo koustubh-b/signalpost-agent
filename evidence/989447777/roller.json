@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Even Karlsen",
+    "birth_year": "1977-06-29"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jens Tveite",
+    "birth_year": "1963-10-29"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Gunnar Venaas",
+    "birth_year": "1967-02-10"
+  }
+]

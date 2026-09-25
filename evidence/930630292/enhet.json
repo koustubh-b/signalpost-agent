@@ -1,0 +1,73 @@
+{
+  "organisasjonsnummer": "930630292",
+  "navn": "1434 INVEST AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2023-01-18",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "00.000",
+    "beskrivelse": "Uoppgitt"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4052",
+    "poststed": "RØYNEBERG",
+    "adresse": [
+      "Hellekroken 4"
+    ],
+    "kommune": "SOLA",
+    "kommunenummer": "1124"
+  },
+  "stiftelsesdato": "2023-01-16",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2023-01-16",
+  "vedtektsfestetFormaal": [
+    "Investeringer i andre selskaper og eiendom, samt hva hermed står i",
+    "forbindelse."
+  ],
+  "aktivitet": [
+    "Investeringer i andre selskaper og eiendom, samt hva hermed står i",
+    "forbindelse."
+  ],
+  "registreringsdatoForetaksregisteret": "2023-01-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2023-01-18",
+  "fravalgRevisjonBeslutningsDato": "2023-01-16",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2023-01-18"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930630292"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

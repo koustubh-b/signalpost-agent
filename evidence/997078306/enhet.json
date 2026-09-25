@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "997078306",
+  "navn": "123DOMAIN.EU DNS SERVICES NUF",
+  "organisasjonsform": {
+    "kode": "NUF",
+    "beskrivelse": "Norskregistrert utenlandsk foretak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2011-06-28",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "82.990",
+    "beskrivelse": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "ch@ybin.no",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1387",
+    "poststed": "ASKER",
+    "adresse": [
+      "c/o Ybin AS",
+      "Apalstien 43"
+    ],
+    "kommune": "ASKER",
+    "kommunenummer": "3203"
+  },
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Internett-tjenester. Domenenavn ledelse."
+  ],
+  "registreringsdatoForetaksregisteret": "2011-06-28",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997078306"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

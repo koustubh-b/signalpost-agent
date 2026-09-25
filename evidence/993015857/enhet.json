@@ -1,0 +1,65 @@
+{
+  "organisasjonsnummer": "993015857",
+  "navn": "0757 FLISA INDUSTRIAVDELING",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "155 FLISA TREARBEIDERFORENING",
+      "fraDato": "2008-09-15 20:49:56",
+      "tilDato": "2009-11-17 20:28:00"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2008-09-15",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.200",
+    "beskrivelse": "Aktiviteter i arbeidstakerorganisasjoner"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "frank.bjorneseth@orkla.no",
+  "telefon": "62 95 56 10",
+  "mobil": "913 97 470",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2270",
+    "poststed": "FLISA",
+    "adresse": [
+      "Færdervegen 49"
+    ],
+    "kommune": "ÅSNES",
+    "kommunenummer": "3418"
+  },
+  "stiftelsesdato": "1971-01-20",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Fagforening."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/993015857"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

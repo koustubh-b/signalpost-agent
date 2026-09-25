@@ -1,0 +1,62 @@
+{
+  "organisasjonsnummer": "999114660",
+  "navn": "1001WATT",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.1001watt.net",
+  "registreringsdatoEnhetsregisteret": "2013-02-27",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.201",
+    "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "jana.1001watt@gmail.com",
+  "telefon": "41 42 53 14",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3719",
+    "poststed": "SKIEN",
+    "adresse": [
+      "Gjerpenhavna 7"
+    ],
+    "kommune": "SKIEN",
+    "kommunenummer": "4003"
+  },
+  "stiftelsesdato": "1999-11-13",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "1001WATTs formål er å a) Gi publikum gode konsertopplevelser. b) Spre",
+    "kunnskap om, øke forståelsen og interessen for rock og beslektede",
+    "musikkformer. c) Fremheve nye, unge musikertalenter."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2013-02-27",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/999114660"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

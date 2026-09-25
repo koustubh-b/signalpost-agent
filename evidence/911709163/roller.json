@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Bendik Brusdal",
+    "birth_year": "1991-11-28"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Bendik Brusdal",
+    "birth_year": "1991-11-28"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ferdinand Brusdal",
+    "birth_year": "1994-11-15"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Martin Rindahl",
+    "birth_year": "1990-06-30"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Gaute Steinkopf",
+    "birth_year": "1969-08-22"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Gaute Steinkopf",
+    "birth_year": "1969-08-22"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Martin Lima",
+    "birth_year": "1976-07-23"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Øystein Kjellsen",
+    "birth_year": "1972-07-01"
+  }
+]

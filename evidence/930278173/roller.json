@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Arne Hansson",
+    "birth_year": "1978-10-08"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Jofrid Hansson",
+    "birth_year": "1973-08-03"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Arne Hansson",
+    "birth_year": "1978-10-08"
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "950428643",
+    "birth_year": null
+  }
+]

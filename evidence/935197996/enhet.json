@@ -1,0 +1,58 @@
+{
+  "organisasjonsnummer": "935197996",
+  "navn": "17. MAI-KOMITEEN VED STATHELLE BARNESKOLE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2026-02-16",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3960",
+    "poststed": "STATHELLE",
+    "adresse": [
+      "c/o Linn Dragsten Olsen",
+      "Krabberødstrand terrasse 6A"
+    ],
+    "kommune": "BAMBLE",
+    "kommunenummer": "4012"
+  },
+  "stiftelsesdato": "2025-11-25",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Planlegging og gjennomføring av 17. Mai feiring ved Stathelle",
+    "barneskole."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935197996"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

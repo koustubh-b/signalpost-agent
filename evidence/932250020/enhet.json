@@ -1,0 +1,85 @@
+{
+  "organisasjonsnummer": "932250020",
+  "navn": "2 ME INVEST AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5208",
+    "poststed": "OS",
+    "adresse": [
+      "c/o Blue Sky Economy Bergen AS",
+      "Halhjemsmarka 133"
+    ],
+    "kommune": "BJØRNAFJORDEN",
+    "kommunenummer": "4624"
+  },
+  "registreringsdatoEnhetsregisteret": "2023-10-13",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "00.000",
+    "beskrivelse": "Uoppgitt"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5309",
+    "poststed": "KLEPPESTØ",
+    "adresse": [
+      "Storebotn 7"
+    ],
+    "kommune": "ASKØY",
+    "kommunenummer": "4627"
+  },
+  "stiftelsesdato": "2023-09-21",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2024",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2023-09-21",
+  "vedtektsfestetFormaal": [
+    "Investering, eie og drift av andre selskaper og eiendeler, herunder",
+    "eie og drift av fast eiendom, samt å drive virksomhet som står i",
+    "naturlig forbindelse med dette."
+  ],
+  "aktivitet": [
+    "Holdingselskap."
+  ],
+  "registreringsdatoForetaksregisteret": "2023-10-13",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2023-10-13",
+  "fravalgRevisjonBeslutningsDato": "2023-09-21",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 100000.0,
+    "antallAksjer": 100000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2023-10-13"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/932250020"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

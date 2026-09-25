@@ -1,0 +1,81 @@
+{
+  "organisasjonsnummer": "911712490",
+  "navn": "2 TOMM 4 AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2013-03-18",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "41.000",
+    "beskrivelse": "Oppføring av bygninger"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2013-01-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2013-03-21",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2018-06-12",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2018-06-10",
+  "mobil": "944 35 351",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6057",
+    "poststed": "ELLINGSØY",
+    "adresse": [
+      "Hovstien 2"
+    ],
+    "kommune": "ÅLESUND",
+    "kommunenummer": "1508"
+  },
+  "stiftelsesdato": "2013-01-01",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2013-01-01",
+  "vedtektsfestetFormaal": [
+    "Oppføring av nybygg, påbygg, reparasjoner og vedlikehold av byggninger",
+    "samt andre produkter som naturlig hører sammen med dette, herunder",
+    "delta i andre selskap med lignende virksomhet og kjøp og slag av",
+    "aksjer eller på annen måte gjøre seg interisert i andre foretak."
+  ],
+  "aktivitet": [
+    "Oppføring av nybygg, påbygg, reparasjoner og vedlikehold av byggninger",
+    "samt andre produkter som naturlig hører sammen med dette, herunder",
+    "delta i andre selskap med lignende virksomhet og kjøp og slag av",
+    "aksjer eller på annen måte gjøre seg interisert i andre foretak."
+  ],
+  "registreringsdatoForetaksregisteret": "2013-03-18",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2013-03-18",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2013-03-18"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/911712490"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

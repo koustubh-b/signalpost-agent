@@ -1,0 +1,60 @@
+{
+  "organisasjonsnummer": "916914660",
+  "navn": "10. OSLO STOVNER SPEIDERGRUPPE AV NORGES SPEIDERFORBUIND",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2016-04-06",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0753",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Frank Myrvoll",
+      "Aslakveien 24C"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "1913-09-04",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Foreningen tilbyr aktiviteter og treningsprogram for barn og ungdom",
+    "med vekt på friluftsliv, samfunnsengasjement, internasjonal forståelse",
+    "og opplevelse av speideridealene og gir medlemmene medbestemmelse og",
+    "ansvar i dette speiderarbeidet."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916914660"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

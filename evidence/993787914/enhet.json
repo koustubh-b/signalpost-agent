@@ -1,0 +1,73 @@
+{
+  "organisasjonsnummer": "993787914",
+  "navn": "1 FREDRIKSTAD SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.1-fredrikstad.net",
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1675",
+    "poststed": "KRÅKERØY",
+    "adresse": [
+      "Kråkerøyveien 144"
+    ],
+    "kommune": "FREDRIKSTAD",
+    "kommunenummer": "3107"
+  },
+  "registreringsdatoEnhetsregisteret": "2009-02-25",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "liseevensen@live.no",
+  "mobil": "950 57 781",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1605",
+    "poststed": "FREDRIKSTAD",
+    "adresse": [
+      "Speiderveien 7"
+    ],
+    "kommune": "FREDRIKSTAD",
+    "kommunenummer": "3107"
+  },
+  "stiftelsesdato": "1912-09-12",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "1. Fredrikstad Speidergrupps formål er å utvikle mennesker til",
+    "selvstendighet og til å ta aktivt ansvar i samfunnet i samsvar med de",
+    "idealene fra Speiderløfte og Speiderloven"
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2009-02-25",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/993787914"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

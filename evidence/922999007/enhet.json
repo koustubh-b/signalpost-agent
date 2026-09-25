@@ -1,0 +1,55 @@
+{
+  "organisasjonsnummer": "922999007",
+  "navn": "1000 KUNSTNER BONDE",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2019-07-01",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "96.990",
+    "beskrivelse": "Andre personlige tjenester ikke nevnt annet sted"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "7374",
+    "poststed": "RØROS",
+    "adresse": [
+      "Øyaveien 20"
+    ],
+    "kommune": "RØROS",
+    "kommunenummer": "5025"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Trenerveileder/motivator. Servicetjenester."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922999007"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

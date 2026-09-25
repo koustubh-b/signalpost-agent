@@ -1,0 +1,74 @@
+{
+  "organisasjonsnummer": "992408766",
+  "navn": "2 FRISØRER AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2008-03-06",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "96.210",
+    "beskrivelse": "Frisering og barbering"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2008-03-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2008-06-02",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2025-09-13",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2025-09-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1850",
+    "poststed": "MYSEN",
+    "adresse": [
+      "Smedgata 30"
+    ],
+    "kommune": "INDRE ØSTFOLD",
+    "kommunenummer": "3118"
+  },
+  "stiftelsesdato": "2008-02-25",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2008-02-25",
+  "vedtektsfestetFormaal": [
+    "Drift av frisørsalong og alt som naturlig faller inn under dette."
+  ],
+  "aktivitet": [
+    "Frisørsalong"
+  ],
+  "registreringsdatoForetaksregisteret": "2008-03-06",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2011-09-24",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 100000.0,
+    "antallAksjer": 100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2008-03-06"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992408766"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

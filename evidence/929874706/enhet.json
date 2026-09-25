@@ -1,0 +1,68 @@
+{
+  "organisasjonsnummer": "929874706",
+  "navn": "2 FRISKE FØTTER - FOTTERAPEUT ANN JOHANSEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3280",
+    "poststed": "TJODALYNG",
+    "adresse": [
+      "Furuåsen 50"
+    ],
+    "kommune": "LARVIK",
+    "kommunenummer": "3909"
+  },
+  "registreringsdatoEnhetsregisteret": "2022-09-20",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "86.991",
+    "beskrivelse": "Ortopedi- og fotterapitjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "479 60 714",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3211",
+    "poststed": "SANDEFJORD",
+    "adresse": [
+      "Dronningens gate 24"
+    ],
+    "kommune": "SANDEFJORD",
+    "kommunenummer": "3907"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Fotterapi."
+  ],
+  "registreringsdatoForetaksregisteret": "2022-09-20",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929874706"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

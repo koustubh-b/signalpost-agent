@@ -1,0 +1,77 @@
+{
+  "organisasjonsnummer": "934937120",
+  "navn": "1646 PROPERTIES BIDCO AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "MCPP PROJECT 81 AS",
+      "fraDato": "2025-01-29 11:37:37",
+      "tilDato": "2025-06-05 14:50:45"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2025-01-29",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "68.110",
+    "beskrivelse": "Kjøp og salg av egen fast eiendom"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0250",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Malling & Co Forvaltning AS",
+      "Dronning Mauds gate 15"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2025-01-06",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2025-06-05",
+  "vedtektsfestetFormaal": [
+    "Investeringsvirksomhet, hovedsakelig relatert til eiendom."
+  ],
+  "aktivitet": [
+    "Handel med og investering i fast eiendom, verdipapirer og andre",
+    "formuesobjekter."
+  ],
+  "registreringsdatoForetaksregisteret": "2025-01-29",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 100000.0,
+    "antallAksjer": 1000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2025-07-29"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934937120"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

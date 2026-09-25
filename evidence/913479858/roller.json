@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Alexander Slobodinski",
+    "birth_year": "1983-01-19"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ragnhild Slobodinski",
+    "birth_year": "1983-11-15"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Gunnar Dyrseth",
+    "birth_year": "1986-09-03"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Birgitte Dillner",
+    "birth_year": "1977-08-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kirstin Gregersen",
+    "birth_year": "1983-02-22"
+  }
+]

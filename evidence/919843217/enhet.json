@@ -1,0 +1,68 @@
+{
+  "organisasjonsnummer": "919843217",
+  "navn": "1 MALERSERVICE HOUSSA JAGOUJ",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "AZURITE MALERSERVICE HOUSSA JAGOUJ",
+      "fraDato": "2017-11-02 17:24:23",
+      "tilDato": "2025-04-17 06:01:21"
+    },
+    {
+      "navn": "1 MALERSERVICE HOUSSA JAGOUJ",
+      "fraDato": "2025-04-17 06:01:21",
+      "tilDato": "2025-04-25 19:09:09"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2017-11-02",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "43.340",
+    "beskrivelse": "Maler- og glassarbeid"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2017-07-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2018-03-27",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1185",
+    "poststed": "OSLO",
+    "adresse": [
+      "Østerliveien 19"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Alt av innvendige og utvendige malearbeid."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/919843217"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

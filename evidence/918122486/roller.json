@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Kurt Kemi",
+    "birth_year": "1972-10-13"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ivar Alfred Hauglid",
+    "birth_year": "1972-12-19"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ellen Merete Nordengen",
+    "birth_year": "1964-07-04"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Lasse Magnussen",
+    "birth_year": "1972-07-02"
+  }
+]

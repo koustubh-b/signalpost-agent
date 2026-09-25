@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Roger Lieng",
+    "birth_year": "1966-11-16"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Rune Midbøe",
+    "birth_year": "1960-12-09"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kjell Aaberg",
+    "birth_year": "1951-10-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ida Haugseth",
+    "birth_year": "1991-09-02"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Erik Espeland",
+    "birth_year": "1984-05-11"
+  }
+]

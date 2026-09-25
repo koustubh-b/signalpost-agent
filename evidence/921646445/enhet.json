@@ -1,0 +1,55 @@
+{
+  "organisasjonsnummer": "921646445",
+  "navn": "1963 EIRIK DAHL",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2018-11-01",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.209",
+    "beskrivelse": "Annen utøvende kunstnerisk virksomhet og underholdningsvirksomhet ikke nevnt annet sted"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2319",
+    "poststed": "HAMAR",
+    "adresse": [
+      "Ajerhagan 6"
+    ],
+    "kommune": "HAMAR",
+    "kommunenummer": "3403"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Foredrag og forelesninger, bedriftsrådgiving og styrerådgivning."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/921646445"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

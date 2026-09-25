@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Ole-Petter Berge",
+    "birth_year": "1980-01-04"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Björn Staffan Lundgren",
+    "birth_year": "1987-11-05"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Catrine Nicolaisen",
+    "birth_year": "1986-11-02"
+  }
+]

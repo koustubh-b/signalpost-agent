@@ -1,0 +1,72 @@
+{
+  "organisasjonsnummer": "938343373",
+  "navn": "1340 APEX AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2026-08-25",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "70.200",
+    "beskrivelse": "Bedriftsrådgivning og annen administrativ rådgivning"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2005",
+    "poststed": "RÆLINGEN",
+    "adresse": [
+      "Stormyrvegen 6"
+    ],
+    "kommune": "RÆLINGEN",
+    "kommunenummer": "3224"
+  },
+  "stiftelsesdato": "2026-08-01",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2026-08-01",
+  "vedtektsfestetFormaal": [
+    "Levere konsulent-, rådgivnings- og utviklingstjenester innen finans,",
+    "idrett og dataanalyse."
+  ],
+  "aktivitet": [
+    "Levere konsulent-, rådgivnings- ogutviklingstjenester innen finans,",
+    "idrett og dataanalyse."
+  ],
+  "registreringsdatoForetaksregisteret": "2026-08-25",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2026-08-25",
+  "fravalgRevisjonBeslutningsDato": "2026-08-01",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2026-08-25"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938343373"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

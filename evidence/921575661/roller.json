@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Lars Johansson",
+    "birth_year": "1978-01-05"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ruth-Hege Sydengen",
+    "birth_year": "1972-06-30"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kjersti Fosser",
+    "birth_year": "1971-03-22"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Anne Julie Buer",
+    "birth_year": "1981-06-07"
+  }
+]

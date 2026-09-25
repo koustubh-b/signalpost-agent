@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Knut Kornelius Gundersen",
+    "birth_year": "1950-12-11"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ernst Torgersen",
+    "birth_year": "1951-07-21"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Odd Helge Stuhaug",
+    "birth_year": "1958-06-25"
+  }
+]

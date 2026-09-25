@@ -1,0 +1,21 @@
+{
+  "organisasjonsnummer": "912281477",
+  "navn": "160 HANSEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "slettedato": "2026-09-24",
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/912281477"
+    }
+  },
+  "respons_klasse": "SlettetEnhet"
+}

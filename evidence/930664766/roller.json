@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Gunnar Greve",
+    "birth_year": "1982-03-09"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Henny Greve",
+    "birth_year": "1993-01-18"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "943708428",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "913107209",
+    "birth_year": null
+  }
+]

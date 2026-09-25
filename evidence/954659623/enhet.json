@@ -1,0 +1,76 @@
+{
+  "organisasjonsnummer": "954659623",
+  "navn": "1300 KJ ERLAND",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "SMIÅ Jens Erland",
+      "fraDato": "1995-02-19 22:54:00",
+      "tilDato": "2006-07-11 20:31:03"
+    }
+  ],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4344",
+    "poststed": "BRYNE",
+    "adresse": [
+      "Holmavegen 13A"
+    ],
+    "kommune": "TIME",
+    "kommunenummer": "1121"
+  },
+  "registreringsdatoEnhetsregisteret": "1995-02-19",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "23.410",
+    "beskrivelse": "Produksjon av keramiske husholdningsartikler og dekorasjonsgjenstander"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "jens@jkh.no",
+  "telefon": "51 48 37 77",
+  "mobil": "90161172",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4344",
+    "poststed": "BRYNE",
+    "adresse": [
+      "Hetlandsgata 14"
+    ],
+    "kommune": "TIME",
+    "kommunenummer": "1121"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Keramisk produksjo av kunsthandverk, salg av egne produkter."
+  ],
+  "registreringsdatoForetaksregisteret": "1990-06-14",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/954659623"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

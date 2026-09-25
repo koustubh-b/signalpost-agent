@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Henning Olsen",
+    "birth_year": "1969-01-02"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Henning Olsen",
+    "birth_year": "1969-01-02"
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "915156975",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "936032249",
+    "birth_year": null
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "organisasjonsnummer": "986437436",
+  "navn": "'GODFOTEN' COLETTE GILLIBERT",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "COLETTE Colette Gillibert",
+      "fraDato": "2004-01-17 14:35:33",
+      "tilDato": "2011-09-12 20:38:26"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2004-01-17",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "86.991",
+    "beskrivelse": "Ortopedi- og fotterapitjenester"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "telefon": "51 88 33 61",
+  "mobil": "41314536",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4049",
+    "poststed": "HAFRSFJORD",
+    "adresse": [
+      "Måkeveien 109"
+    ],
+    "kommune": "STAVANGER",
+    "kommunenummer": "1103"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Fotterapeut."
+  ],
+  "registreringsdatoForetaksregisteret": "2004-01-17",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/986437436"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

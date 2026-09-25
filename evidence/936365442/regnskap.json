@@ -1,0 +1,68 @@
+{
+  "id": 6565703,
+  "journalnr": "2026447180",
+  "regnskapstype": "SELSKAP",
+  "virksomhet": {
+    "organisasjonsnummer": "936365442",
+    "organisasjonsform": "AS",
+    "morselskap": false
+  },
+  "regnskapsperiode": {
+    "fraDato": "2025-01-01",
+    "tilDato": "2025-12-31"
+  },
+  "valuta": "NOK",
+  "avviklingsregnskap": false,
+  "oppstillingsplan": "store",
+  "revisjon": {
+    "ikkeRevidertAarsregnskap": false,
+    "fravalgRevisjon": true
+  },
+  "regnkapsprinsipper": {
+    "smaaForetak": true,
+    "regnskapsregler": "regnskapslovenAlminneligRegler"
+  },
+  "egenkapitalGjeld": {
+    "sumEgenkapitalGjeld": 60683.0,
+    "egenkapital": {
+      "sumEgenkapital": 3929.0,
+      "opptjentEgenkapital": {
+        "sumOpptjentEgenkapital": -26071.0
+      },
+      "innskuttEgenkapital": {
+        "sumInnskuttEgenkaptial": 30000.0
+      }
+    },
+    "gjeldOversikt": {
+      "sumGjeld": 56754.0,
+      "kortsiktigGjeld": {
+        "sumKortsiktigGjeld": 56754.0
+      },
+      "langsiktigGjeld": {}
+    }
+  },
+  "eiendeler": {
+    "sumEiendeler": 60683.0,
+    "omloepsmidler": {
+      "sumOmloepsmidler": 60683.0
+    },
+    "anleggsmidler": {}
+  },
+  "resultatregnskapResultat": {
+    "ordinaertResultatFoerSkattekostnad": -26070.0,
+    "aarsresultat": -26070.0,
+    "finansresultat": {
+      "finansinntekt": {},
+      "finanskostnad": {}
+    },
+    "driftsresultat": {
+      "driftsresultat": -26070.0,
+      "driftsinntekter": {
+        "sumDriftsinntekter": 94758.0
+      },
+      "driftskostnad": {
+        "sumDriftskostnad": 120828.0
+      }
+    }
+  }
+}

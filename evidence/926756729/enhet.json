@@ -1,0 +1,80 @@
+{
+  "organisasjonsnummer": "926756729",
+  "navn": "1BYGG AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "TANIO ENERGY AS",
+      "fraDato": "2021-03-09 15:45:02",
+      "tilDato": "2021-11-30 16:56:24"
+    }
+  ],
+  "hjemmeside": "1bygg.no",
+  "registreringsdatoEnhetsregisteret": "2021-03-09",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "46.830",
+    "beskrivelse": "Engroshandel med tømmer, trelast, byggevarer og sanitærutstyr"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3414",
+    "poststed": "LIERSTRANDA",
+    "adresse": [
+      "Sankt Hallvards vei 3"
+    ],
+    "kommune": "LIER",
+    "kommunenummer": "3312"
+  },
+  "stiftelsesdato": "2021-02-12",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2024",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2026-02-17",
+  "vedtektsfestetFormaal": [
+    "Handel med byggevarer samt annen virksomhet som naturlig hører inn",
+    "under dette."
+  ],
+  "aktivitet": [
+    "Handel med byggevarer samt annen virksomhet som naturlig hører inn",
+    "under dette."
+  ],
+  "registreringsdatoForetaksregisteret": "2021-03-09",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2021-03-09",
+  "fravalgRevisjonBeslutningsDato": "2021-02-12",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 1000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2026-03-20"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926756729"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

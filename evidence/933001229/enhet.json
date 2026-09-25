@@ -1,0 +1,62 @@
+{
+  "organisasjonsnummer": "933001229",
+  "navn": "17.MAI PÅ TINGVOLL",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2024-02-13",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2080",
+    "poststed": "EIDSVOLL",
+    "adresse": [
+      "c/o Birgit Ulvin Bjerke",
+      "Brennstubben 7"
+    ],
+    "kommune": "EIDSVOLL",
+    "kommunenummer": "3240"
+  },
+  "stiftelsesdato": "2024-01-24",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Foreningens formål er å sørge for et familiearrangement for skoler,",
+    "barnehager og befolkningen i midtbygda. Foreningen har det formelle",
+    "ansvaret for organiseringen av 17.mai-toget og arrangementet på",
+    "Tingvoll og Wergelandslunden. Foreningen har som mål at Eidsvoll",
+    "kommune skal ta over arrangementet og ansvaret etter hvert."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2024-02-13",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933001229"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

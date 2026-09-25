@@ -1,0 +1,89 @@
+{
+  "organisasjonsnummer": "925995711",
+  "navn": "1,5 ADVOKATFIRMA AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "1.5 ADVOKATFIRMA AS",
+      "fraDato": "2020-11-19 15:37:14",
+      "tilDato": "2020-12-15 13:28:25"
+    },
+    {
+      "navn": "1,5 ADVOKATFIRMA AS",
+      "fraDato": "2020-12-15 13:28:25",
+      "tilDato": "2024-04-06 10:48:07"
+    },
+    {
+      "navn": "0152 FREMLEIE AS",
+      "fraDato": "2024-04-06 10:48:07",
+      "tilDato": "2025-01-14 14:58:09"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2020-11-19",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "69.100",
+    "beskrivelse": "Juridisk tjenesteyting"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2021-01-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2021-01-30",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2025-09-13",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2025-09-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2480",
+    "poststed": "KOPPANG",
+    "adresse": [
+      "Storelvdalsveien 2101"
+    ],
+    "kommune": "STOR-ELVDAL",
+    "kommunenummer": "3423"
+  },
+  "stiftelsesdato": "2020-11-03",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2025-09-03",
+  "vedtektsfestetFormaal": [
+    "Advokatvirksomhet."
+  ],
+  "aktivitet": [
+    "Advokat."
+  ],
+  "registreringsdatoForetaksregisteret": "2020-11-19",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": true,
+  "kapital": {
+    "belop": 1100000.0,
+    "antallAksjer": 1100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2025-09-27"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925995711"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

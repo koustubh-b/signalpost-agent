@@ -1,0 +1,60 @@
+{
+  "organisasjonsnummer": "920597912",
+  "navn": "17.MAI-KOMITEEN VED OLSBORG SKOLE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2018-03-14",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "9321",
+    "poststed": "MOEN",
+    "adresse": [
+      "c/o Brynjar Jørgensen",
+      "Reiersbakken 21"
+    ],
+    "kommune": "MÅLSELV",
+    "kommunenummer": "5524"
+  },
+  "stiftelsesdato": "2018-03-07",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Stå for 17. mai-arrangementet tilknyttet Olsborg skole i Målselv,",
+    "herunder stå for loddsalg, organiser tog, arrangere leker,",
+    "underholdning og forestå salg av mat og drikke."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2018-03-14",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920597912"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

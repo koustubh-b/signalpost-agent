@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Laila Fjellseth",
+    "birth_year": "1978-05-25"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Britt Unni Bilben",
+    "birth_year": "1976-12-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Tom Erik Åsen",
+    "birth_year": "1981-03-07"
+  }
+]

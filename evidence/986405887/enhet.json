@@ -1,0 +1,66 @@
+{
+  "organisasjonsnummer": "986405887",
+  "navn": "0 - 6 UTVIKLING NEDERHOED",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "ARTIFIC NEDERHOED",
+      "fraDato": "2004-01-17 15:42:33",
+      "tilDato": "2013-02-19 20:31:32"
+    }
+  ],
+  "hjemmeside": "www.artific.no",
+  "registreringsdatoEnhetsregisteret": "2004-01-17",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "74.120",
+    "beskrivelse": "Grafisk design og visuell kommunikasjonsdesign"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2004-09-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2004-10-29",
+  "epostadresse": "post@artific.no",
+  "mobil": "48287059",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1164",
+    "poststed": "OSLO",
+    "adresse": [
+      "Brattvollveien 19A"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Produksjon og salg av illustrasjoner/foto til tidsskrifter."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/986405887"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

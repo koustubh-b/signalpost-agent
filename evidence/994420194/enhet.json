@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "994420194",
+  "navn": "1. OS KFUK-KFUM-SPEIDERE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5200",
+    "poststed": "OS",
+    "adresse": [
+      "c/o Erna Margrethe Holmboe Askeland",
+      "Steinneset 36"
+    ],
+    "kommune": "BJØRNAFJORDEN",
+    "kommunenummer": "4624"
+  },
+  "registreringsdatoEnhetsregisteret": "2009-08-17",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "stiftelsesdato": "1945-11-18",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speiderarbeide i henhold til Norges KFUK-KFUM-speideres Grunnregler og",
+    "Organisasjonsbestemmelser."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2009-08-17",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994420194"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

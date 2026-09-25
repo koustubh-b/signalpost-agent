@@ -1,0 +1,60 @@
+{
+  "organisasjonsnummer": "920585450",
+  "navn": "17.MAIKOMITEEN PÅ GISKE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2018-03-27",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "17maigiske@gmail.com",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6052",
+    "poststed": "GISKE",
+    "adresse": [
+      "c/o Inger Lise Lillebø Emini",
+      "Myrvegen 36"
+    ],
+    "kommune": "GISKE",
+    "kommunenummer": "1532"
+  },
+  "stiftelsesdato": "2018-02-13",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Skal sørge for en flott gjennomføring av 17. mai på Giske. De skal",
+    "selge kioskvarer på skolen, lage til folkearrangement, organisere",
+    "folketoget, og lage til leker til barna."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920585450"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

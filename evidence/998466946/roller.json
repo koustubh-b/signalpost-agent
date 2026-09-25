@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Sigurd Sandvik",
+    "birth_year": "1981-01-09"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Geir Kippenes",
+    "birth_year": "1969-04-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Gunn-Berit Kleiveland",
+    "birth_year": "1962-04-30"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Svenn Johan Olsen",
+    "birth_year": "1983-04-29"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Per Walfrid Odén",
+    "birth_year": "1946-03-21"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Fridrik Oskar Bertelsen",
+    "birth_year": "1971-03-11"
+  }
+]

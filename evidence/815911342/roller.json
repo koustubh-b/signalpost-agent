@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Silje Bjørge",
+    "birth_year": "1977-05-03"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Nils Bjarne Sverreson",
+    "birth_year": "1970-02-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ragnhild Anette Sandvold",
+    "birth_year": "1968-11-25"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Christian Noreng",
+    "birth_year": "1978-05-12"
+  }
+]

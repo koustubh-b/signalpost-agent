@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Monica Beiermann",
+    "birth_year": "1987-10-28"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kristin Hurthi",
+    "birth_year": "1963-05-25"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Espen Olsen",
+    "birth_year": "1987-03-21"
+  }
+]

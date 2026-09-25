@@ -1,0 +1,53 @@
+{
+  "organisasjonsnummer": "931501216",
+  "navn": "12HUS INVEST",
+  "organisasjonsform": {
+    "kode": "NUF",
+    "beskrivelse": "Norskregistrert utenlandsk foretak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2023-06-21",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "00.000",
+    "beskrivelse": "Uoppgitt"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1461",
+    "poststed": "LØRENSKOG",
+    "adresse": [
+      "Rastaveien 13"
+    ],
+    "kommune": "LØRENSKOG",
+    "kommunenummer": "3222"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Investeringsbransjen: Aktiv og varig investering i aksjer og andre",
+    "verdipapir samt aktiv forvaltning av egne midler og investeringer i",
+    "eiendom og andre liknende varige aktiva."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931501216"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

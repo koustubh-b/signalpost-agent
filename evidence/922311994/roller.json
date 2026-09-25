@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Julia Kulseth",
+    "birth_year": "1992-11-07"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Julia Kulseth",
+    "birth_year": "1992-11-07"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Julie Børstad",
+    "birth_year": "1992-03-08"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Therese Kolle",
+    "birth_year": "1986-05-09"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Susanne Bjørknes",
+    "birth_year": "1984-07-30"
+  }
+]

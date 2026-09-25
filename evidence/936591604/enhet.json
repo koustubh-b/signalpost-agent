@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "936591604",
+  "navn": "110 INNLANDET BRANNIDRETTSLAG",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2025-11-17",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "93.120",
+    "beskrivelse": "Aktiviteter i idrettslag og -klubber"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "einar.krogset@110-innlandet.no",
+  "mobil": "913 29 635",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2321",
+    "poststed": "HAMAR",
+    "adresse": [
+      "Vangsvegen 155"
+    ],
+    "kommune": "HAMAR",
+    "kommunenummer": "3403"
+  },
+  "stiftelsesdato": "2025-10-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Trening, deltakelse på bedriftsidrett."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2025-12-01",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936591604"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

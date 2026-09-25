@@ -1,0 +1,73 @@
+{
+  "organisasjonsnummer": "925821225",
+  "navn": "1909 INVEST AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2020-10-22",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "00.000",
+    "beskrivelse": "Uoppgitt"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "7021",
+    "poststed": "TRONDHEIM",
+    "adresse": [
+      "c/o Erling Børresen",
+      "Solhøgdvegen 29"
+    ],
+    "kommune": "TRONDHEIM",
+    "kommunenummer": "5001"
+  },
+  "stiftelsesdato": "2020-10-07",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2020-10-07",
+  "vedtektsfestetFormaal": [
+    "Investering i aksjer, eiendom, samt virksomhet som står i forbindelse",
+    "med dette - herunder salg av konsulenttjenester."
+  ],
+  "aktivitet": [
+    "Investering i it-selskap og andre fond."
+  ],
+  "registreringsdatoForetaksregisteret": "2020-10-22",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2020-10-22",
+  "fravalgRevisjonBeslutningsDato": "2020-10-07",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 1000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2020-10-22"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925821225"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Milo Waagaard",
+    "birth_year": "1980-08-15"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Tommy Fredriksen",
+    "birth_year": "1974-05-04"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Thomas Mysterud",
+    "birth_year": "1987-01-04"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "935174627",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "935701430",
+    "birth_year": null
+  }
+]

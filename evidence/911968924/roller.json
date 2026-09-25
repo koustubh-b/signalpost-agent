@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Evy Anita Storøy",
+    "birth_year": "1974-05-23"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ingvild Rovde",
+    "birth_year": "1992-06-01"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Guro Aksnes",
+    "birth_year": "1983-12-21"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Guro Norunn Gausemel",
+    "birth_year": "1981-04-16"
+  }
+]

@@ -1,0 +1,76 @@
+{
+  "organisasjonsnummer": "997947967",
+  "navn": "100 % PAULSEN AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2012-02-11",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "41.000",
+    "beskrivelse": "Oppføring av bygninger"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2012-01-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2012-03-20",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-12",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-08-10",
+  "mobil": "91576012",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "9140",
+    "poststed": "REBBENES",
+    "adresse": [
+      "Sandsnes"
+    ],
+    "kommune": "KARLSØY",
+    "kommunenummer": "5534"
+  },
+  "stiftelsesdato": "2012-01-31",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2012-01-31",
+  "vedtektsfestetFormaal": [
+    "Salg av byggetjenester og andre produkter som naturlig faller sammen",
+    "med dette, herunder å delta i andre selskaper med lignende virksomhet."
+  ],
+  "aktivitet": [
+    "Snekker, tar oppdrag for andre."
+  ],
+  "registreringsdatoForetaksregisteret": "2012-02-11",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2012-02-11",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2012-02-11"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/997947967"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

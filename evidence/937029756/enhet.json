@@ -1,0 +1,55 @@
+{
+  "organisasjonsnummer": "937029756",
+  "navn": "[SOMU] MYKHALEVYCH",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2026-01-24",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "74.110",
+    "beskrivelse": "Industri-, produkt- og motedesignvirksomhet"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1462",
+    "poststed": "FJELLHAMAR",
+    "adresse": [
+      "Nordahl Griegs vei 25"
+    ],
+    "kommune": "LØRENSKOG",
+    "kommunenummer": "3222"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Design av klær."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/937029756"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

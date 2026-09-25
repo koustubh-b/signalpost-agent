@@ -1,0 +1,71 @@
+{
+  "organisasjonsnummer": "938386080",
+  "navn": "123ENKELT AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2026-09-01",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "43.320",
+    "beskrivelse": "Snekkerarbeid"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3022",
+    "poststed": "DRAMMEN",
+    "adresse": [
+      "Henrik Ibsens gate 7"
+    ],
+    "kommune": "DRAMMEN",
+    "kommunenummer": "3301"
+  },
+  "stiftelsesdato": "2026-08-21",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2026-08-21",
+  "vedtektsfestetFormaal": [
+    "Hageservice, snørydding, snekkertjenester mindre gravemaskinoppdrag,",
+    "hjemlevering og montering samt investering i aksjer og eiendom."
+  ],
+  "aktivitet": [
+    "Snekkerarbeid, montering av dører, vinduer, kjøkken med mer."
+  ],
+  "registreringsdatoForetaksregisteret": "2026-09-01",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2026-09-01",
+  "fravalgRevisjonBeslutningsDato": "2026-08-21",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 200000.0,
+    "antallAksjer": 200000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2026-09-01"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938386080"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Ann Katrin Grimstad",
+    "birth_year": "1972-12-26"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Ann Katrin Grimstad",
+    "birth_year": "1972-12-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Sigurd Berg",
+    "birth_year": "1999-04-19"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Guro Hellesø",
+    "birth_year": "1976-02-28"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Hedda Hellesø",
+    "birth_year": "2000-09-05"
+  }
+]

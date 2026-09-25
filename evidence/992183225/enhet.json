@@ -1,0 +1,72 @@
+{
+  "organisasjonsnummer": "992183225",
+  "navn": "17. MAI KOMITEEN I BERGEN",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.17-mai.no",
+  "registreringsdatoEnhetsregisteret": "2008-03-13",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "2011-01-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2011-03-21",
+  "epostadresse": "17-mai@bergen-chamber.no",
+  "telefon": "55 55 39 00",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5014",
+    "poststed": "BERGEN",
+    "adresse": [
+      "Olav Kyrres gate 11"
+    ],
+    "kommune": "BERGEN",
+    "kommunenummer": "4601"
+  },
+  "stiftelsesdato": "1847-01-01",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2008-03-05",
+  "vedtektsfestetFormaal": [
+    "Gjennom uegennyttig innsats å sikre en verdig og tradisjonsrik feiring",
+    "av 17. mai i Bergen.",
+    " "
+  ],
+  "aktivitet": [
+    "Arrangere 17. mai feiring i Bergen, med tilhørende aktiviteter,",
+    "herunder salg av annonseplass i 17. mai program, salg av 17. mai",
+    "program, utleie av standplass i f.b.m 17. mai feiring mv.",
+    " "
+  ],
+  "registreringsdatoForetaksregisteret": "2008-03-13",
+  "registreringsdatoFrivillighetsregisteret": "2017-01-30",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/992183225"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

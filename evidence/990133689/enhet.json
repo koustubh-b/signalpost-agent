@@ -1,0 +1,64 @@
+{
+  "organisasjonsnummer": "990133689",
+  "navn": "1. SKOTFOSS SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "1.skotfoss.speidergruppe.org/",
+  "registreringsdatoEnhetsregisteret": "2015-10-28",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "lenehalvorsen10@gmail.com",
+  "mobil": "917 58 721",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3720",
+    "poststed": "SKIEN",
+    "adresse": [
+      "c/o Lene Topper",
+      "Grøtsundvegen 7"
+    ],
+    "kommune": "SKIEN",
+    "kommunenummer": "4003"
+  },
+  "stiftelsesdato": "1922-04-05",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Å utvikle medlemmene til selvstendige og ansvarsbevisste mennesker ved",
+    "å tilby dem et treningsprogram med vekt på friluftsliv,",
+    "samfunnsengasjement, internasjonalt engasjement og",
+    "opplevelse av speideridealene, samt gi dem medbestemmelse og ansvar."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2015-10-28",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/990133689"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

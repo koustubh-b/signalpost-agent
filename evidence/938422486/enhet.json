@@ -1,0 +1,72 @@
+{
+  "organisasjonsnummer": "938422486",
+  "navn": "1S AUTO AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2026-09-04",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "47.810",
+    "beskrivelse": "Detaljhandel med motorvogner"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3040",
+    "poststed": "DRAMMEN",
+    "adresse": [
+      "Solbergs gate 8A"
+    ],
+    "kommune": "DRAMMEN",
+    "kommunenummer": "3301"
+  },
+  "stiftelsesdato": "2026-09-02",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2026-09-02",
+  "vedtektsfestetFormaal": [
+    "Handel og utleie av kjøretøy og deler, bilpleie, bilglass, samt",
+    "deltakelse i andre selskaper."
+  ],
+  "aktivitet": [
+    "Handel og utleie av kjøretøy og deler, bilpleie, bilglass, samt",
+    "deltakelse i andre selskaper."
+  ],
+  "registreringsdatoForetaksregisteret": "2026-09-04",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2026-09-04",
+  "fravalgRevisjonBeslutningsDato": "2026-09-02",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2026-09-04"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938422486"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

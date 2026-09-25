@@ -1,0 +1,67 @@
+{
+  "organisasjonsnummer": "934057813",
+  "navn": "131 LV VELFERDSKASSE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2024-09-24",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "mvevatne@mil.no",
+  "telefon": "98 90 22 91",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "9325",
+    "poststed": "BARDUFOSS",
+    "adresse": [
+      "131 LV m/Bardufoss Flystasjon",
+      "Postmottak",
+      "Kapellveien 2"
+    ],
+    "kommune": "MÅLSELV",
+    "kommunenummer": "5524"
+  },
+  "stiftelsesdato": "2024-09-18",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Vi på avdelingen vår i Forsvaret ønsker å opprette en forening, for å",
+    "drive en frivillig, 0 profitts velferds kiosk i pauserommet vårt.",
+    "Her ønsker vi å selge i hovedsak brus, proteindrikke, juice og",
+    "energidrikk, og kanskje proteinbarer til innkjøpspris + 10% for",
+    "å dekke faste utgifter og svinn. Den evt profitten vil bli brukt på",
+    "velferdsgoder, som en velferdstur, snacks til en fjelltur el.l. ut i",
+    "fra hvor mye vi skulle ende med å gå i plus."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2024-09-24",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/934057813"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

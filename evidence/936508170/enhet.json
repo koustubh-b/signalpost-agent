@@ -1,0 +1,68 @@
+{
+  "organisasjonsnummer": "936508170",
+  "navn": "\"KOR É ME\"",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5517",
+    "poststed": "HAUGESUND",
+    "adresse": [
+      "Grevlingstien 38"
+    ],
+    "kommune": "HAUGESUND",
+    "kommunenummer": "1106"
+  },
+  "registreringsdatoEnhetsregisteret": "2025-11-03",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "90.201",
+    "beskrivelse": "Utøvende kunstnerisk virksomhet og underholdningsvirksomhet innenfor musikk"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5527",
+    "poststed": "HAUGESUND",
+    "adresse": [
+      "c/o Frelsesarmeens kirke",
+      "Breidablikgata 109"
+    ],
+    "kommune": "HAUGESUND",
+    "kommunenummer": "1106"
+  },
+  "stiftelsesdato": "2025-10-20",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Kor for mennesker med psykiske helseutfordringer."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936508170"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

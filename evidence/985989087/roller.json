@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Anne Lene Romsdalen",
+    "birth_year": "1970-10-05"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Anne Lene Romsdalen",
+    "birth_year": "1970-10-05"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Geir Håkon Eikland",
+    "birth_year": "1958-06-23"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Trond Andresen",
+    "birth_year": "1965-03-06"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Magnus Tarangen",
+    "birth_year": "1983-07-22"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Hilde Lyngaas",
+    "birth_year": "1973-05-08"
+  }
+]

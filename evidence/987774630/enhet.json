@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "987774630",
+  "navn": "127DB",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2005-02-07",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "93295821",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0187",
+    "poststed": "OSLO",
+    "adresse": [
+      "Rostedsgate 12 A"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2005-01-18",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Skape nye kunstuttrykk som kan konkurrere med kommersielle uttrykk.",
+    "Øke oppmerksomheten rundt og interessen for nye kunstuttrykk. Bidra",
+    "til en kompetanseheving av profesjonelle, amatører og det potensielle",
+    "publikum. Alltid forsøke å initiere aktiviteter som henter fram det",
+    "beste av humør og arbeidslyst hos sine medlemmer."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987774630"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,74 @@
+{
+  "organisasjonsnummer": "936932444",
+  "navn": "2 CENTS AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2026-01-08",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "62.200",
+    "beskrivelse": "Konsulentvirksomhet tilknyttet informasjonsteknologi og forvaltning og drift av it-systemer"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-02-12",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-02-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0362",
+    "poststed": "OSLO",
+    "adresse": [
+      "Suhms gate 20A"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2026-01-02",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2026-01-02",
+  "vedtektsfestetFormaal": [
+    "Selge varer og tjenester innen IT og annet som naturlig sammenfaller",
+    "med dette, samt deltakelse i andre selskaper, investeringer og",
+    "nærliggende virksomhet."
+  ],
+  "aktivitet": [
+    "Konsulenttjenester innen IT."
+  ],
+  "registreringsdatoForetaksregisteret": "2026-01-08",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2026-01-08",
+  "fravalgRevisjonBeslutningsDato": "2026-01-02",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2026-01-08"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/936932444"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

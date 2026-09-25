@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "930508268",
+  "navn": "2013-KULLET FILLAN SKOLE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2022-12-20",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "7240",
+    "poststed": "HITRA",
+    "adresse": [
+      "c/o Bjørn Erling Herskedal",
+      "Lyngliveien 17"
+    ],
+    "kommune": "HITRA",
+    "kommunenummer": "5056"
+  },
+  "stiftelsesdato": "2022-11-21",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Drifte klassekonto til gaver og lignende og til sparing til klassen,",
+    "gruppen (2013-kullet) til klassetur og aktiviteter så lenge de",
+    "går på Fillan skole. Inntekter fra arrangement (bl.a. 17.",
+    "mai arrangement) etc."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2023-01-10",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/930508268"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

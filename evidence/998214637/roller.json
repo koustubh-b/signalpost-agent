@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Patrick Vincent Melleby",
+    "birth_year": "1997-01-25"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Dag Stenberg",
+    "birth_year": "1982-02-02"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ane Carlsen",
+    "birth_year": "1987-02-24"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "922829845",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "922633452",
+    "birth_year": null
+  }
+]

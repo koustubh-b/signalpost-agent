@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Forretningsfører",
+    "group": "Forretningsfører",
+    "name": "Endre Rutledal",
+    "birth_year": "1979-10-27"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Olaf Barmen",
+    "birth_year": "1973-02-20"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Anne-Stine Meland",
+    "birth_year": "1979-07-30"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kenneth Nore",
+    "birth_year": "1972-04-04"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Kristian Skibenes",
+    "birth_year": "1978-06-18"
+  }
+]

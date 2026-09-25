@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Erlend Birkedal",
+    "birth_year": "1981-07-17"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Erlend Birkedal",
+    "birth_year": "1981-07-17"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Helene Birkedal",
+    "birth_year": "1980-01-21"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Marte Nilsen",
+    "birth_year": "1978-05-27"
+  }
+]

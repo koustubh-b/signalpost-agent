@@ -1,0 +1,78 @@
+{
+  "organisasjonsnummer": "935851661",
+  "navn": "1816 INVEST AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "STAFSENG AB HOLDING AS",
+      "fraDato": "2025-07-15 12:07:54",
+      "tilDato": "2025-09-20 11:30:11"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2025-07-15",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "00.000",
+    "beskrivelse": "Uoppgitt"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1816",
+    "poststed": "SKIPTVET",
+    "adresse": [
+      "Vidnesveien 131"
+    ],
+    "kommune": "SKIPTVET",
+    "kommunenummer": "3116"
+  },
+  "stiftelsesdato": "2025-07-10",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2025-09-05",
+  "vedtektsfestetFormaal": [
+    "Å investere, eie og forvalte aksjer i selskaper, og annen virksomhet",
+    "tilknyttet dette."
+  ],
+  "aktivitet": [
+    "Holdingselskap."
+  ],
+  "registreringsdatoForetaksregisteret": "2025-07-15",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2025-07-15",
+  "fravalgRevisjonBeslutningsDato": "2025-07-10",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 300,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2025-07-15"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/935851661"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

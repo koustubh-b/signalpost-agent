@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Linn Olsen",
+    "birth_year": "1983-03-14"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Anita Gulseth",
+    "birth_year": "1982-08-02"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Jon Baann",
+    "birth_year": "1991-05-05"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Henning Bergeland",
+    "birth_year": "1975-04-05"
+  }
+]

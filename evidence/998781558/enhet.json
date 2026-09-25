@@ -1,0 +1,94 @@
+{
+  "organisasjonsnummer": "998781558",
+  "navn": "10/10 TEKSTILTRYKKERI AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "NR NI AS",
+      "fraDato": "2012-09-03 20:16:54",
+      "tilDato": "2021-10-29 11:37:39"
+    }
+  ],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0253",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Jostein Wålengen",
+      "Huitfeldts gate 10A"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "registreringsdatoEnhetsregisteret": "2012-09-03",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "13.300",
+    "beskrivelse": "Etterbehandling av tekstiler"
+  },
+  "antallAnsatte": 24,
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2012-09-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2012-11-12",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-06-13",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-06-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0186",
+    "poststed": "OSLO",
+    "adresse": [
+      "Nedre Vaskegang 2A"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2012-08-21",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2026-05-20",
+  "vedtektsfestetFormaal": [
+    "Trykking på tekstiler og papir, samt videresalg av brukskunst.",
+    "Selskapet skal også kunne drive med virksomhet som naturlig hører til",
+    "dette."
+  ],
+  "aktivitet": [
+    "Trykking og brodering på tekstiler, papir med mere."
+  ],
+  "registreringsdatoForetaksregisteret": "2012-09-03",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 120000.0,
+    "antallAksjer": 3000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2026-07-17"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/998781558"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

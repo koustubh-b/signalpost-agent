@@ -1,0 +1,61 @@
+{
+  "organisasjonsnummer": "829619342",
+  "navn": "123-BYGG.NO BERNTSEN",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "TROND BERNTSEN",
+      "fraDato": "2022-08-09 15:43:35",
+      "tilDato": "2022-12-09 15:44:21"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2022-08-09",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "41.000",
+    "beskrivelse": "Oppføring av bygninger"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0353",
+    "poststed": "OSLO",
+    "adresse": [
+      "Majorstuveien 5"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Innvendig og utvendig rehabilitering av bygg."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/829619342"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Lars Jørgen Haga",
+    "birth_year": "1982-12-06"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Lars Jørgen Haga",
+    "birth_year": "1982-12-06"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Audun Raaer",
+    "birth_year": "1984-08-04"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Geir Anders Haga",
+    "birth_year": "1986-04-12"
+  }
+]

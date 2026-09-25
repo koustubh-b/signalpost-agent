@@ -1,0 +1,79 @@
+{
+  "organisasjonsnummer": "933741958",
+  "navn": "123 SUSHI 2 AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "THANH MARIA AS",
+      "fraDato": "2024-07-04 16:44:10",
+      "tilDato": "2024-12-27 15:34:46"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2024-07-04",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "56.110",
+    "beskrivelse": "Drift av restauranter"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2010",
+    "poststed": "STRØMMEN",
+    "adresse": [
+      "Strømsveien 82B"
+    ],
+    "kommune": "LILLESTRØM",
+    "kommunenummer": "3205"
+  },
+  "stiftelsesdato": "2024-06-12",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2024-11-17",
+  "vedtektsfestetFormaal": [
+    "Selge varer og tjenester innen restaurantdrift - og annet som naturlig",
+    "sammenfaller med dette - samt deltakelse i andre selskaper,",
+    "investeringer og nærliggende virksomhet."
+  ],
+  "aktivitet": [
+    "Drift av restaurant/kafe."
+  ],
+  "registreringsdatoForetaksregisteret": "2024-07-04",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2024-07-04",
+  "fravalgRevisjonBeslutningsDato": "2024-06-12",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2024-07-04"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933741958"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

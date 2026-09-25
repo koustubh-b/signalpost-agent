@@ -1,0 +1,62 @@
+{
+  "organisasjonsnummer": "920650430",
+  "navn": "17.MAI-KOMITEEN I VINJAR SKULEKRETS",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2018-03-23",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "larsbenninghoff@gmail.com",
+  "mobil": "416 89 750",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4230",
+    "poststed": "SAND",
+    "adresse": [
+      "c/o Kjersti Moe",
+      "Gullingvegen 22"
+    ],
+    "kommune": "SULDAL",
+    "kommunenummer": "1134"
+  },
+  "stiftelsesdato": "2018-02-26",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "aktivitet": [
+    "Skal arrangera 17. mai i skulekrinsen. Herunder kjem",
+    "17.maitog, tale for dagen, matservering og kiosksal, leikar for born",
+    "og vaksne og andre aktivitetar som naturleg fell inn under",
+    "17.maifeiringa."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/920650430"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

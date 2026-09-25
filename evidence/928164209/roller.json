@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Per Henrik Hjelmeseter",
+    "birth_year": "1986-07-21"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Monica Solberg",
+    "birth_year": "1980-06-11"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Anders Berqvam",
+    "birth_year": "1982-07-01"
+  }
+]

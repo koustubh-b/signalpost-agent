@@ -1,0 +1,56 @@
+{
+  "organisasjonsnummer": "933365573",
+  "navn": "- ZOTKO .NO",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2024-04-25",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "47.250",
+    "beskrivelse": "Detaljhandel med drikkevarer"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6652",
+    "poststed": "SURNADAL",
+    "adresse": [
+      "Follerøvegen 20"
+    ],
+    "kommune": "SURNADAL",
+    "kommunenummer": "1566"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Salg av ferdiglaget kaffe og tedrikker med kaffemaskin."
+  ],
+  "registreringsdatoForetaksregisteret": "2024-04-25",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933365573"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

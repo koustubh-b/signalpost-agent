@@ -1,0 +1,91 @@
+{
+  "organisasjonsnummer": "994936093",
+  "navn": "1818 OPPLYSNINGSTJENESTEN AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "1818.NO TELEFONOPPLYSNINGEN AS",
+      "fraDato": "2009-12-29 20:15:07",
+      "tilDato": "2010-01-13 20:23:19"
+    },
+    {
+      "navn": "1889.NO TELEFONOPPLYSNINGEN AS",
+      "fraDato": "2010-01-13 20:23:19",
+      "tilDato": "2010-02-15 20:25:39"
+    },
+    {
+      "navn": "1818 NO TELEFONOPPLYSNINGEN AS",
+      "fraDato": "2010-02-15 20:25:39",
+      "tilDato": "2015-10-08 10:05:07"
+    }
+  ],
+  "hjemmeside": "www.1818.no",
+  "registreringsdatoEnhetsregisteret": "2009-12-29",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "82.200",
+    "beskrivelse": "Telefonvakttjenester og telefonsalg"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "stian@1818.no",
+  "telefon": "81 55 01 60",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0159",
+    "poststed": "OSLO",
+    "adresse": [
+      "Grensen 16"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2009-12-17",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2015-10-01",
+  "vedtektsfestetFormaal": [
+    "Drift av opplysningstjenester på telefon, sms, mobile plattformer og",
+    "internett, samt produkter som naturlig hører sammen med dette."
+  ],
+  "aktivitet": [
+    "Drift av opplysningstjenester på telefon, sms, mobile plattformer og",
+    "internett."
+  ],
+  "registreringsdatoForetaksregisteret": "2009-12-29",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2011-10-10",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 100000.0,
+    "antallAksjer": 100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2009-12-29"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/994936093"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

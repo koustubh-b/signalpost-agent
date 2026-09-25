@@ -1,0 +1,71 @@
+{
+  "organisasjonsnummer": "938019541",
+  "navn": "1875 GROUP AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2026-07-01",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "63.910",
+    "beskrivelse": "Drift av søkemotorer"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3912",
+    "poststed": "PORSGRUNN",
+    "adresse": [
+      "Hallsgate 5"
+    ],
+    "kommune": "PORSGRUNN",
+    "kommunenummer": "4001"
+  },
+  "stiftelsesdato": "2026-06-23",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2026-06-23",
+  "vedtektsfestetFormaal": [
+    "Drift av opplysningstjenester og søkemotorer, samt annen virksomhet",
+    "som står i tilknytning til dette."
+  ],
+  "aktivitet": [
+    "Drift av opplysningstjenester og søkemotorer."
+  ],
+  "registreringsdatoForetaksregisteret": "2026-07-01",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2026-07-01",
+  "fravalgRevisjonBeslutningsDato": "2026-06-23",
+  "erIKonsern": true,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2026-07-01"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938019541"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

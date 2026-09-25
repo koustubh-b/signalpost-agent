@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Nicholas Mårvik",
+    "birth_year": "1986-07-31"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Nicholas Mårvik",
+    "birth_year": "1986-07-31"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ivar Tvede",
+    "birth_year": "1981-04-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Sigve Barstad-Ølnes",
+    "birth_year": "1976-12-13"
+  }
+]

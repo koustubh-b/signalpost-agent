@@ -1,0 +1,105 @@
+{
+  "organisasjonsnummer": "987428317",
+  "navn": "180.NO NUMMEROPPLYSNINGEN AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "NETTKATALOGEN AS",
+      "fraDato": "2004-11-06 14:41:51",
+      "tilDato": "2006-12-20 20:33:41"
+    },
+    {
+      "navn": "NETTKATALOGEN NO AS",
+      "fraDato": "2006-12-20 20:33:41",
+      "tilDato": "2009-10-01 20:58:26"
+    },
+    {
+      "navn": "180.NO NUMMEROPPLYSNINGEN AS",
+      "fraDato": "2009-10-01 20:58:26",
+      "tilDato": "2011-10-24 20:16:30"
+    },
+    {
+      "navn": "180.NO LETT Å BRUKE - LETT Å HUSKE AS",
+      "fraDato": "2011-10-24 20:16:30",
+      "tilDato": "2012-02-09 20:31:09"
+    },
+    {
+      "navn": "180.NO NUMMEROPPLYSNINGEN LETT Å BRUKE - LETT Å HUSKE AS",
+      "fraDato": "2012-02-09 20:31:09",
+      "tilDato": "2014-12-10 09:55:25"
+    }
+  ],
+  "hjemmeside": "www.180.no",
+  "registreringsdatoEnhetsregisteret": "2004-11-06",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "63.910",
+    "beskrivelse": "Drift av søkemotorer"
+  },
+  "antallAnsatte": 10,
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2004-11-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2004-12-20",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-07-15",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-07-10",
+  "epostadresse": "support@180.no",
+  "telefon": "81 55 01 60",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0159",
+    "poststed": "OSLO",
+    "adresse": [
+      "Grensen 16"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "2004-10-20",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2024",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2014-11-21",
+  "vedtektsfestetFormaal": [
+    "Handel med eller produksjon av internettrelaterte produkter og",
+    "tjenester som naturlig hører sammen med dette."
+  ],
+  "aktivitet": [
+    "Handel med eller produksjon av internettrelaterte produkter og",
+    "tjenester som naturlig hører sammen med dette."
+  ],
+  "registreringsdatoForetaksregisteret": "2004-11-06",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 500000.0,
+    "antallAksjer": 100000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2006-09-14"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/987428317"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

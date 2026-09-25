@@ -1,0 +1,64 @@
+{
+  "organisasjonsnummer": "837274192",
+  "navn": "123 HOLDING AS KONKURSBO",
+  "organisasjonsform": {
+    "kode": "KBO",
+    "beskrivelse": "Konkursbo",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/KBO"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4313",
+    "poststed": "SANDNES",
+    "adresse": [
+      "v/adv. Andreas Christer Carlbom",
+      "Luramyrveien 40"
+    ],
+    "kommune": "SANDNES",
+    "kommunenummer": "1108"
+  },
+  "registreringsdatoEnhetsregisteret": "2026-03-02",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "46.830",
+    "beskrivelse": "Engroshandel med tømmer, trelast, byggevarer og sanitærutstyr"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4350",
+    "poststed": "KLEPPE",
+    "adresse": [
+      "Jærvegen 537"
+    ],
+    "kommune": "KLEPP",
+    "kommunenummer": "1120"
+  },
+  "stiftelsesdato": "2026-02-27",
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Konkursbo."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/837274192"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

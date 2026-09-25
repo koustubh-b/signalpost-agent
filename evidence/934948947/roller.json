@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Thomas Værø",
+    "birth_year": "1974-03-26"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Rune Lonkemoen",
+    "birth_year": "1972-05-10"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Thomas Værø",
+    "birth_year": "1974-03-26"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "987597046",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "834095742",
+    "birth_year": null
+  }
+]

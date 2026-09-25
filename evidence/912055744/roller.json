@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Gustav Martinsen",
+    "birth_year": "1987-05-29"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Nils Oskar Jegstad",
+    "birth_year": "1981-11-07"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "987009713",
+    "birth_year": null
+  }
+]

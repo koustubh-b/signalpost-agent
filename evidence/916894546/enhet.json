@@ -1,0 +1,59 @@
+{
+  "organisasjonsnummer": "916894546",
+  "navn": "17. MAI I ØYSTESE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2022-06-11",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "5610",
+    "poststed": "ØYSTESE",
+    "adresse": [
+      "c/o Anne-Gunn Laupsa-Borge",
+      "Børvevegen 150"
+    ],
+    "kommune": "KVAM",
+    "kommunenummer": "4622"
+  },
+  "stiftelsesdato": "2022-03-15",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Nynorsk",
+  "aktivitet": [
+    "Skal sørge for eit flott familiearrangement for heile",
+    "Øystese."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2022-06-11",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/916894546"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

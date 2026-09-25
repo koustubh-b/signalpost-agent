@@ -1,0 +1,81 @@
+{
+  "organisasjonsnummer": "931244558",
+  "navn": "1KELT AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2023-04-20",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "49.420",
+    "beskrivelse": "Flyttetransport"
+  },
+  "antallAnsatte": 11,
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2023-04-26",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2023-04-26",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-08-11",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-08-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2324",
+    "poststed": "VANG PÅ HEDMARKEN",
+    "adresse": [
+      "Kallerudvegen 95"
+    ],
+    "kommune": "HAMAR",
+    "kommunenummer": "3403"
+  },
+  "stiftelsesdato": "2023-04-04",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2023-04-04",
+  "vedtektsfestetFormaal": [
+    "Kjøp og salg av dødsbo, flyttebo, konkursbo, løsøre, historisk",
+    "materiell, antikk og brukt, samt flytte-og rengjøringstjenester, og",
+    "andre tjenester og produkter som naturlig faller sammen med dette,",
+    "herunder å delta i andre selskaper med lignende virksomhet, kjøp og",
+    "salg av aksjer, eller på annen måte gjøre seg interessert i andre",
+    "foretagender samt kjøp, salg og utleie av fast eiendom."
+  ],
+  "aktivitet": [
+    "Flyttetjenester, tømming av dødsbo, rengjøring, gjenbruk."
+  ],
+  "registreringsdatoForetaksregisteret": "2023-04-20",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2023-04-20",
+  "fravalgRevisjonBeslutningsDato": "2023-04-04",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 1000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2023-04-20"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/931244558"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

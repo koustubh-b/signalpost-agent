@@ -1,0 +1,62 @@
+{
+  "organisasjonsnummer": "926638823",
+  "navn": "2 B ELETTRONICA S.R.L.",
+  "organisasjonsform": {
+    "kode": "UTLA",
+    "beskrivelse": "Utenlandsk enhet",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/UTLA"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2021-02-19",
+  "registrertIMvaregisteret": false,
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Italia",
+    "landkode": "IT",
+    "poststed": "IT-10090 BUTTIGLIERA ALTA (TO)",
+    "adresse": [
+      "2/d, Via Della Praia"
+    ]
+  },
+  "stiftelsesdato": "1987-11-20",
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Utenlandsk enhet."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "registreringsnummerIHjemlandet": "05412570011",
+  "foretaksformIHjemlandet": {
+    "kode": "S.R.L.",
+    "beskrivelse": "Societá a responsabilitá limitata",
+    "beskrivelseBokmaal": "Selskap med begrenset ansvar"
+  },
+  "utenlandskRegisterNavn": "Registro delle imprese",
+  "utenlandskRegisterAdresse": {
+    "land": "Italia",
+    "poststed": "00187 Roma",
+    "adresse": [
+      "Unioncamere",
+      "Piazza Sallustio, 21"
+    ]
+  },
+  "underlagtLovgivningLand": "Italia",
+  "underlagtLovgivningLandKode": "IT",
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/926638823"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

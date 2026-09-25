@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Silje Rosenberg",
+    "birth_year": "1983-08-04"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Ane Stubberud",
+    "birth_year": "1988-10-09"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Rune Fjellseth",
+    "birth_year": "1978-05-25"
+  }
+]

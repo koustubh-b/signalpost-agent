@@ -1,0 +1,53 @@
+{
+  "organisasjonsnummer": "933185354",
+  "navn": "+HALLE NUF",
+  "organisasjonsform": {
+    "kode": "NUF",
+    "beskrivelse": "Norskregistrert utenlandsk foretak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/NUF"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2024-04-08",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "31.000",
+    "beskrivelse": "Produksjon av møbler"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Danmark",
+    "landkode": "DK",
+    "poststed": "DK-8000 AARHUS C",
+    "adresse": [
+      "Europaplads 16"
+    ]
+  },
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Produserer og selger møbler, tepper og belysningsartikler."
+  ],
+  "registreringsdatoForetaksregisteret": "2024-04-08",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933185354"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

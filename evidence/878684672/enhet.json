@@ -1,0 +1,82 @@
+{
+  "organisasjonsnummer": "878684672",
+  "navn": "1000 & 1 DIGITALE EVENTYR DA",
+  "organisasjonsform": {
+    "kode": "DA",
+    "beskrivelse": "Ansvarlig selskap med delt ansvar",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/DA"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "1000 & 1 DA",
+      "fraDato": "1997-07-09 18:31:12",
+      "tilDato": "1997-08-08 18:11:33"
+    }
+  ],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0552",
+    "poststed": "OSLO",
+    "adresse": [
+      "c/o Rutgersson",
+      "Schous Plass 6/2"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "registreringsdatoEnhetsregisteret": "1997-07-09",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "82.990",
+    "beskrivelse": "Annen forretningsmessig tjenesteyting ikke nevnt annet sted"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0459",
+    "poststed": "OSLO",
+    "adresse": [
+      "Sagveien 17"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "stiftelsesdato": "1997-06-16",
+  "institusjonellSektorkode": {
+    "kode": "2300",
+    "beskrivelse": "Personlige foretak"
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": true,
+  "underAvviklingDato": "2026-07-15",
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "1997-07-30",
+  "vedtektsfestetFormaal": [
+    "Konsept og manusutvukling, samt regi innen",
+    "området interaktive medier."
+  ],
+  "aktivitet": [
+    "Strategi og konseptutvikling, samt manus og regi innen området",
+    "interaktive medier."
+  ],
+  "registreringsdatoForetaksregisteret": "1997-08-06",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/878684672"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

@@ -1,0 +1,91 @@
+{
+  "organisasjonsnummer": "938210888",
+  "navn": "1-2-TRE AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "MARKEDSKONSULT AS",
+      "fraDato": "1995-02-19 20:10:00",
+      "tilDato": "2006-03-15 20:07:03"
+    }
+  ],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1638",
+    "poststed": "GAMLE FREDRIKSTAD",
+    "adresse": [
+      "Postboks 105"
+    ],
+    "kommune": "FREDRIKSTAD",
+    "kommunenummer": "3107"
+  },
+  "registreringsdatoEnhetsregisteret": "1995-02-19",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "43.320",
+    "beskrivelse": "Snekkerarbeid"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "registreringsdatoMerverdiavgiftsregisteret": "1991-09-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "1995-02-19",
+  "mobil": "994 25 622",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1639",
+    "poststed": "GAMLE FREDRIKSTAD",
+    "adresse": [
+      "Hesteskoen 16"
+    ],
+    "kommune": "FREDRIKSTAD",
+    "kommunenummer": "3107"
+  },
+  "stiftelsesdato": "1985-09-03",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2006-01-01",
+  "vedtektsfestetFormaal": [
+    "Tømrer- og snekkervirksomhet og alt som hører hertil. Videre øvrig",
+    "handel- og tjenesteyting samt deltagelse i andre selskaper."
+  ],
+  "aktivitet": [
+    "Tømrer- og snekkervirksomhet."
+  ],
+  "registreringsdatoForetaksregisteret": "1990-05-16",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2011-12-27",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 100000.0,
+    "antallAksjer": 100,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2003-11-26"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/938210888"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

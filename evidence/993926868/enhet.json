@@ -1,0 +1,71 @@
+{
+  "organisasjonsnummer": "993926868",
+  "navn": "1. LANGESUND SJØSPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3970",
+    "poststed": "LANGESUND",
+    "adresse": [
+      "c/o Kim Roar Garstad-Berg",
+      "Kjærlighetsstien 4"
+    ],
+    "kommune": "BAMBLE",
+    "kommunenummer": "4012"
+  },
+  "registreringsdatoEnhetsregisteret": "2009-04-16",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "gruppeleder@1langesundsjo.no",
+  "mobil": "970 00 707",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3970",
+    "poststed": "LANGESUND",
+    "adresse": [
+      "Nustadveien 2"
+    ],
+    "kommune": "BAMBLE",
+    "kommunenummer": "4012"
+  },
+  "stiftelsesdato": "1922-12-31",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Speidergruppe."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2009-04-16",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/993926868"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

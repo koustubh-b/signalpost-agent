@@ -1,0 +1,81 @@
+{
+  "organisasjonsnummer": "929369661",
+  "navn": "1814SALMON AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "PROJECT MOOSE AS",
+      "fraDato": "2022-07-14 14:34:57",
+      "tilDato": "2022-10-25 15:51:05"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2022-07-14",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "10.203",
+    "beskrivelse": "Frysing og videre bearbeiding av fisk, skalldyr og bløtdyr"
+  },
+  "antallAnsatte": 75,
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2022-11-23",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2022-12-10",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2026-09-14",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2026-09-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "2072",
+    "poststed": "DAL",
+    "adresse": [
+      "Industrivegen 82"
+    ],
+    "kommune": "EIDSVOLL",
+    "kommunenummer": "3240"
+  },
+  "stiftelsesdato": "2022-05-10",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2025-12-31",
+  "vedtektsfestetFormaal": [
+    "Slakting, bearbeiding og konservering av fisk og fiskevarer ellers,",
+    "samt engroshandel med fisk, skalldyr og bløtdyr."
+  ],
+  "aktivitet": [
+    "Bearbeiding av laks."
+  ],
+  "registreringsdatoForetaksregisteret": "2022-07-14",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30060000.0,
+    "antallAksjer": 10020000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2026-04-23"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/929369661"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

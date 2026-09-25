@@ -1,0 +1,94 @@
+{
+  "organisasjonsnummer": "922370788",
+  "navn": "0102 MANAGEMENT AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "PROPELLER MANAGEMENT AS",
+      "fraDato": "2019-03-14 09:31:29",
+      "tilDato": "2022-01-19 10:22:50"
+    }
+  ],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4614",
+    "poststed": "KRISTIANSAND S",
+    "adresse": [
+      "c/o Erlend Buflaten",
+      "Gyldenløves gate 34"
+    ],
+    "kommune": "KRISTIANSAND",
+    "kommunenummer": "4204"
+  },
+  "registreringsdatoEnhetsregisteret": "2019-03-14",
+  "registrertIMvaregisteret": true,
+  "naeringskode1": {
+    "kode": "74.990",
+    "beskrivelse": "All annen faglig, vitenskapelig og teknisk virksomhet ikke nevnt annet sted"
+  },
+  "harRegistrertAntallAnsatte": true,
+  "registreringsdatoMerverdiavgiftsregisteret": "2019-09-01",
+  "registreringsdatoMerverdiavgiftsregisteretEnhetsregisteret": "2019-10-16",
+  "registreringsdatoAntallAnsatteEnhetsregisteret": "2019-09-12",
+  "registreringsdatoAntallAnsatteNAVAaregisteret": "2019-09-10",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4614",
+    "poststed": "KRISTIANSAND S",
+    "adresse": [
+      "Gyldenløves gate 34"
+    ],
+    "kommune": "KRISTIANSAND",
+    "kommunenummer": "4204"
+  },
+  "stiftelsesdato": "2019-02-15",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2021-12-30",
+  "vedtektsfestetFormaal": [
+    "Management av artister og andre aktører innenfor musikk og kultur."
+  ],
+  "aktivitet": [
+    "Yte management service for artister, produsenter, låtskrivere og andre",
+    "aktører i musikkbransjen."
+  ],
+  "registreringsdatoForetaksregisteret": "2019-03-14",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2019-03-14",
+  "fravalgRevisjonBeslutningsDato": "2019-02-15",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2019-03-14"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/922370788"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

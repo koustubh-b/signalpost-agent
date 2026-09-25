@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Beate Gundersen",
+    "birth_year": "1979-08-09"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Ben Eivind Lauritzen",
+    "birth_year": "1979-11-21"
+  },
+  {
+    "title": "Revisor",
+    "group": "Revisor",
+    "name": "970912835",
+    "birth_year": null
+  },
+  {
+    "title": "Regnskapsfører",
+    "group": "Regnskapsfører",
+    "name": "980995151",
+    "birth_year": null
+  }
+]

@@ -1,0 +1,65 @@
+{
+  "organisasjonsnummer": "989746375",
+  "navn": "2. KRISTIANSAND FSK SPEIDERGRUPPE",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [
+    {
+      "navn": "2. KRISTIANSAND SPEIDERGRUPPE",
+      "fraDato": "2006-04-25 20:22:05",
+      "tilDato": "2018-03-12 17:28:03"
+    }
+  ],
+  "registreringsdatoEnhetsregisteret": "2006-04-25",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "408 13 170",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "4638",
+    "poststed": "KRISTIANSAND S",
+    "adresse": [
+      "Strømmeveien 49"
+    ],
+    "kommune": "KRISTIANSAND",
+    "kommunenummer": "4204"
+  },
+  "stiftelsesdato": "1915-03-14",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Frivillig foreningsarbeid for barn og ungdom.",
+    " "
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2017-09-12",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/989746375"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

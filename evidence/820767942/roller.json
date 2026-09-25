@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Daglig leder",
+    "group": "Daglig leder",
+    "name": "Gro Jenssen",
+    "birth_year": "1977-10-25"
+  },
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Kristine Longvanes",
+    "birth_year": "1988-04-26"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Espen Rørhus",
+    "birth_year": "1989-03-22"
+  },
+  {
+    "title": "Varamedlem",
+    "group": "Styre",
+    "name": "Maria Werkland",
+    "birth_year": "1988-04-07"
+  }
+]

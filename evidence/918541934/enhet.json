@@ -1,0 +1,56 @@
+{
+  "organisasjonsnummer": "918541934",
+  "navn": "1118 IMPORTS KRISTIAN MAGNUS DAHL DYRSETH",
+  "organisasjonsform": {
+    "kode": "ENK",
+    "beskrivelse": "Enkeltpersonforetak",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/ENK"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2017-02-09",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "46.370",
+    "beskrivelse": "Engroshandel med kaffe, te, kakao og krydder"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "mobil": "917 10 345",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "0461",
+    "poststed": "OSLO",
+    "adresse": [
+      "Gustav Jensens gate 3"
+    ],
+    "kommune": "OSLO",
+    "kommunenummer": "0301"
+  },
+  "institusjonellSektorkode": {
+    "kode": "8200",
+    "beskrivelse": "Personlig næringsdrivende"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Import av kaffeprodukter. Primært kaffebønner."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/918541934"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

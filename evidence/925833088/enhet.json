@@ -1,0 +1,65 @@
+{
+  "organisasjonsnummer": "925833088",
+  "navn": ":INNSIKT",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "hjemmeside": "www.innsikt-norge.com",
+  "registreringsdatoEnhetsregisteret": "2020-10-24",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "post@innsikt-norge.com",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "3404",
+    "poststed": "LIER",
+    "adresse": [
+      "c/o Else Belgau",
+      "Sønderhellene 10"
+    ],
+    "kommune": "LIER",
+    "kommunenummer": "3312"
+  },
+  "stiftelsesdato": "2020-10-02",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": true,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Foreningen har til formål å bidra til rehabilitering av innsatte i",
+    "norske fengsler og derved hindre tilbakefall etter løslatelse. Gjennom",
+    "samlinger i grupper med undervisning og reflekterende samtaler er",
+    "målet at de innsatte får et annet utgangspunkt for å håndtere sine",
+    "liv. Grunnlag for undervisning og metodikk er utdypet i tilgjengelig",
+    "prosjektbeskrivelse."
+  ],
+  "registreringsdatoFrivillighetsregisteret": "2020-10-24",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/925833088"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

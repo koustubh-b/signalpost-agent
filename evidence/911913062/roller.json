@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Styrets leder",
+    "group": "Styre",
+    "name": "Jan Martinsen",
+    "birth_year": "1961-05-01"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Hilde Marit Stave",
+    "birth_year": "1955-12-22"
+  },
+  {
+    "title": "Styremedlem",
+    "group": "Styre",
+    "name": "Monica Martinsen",
+    "birth_year": "1965-06-25"
+  }
+]

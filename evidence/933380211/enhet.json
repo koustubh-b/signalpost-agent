@@ -1,0 +1,82 @@
+{
+  "organisasjonsnummer": "933380211",
+  "navn": "1045 INVEST AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1675",
+    "poststed": "KRÅKERØY",
+    "adresse": [
+      "H O Torgersens vei 1"
+    ],
+    "kommune": "FREDRIKSTAD",
+    "kommunenummer": "3107"
+  },
+  "registreringsdatoEnhetsregisteret": "2024-05-03",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "00.000",
+    "beskrivelse": "Uoppgitt"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "1725",
+    "poststed": "SARPSBORG",
+    "adresse": [
+      "Vestengveien 40"
+    ],
+    "kommune": "SARPSBORG",
+    "kommunenummer": "3105"
+  },
+  "stiftelsesdato": "2024-03-25",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2024-03-25",
+  "vedtektsfestetFormaal": [
+    "Investering i verdipapirer, eiendom og annet."
+  ],
+  "aktivitet": [
+    "Investering i aksjer og verdipapirer."
+  ],
+  "registreringsdatoForetaksregisteret": "2024-05-03",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2024-05-03",
+  "fravalgRevisjonBeslutningsDato": "2024-03-25",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2024-05-03"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933380211"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

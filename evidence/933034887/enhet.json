@@ -1,0 +1,71 @@
+{
+  "organisasjonsnummer": "933034887",
+  "navn": "1 BYGG AS",
+  "organisasjonsform": {
+    "kode": "AS",
+    "beskrivelse": "Aksjeselskap",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/AS"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "registreringsdatoEnhetsregisteret": "2024-02-19",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "00.000",
+    "beskrivelse": "Uoppgitt"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "9600",
+    "poststed": "HAMMERFEST",
+    "adresse": [
+      "Sjøgata 9"
+    ],
+    "kommune": "HAMMERFEST",
+    "kommunenummer": "5603"
+  },
+  "stiftelsesdato": "2024-02-02",
+  "institusjonellSektorkode": {
+    "kode": "2100",
+    "beskrivelse": "Private aksjeselskaper mv."
+  },
+  "registrertIForetaksregisteret": true,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "sisteInnsendteAarsregnskap": "2025",
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "vedtektsdato": "2024-02-02",
+  "vedtektsfestetFormaal": [
+    "Bedriftsrådgivning og det som står i naturlig forbindelse med dette."
+  ],
+  "aktivitet": [
+    "Hylleselskap, opprettet for videresalg."
+  ],
+  "registreringsdatoForetaksregisteret": "2024-02-19",
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "fravalgRevisjonDato": "2024-02-19",
+  "fravalgRevisjonBeslutningsDato": "2024-02-02",
+  "erIKonsern": false,
+  "kapital": {
+    "belop": 30000.0,
+    "antallAksjer": 30000,
+    "type": "Aksjekapital",
+    "valuta": "NOK",
+    "innfortDato": "2024-02-19"
+  },
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/933034887"
+    }
+  },
+  "respons_klasse": "Enhet"
+}

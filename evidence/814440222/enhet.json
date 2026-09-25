@@ -1,0 +1,70 @@
+{
+  "organisasjonsnummer": "814440222",
+  "navn": "17. MAI KOMITEEN",
+  "organisasjonsform": {
+    "kode": "FLI",
+    "beskrivelse": "Forening/lag/innretning",
+    "_links": {
+      "self": {
+        "href": "https://data.brreg.no/enhetsregisteret/api/organisasjonsformer/FLI"
+      }
+    }
+  },
+  "historiskeNavn": [],
+  "postadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6456",
+    "poststed": "SKÅLA",
+    "adresse": [
+      "c/o Tina Follestad Krogsæter",
+      "Saksegjerdet 19"
+    ],
+    "kommune": "MOLDE",
+    "kommunenummer": "1506"
+  },
+  "registreringsdatoEnhetsregisteret": "2015-01-24",
+  "registrertIMvaregisteret": false,
+  "naeringskode1": {
+    "kode": "94.992",
+    "beskrivelse": "Aktiviteter i andre medlemsorganisasjoner ellers"
+  },
+  "harRegistrertAntallAnsatte": false,
+  "epostadresse": "17.mai.vaagsetra@gmail.com",
+  "forretningsadresse": {
+    "land": "Norge",
+    "landkode": "NO",
+    "postnummer": "6456",
+    "poststed": "SKÅLA",
+    "adresse": [
+      "Saksegjerdet 3"
+    ],
+    "kommune": "MOLDE",
+    "kommunenummer": "1506"
+  },
+  "stiftelsesdato": "2014-04-07",
+  "institusjonellSektorkode": {
+    "kode": "7000",
+    "beskrivelse": "Ideelle organisasjoner"
+  },
+  "registrertIForetaksregisteret": false,
+  "registrertIStiftelsesregisteret": false,
+  "registrertIFrivillighetsregisteret": false,
+  "konkurs": false,
+  "underAvvikling": false,
+  "underTvangsavviklingEllerTvangsopplosning": false,
+  "maalform": "Bokmål",
+  "aktivitet": [
+    "Planlegging og gjennomføring av 17. Mai feiringen ved Vågsetra barne-",
+    "og ungdomsskole."
+  ],
+  "registrertIPartiregisteret": false,
+  "paategninger": [],
+  "erIKonsern": false,
+  "_links": {
+    "self": {
+      "href": "https://data.brreg.no/enhetsregisteret/api/enheter/814440222"
+    }
+  },
+  "respons_klasse": "Enhet"
+}
