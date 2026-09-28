@@ -43,14 +43,21 @@ Single company:
 python -m agent.cli lookup 923609016
 ```
 
-Batch (the required 1,000+ profiles):
+Batch (local 1,000-profile build):
 ```bash
-# pull 1,000 real, currently-registered org numbers from the register
+# optional local smoke/build input; the official evaluator supplies its own input file
 python -m agent.cli sample --count 1000 --out sample_orgnrs.txt
 
 # look all of them up, writing one JSON profile per line
-python -m agent.cli batch sample_orgnrs.txt --out profiles.jsonl
+python -m agent.cli batch sample_orgnrs.txt --out profiles.jsonl --workers 8
 ```
+
+### Evaluator input
+
+For official evaluation, consume the organisation-number input file supplied by
+the evaluator. The `batch` command processes every input line and emits exactly
+one terminal JSON envelope per input line; the agent does not choose the
+evaluation companies itself.
 
 To re-run against the *same* companies later and see what changed
 (this is what the daily grader effectively does), just run `batch` again
@@ -127,16 +134,17 @@ just the profile level.
 
 ## Expected run costs (against the daily 45 min / 2,000 requests / $10 limits)
 
-Per company: 1 request to Enhetsregisteret (2 if the orgnr is a sub-unit,
-since the main-unit endpoint is tried first) + 1 request to Regnskapsregisteret
-= **2–3 HTTP requests/company**.
+The number of HTTP requests per company is variable. Core lookups include
+Brreg entity data, roles/workplaces, and a best-effort accounts lookup. When
+website enrichment is possible, the agent may also perform bounded public
+discovery, candidate fetches, identity verification, and a small number of
+first-party page fetches.
 
-For the daily 100-company test: **~200–300 requests**, well under the
-2,000/day cap, and **$0 in API cost**, since both sources are free.
-At `--sleep 0.05` between requests, 100 companies complete in well under
-a minute, comfortably inside the 45-minute window. The `sample`/`batch`
-commands used to build the required 1,000-profile submission are also
-$0 — same free sources, just more requests.
+Requests are bounded and the batch uses a configurable worker pool. Actual
+request count and runtime depend on the company mix and network conditions.
+In our local test, 100 companies completed in about 4 minutes with
+`--workers 8`. The external API cost is **$0** because the configured public
+sources do not require paid API calls.
 
 ## Repository layout
 
@@ -149,9 +157,16 @@ agent/
   explain.py            # template-based, per-field explanations
   profile_builder.py   # orchestrates everything into one evidenced profile
   cli.py                # `lookup` / `batch` / `sample` commands
+  http_util.py          # shared HTTP/retry helpers
+  roller_client.py      # registered roles and workplace data
+  site_client.py        # first-party website discovery, identity checks and enrichment
 tests/
   test_orgnr.py          # checksum validation, including a real orgnr (Equinor)
   test_profile_builder.py # mocked end-to-end profile build + change detection
+scripts/
+  build_manifest_from_universe.py # build a deterministic input list from a supplied universe
+  validate_profiles.py            # profile-quality validation
+  validate_smoke.py               # exact input/output contract validation
 ```
 
 ## Known limitations / honesty notes for the submission
@@ -168,8 +183,14 @@ tests/
   2025 filing. `tests/test_regnskap_client.py` locks this in with a
   regression test using that real captured response, precisely because this
   API has already changed shape once without the archived docs catching up.)
-- `website` is self-reported by the company to the register and is
-  surfaced as unverified — it is not fetched or checked for liveness.
+- The Brreg-registered website is preferred but is independently fetched and
+  identity-checked before it is published as an official website.
+- When Brreg has no registered website, the agent may perform bounded public
+  search discovery. Search engines, social networks and directories are
+  discovery-only; they are never published as official evidence.
+- Only a candidate that passes first-party identity verification is crawled
+  for description, products/services, jobs and public activity. Unverified or
+  ambiguous candidates are not used for enrichment.
 - Sub-units (`underenheter`) are supported (many Norwegian org numbers you
   encounter, e.g. individual retail locations of a chain, are sub-units of
   a parent company) — the client tries the main-unit endpoint first and

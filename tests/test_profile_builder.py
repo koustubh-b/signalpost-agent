@@ -1,6 +1,6 @@
 """
 Since the sandbox this was built in can't reach data.brreg.no directly,
-this test mocks the HTTP layer with a response shaped exactly per the
+this test mocks the Brreg/financial/website layers with responses shaped exactly per the
 official OpenAPI spec (component schema `Enhet`), so the parsing logic
 is verified even without live network access. Run this for real against
 the live API once you have it (see README) to do an end-to-end check.
@@ -45,7 +45,24 @@ def _fake_get(url, params=None, timeout=10.0):
 
 @patch("agent.brreg_client._get", side_effect=_fake_get)
 @patch("agent.regnskap_client.fetch_latest_accounts", return_value=None)
-def test_build_profile_happy_path(mock_regnskap, mock_get, tmp_path):
+@patch(
+    "agent.site_client.research",
+    return_value={
+        "state": "not_available",
+        "source_url": FIXTURE_ENHET["hjemmeside"],
+        "retrieved_at": "2026-01-01T00:00:00+00:00",
+        "identity_verified": False,
+        "discovery_used": False,
+        "identity_explanation": "Website research is mocked in unit tests.",
+        "official_website": None,
+        "description": None,
+        "jobs": [],
+        "activity": [],
+        "pages_checked": [],
+        "errors": [],
+    },
+)
+def test_build_profile_happy_path(mock_site, mock_regnskap, mock_get, tmp_path):
     store = ProfileStore(str(tmp_path / "test_cache.db"))
     profile = build_profile("923609016", store=store, include_financials=True)
 
@@ -63,7 +80,24 @@ def test_build_profile_happy_path(mock_regnskap, mock_get, tmp_path):
 
 @patch("agent.brreg_client._get", side_effect=_fake_get)
 @patch("agent.regnskap_client.fetch_latest_accounts", return_value=None)
-def test_change_detection_on_second_run(mock_regnskap, mock_get, tmp_path):
+@patch(
+    "agent.site_client.research",
+    return_value={
+        "state": "not_available",
+        "source_url": FIXTURE_ENHET["hjemmeside"],
+        "retrieved_at": "2026-01-01T00:00:00+00:00",
+        "identity_verified": False,
+        "discovery_used": False,
+        "identity_explanation": "Website research is mocked in unit tests.",
+        "official_website": None,
+        "description": None,
+        "jobs": [],
+        "activity": [],
+        "pages_checked": [],
+        "errors": [],
+    },
+)
+def test_change_detection_on_second_run(mock_site, mock_regnskap, mock_get, tmp_path):
     db_path = str(tmp_path / "test_cache.db")
     store = ProfileStore(db_path)
     build_profile("923609016", store=store, include_financials=True)

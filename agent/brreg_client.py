@@ -22,7 +22,7 @@ import requests
 from tenacity import retry, stop_after_attempt, wait_exponential, retry_if_exception_type
 
 BASE_URL = "https://data.brreg.no/enhetsregisteret/api"
-USER_AGENT = "signalpost-agent/1.0 (+https://github.com/YOUR_USERNAME/signalpost-agent)"
+USER_AGENT = "signalpost-agent/1.0 (+https://github.com/koustubh-b/signalpost-agent)"
 
 _session = requests.Session()
 _session.headers.update({"User-Agent": USER_AGENT, "Accept": "application/json"})
