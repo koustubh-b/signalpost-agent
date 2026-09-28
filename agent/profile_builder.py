@@ -270,6 +270,11 @@ def build_profile(
         verified_url = website_result.get("official_website")
 
         if web_state == "available" and website_result.get("identity_verified"):
+            # The website has now passed the same identity gate used by the
+            # enrichment crawler. Promote it from the initial self-reported
+            # "ambiguous" value to a verified, available website fact.
+            verified_url = verified_url or website_value
+
             identity_value = {
                 "url": verified_url,
                 "verified": True,
@@ -277,10 +282,18 @@ def build_profile(
                 "explanation": website_result.get("identity_explanation"),
             }
 
+            facts["website"] = _fact(
+                verified_url,
+                "available",
+                web_source or verified_url or su,
+                web_time,
+                "Website independently verified against the exact Brreg organisation/company identity.",
+            )
+
             facts["website_identity"] = _fact(
                 identity_value,
                 "available",
-                web_source,
+                web_source or verified_url or su,
                 web_time,
                 "Official company website independently verified against the exact Brreg organisation/company identity.",
             )
