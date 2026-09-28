@@ -1,8 +1,11 @@
-"""Bounded retry with exponential backoff for the public register APIs.
+"""
+Bounded retry with backoff, shared by clients that don't already use
+tenacity (brreg_client.py has its own tenacity-based retry already;
+this is for regnskap_client.py, which previously had none).
 
-Budget-conscious: at most MAX_RETRIES extra attempts per call, so even a
-fully degraded run stays far inside the competition's 2,000 requests/day
-limit (100 companies x ~3 sources x 3 attempts = 900 worst case).
+Budget-conscious by design: at most MAX_RETRIES extra attempts, so even a
+fully degraded run stays well inside the competition's 2,000 requests/day
+cap (100 companies x ~2 sources x up to 3 attempts = 600 worst case).
 """
 
 from __future__ import annotations
@@ -12,21 +15,23 @@ from typing import Any, Optional
 
 import requests
 
-MAX_RETRIES = 2          # total attempts per call = 1 + MAX_RETRIES
+MAX_RETRIES = 2
 BACKOFF_SECONDS = 1.0
 
 
 def get_json(url: str, timeout: float = 8.0) -> Optional[Any]:
-    """Return parsed JSON, or None on 404/400/410/any unrecoverable failure.
-    Retries only on timeouts, connection errors, and 5xx."""
+    """
+    Return parsed JSON, or None on a definitive "no" (400/404/410) or on
+    exhausted retries. Only retries on timeouts, connection errors, and
+    5xx -- a 404 is a real answer, not a glitch, so it's never retried.
+    """
     for attempt in range(MAX_RETRIES + 1):
         try:
             resp = requests.get(url, headers={"Accept": "application/json"}, timeout=timeout)
             if resp.status_code == 200:
                 return resp.json()
             if resp.status_code in (400, 404, 410):
-                return None  # definitive "no", don't waste retries
-            # 5xx etc.: fall through and retry
+                return None
         except (requests.exceptions.RequestException, ValueError):
             pass
         if attempt < MAX_RETRIES:

@@ -38,6 +38,5 @@ def fetch_roles(orgnr: str, timeout: float = 8.0) -> Optional[list[dict[str, Any
                 "title": (rolle.get("type") or {}).get("beskrivelse", ""),
                 "group": gruppe_navn,
                 "name": name,
-                "birth_year": person.get("fodselsdato"),
             })
     return roles if roles else None

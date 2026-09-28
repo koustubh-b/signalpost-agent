@@ -1,4 +1,5 @@
-"""Submission gate: every fact in every profile must carry evidence.
+"""Submission gate: every fact in every profile must carry evidence AND
+a valid explicit availability state.
 Run: py -3 scripts/validate_profiles.py profiles.jsonl
 Exits 0 if clean, 1 if any problem -- run it before every commit."""
 
@@ -7,7 +8,8 @@ from __future__ import annotations
 import json
 import sys
 
-REQUIRED_KEYS = ("value", "source_url", "retrieved_at", "explanation")
+REQUIRED_KEYS = ("value", "state", "source_url", "retrieved_at", "explanation")
+VALID_STATES = {"available", "not_available", "blocked", "not_applicable", "ambiguous", "failed"}
 
 
 def main(path: str) -> None:
@@ -20,6 +22,8 @@ def main(path: str) -> None:
                 continue
             p = json.loads(line)
             total += 1
+            if "error" in p:
+                continue  # already-logged hard failures, not a shape problem
             if not p.get("organisasjonsnummer") or not p.get("as_of"):
                 problems += 1
                 print(f"line {total}: missing organisasjonsnummer/as_of")
@@ -32,6 +36,9 @@ def main(path: str) -> None:
                 if missing:
                     problems += 1
                     print(f"{p.get('organisasjonsnummer')} fact '{fname}': missing {missing}")
+                elif fact["state"] not in VALID_STATES:
+                    problems += 1
+                    print(f"{p.get('organisasjonsnummer')} fact '{fname}': invalid state {fact['state']!r}")
     print(f"checked {total} profiles -> {problems} problem(s)")
     sys.exit(1 if problems else 0)
 

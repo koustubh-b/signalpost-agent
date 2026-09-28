@@ -48,7 +48,9 @@ def _now_iso() -> str:
 class ProfileStore:
     def __init__(self, db_path: str = "signalpost_cache.db"):
         Path(db_path).parent.mkdir(parents=True, exist_ok=True)
-        self.conn = sqlite3.connect(db_path)
+        self.conn = sqlite3.connect(db_path, timeout=30)
+        self.conn.execute("PRAGMA journal_mode=WAL")
+        self.conn.execute("PRAGMA busy_timeout=30000")
         self.conn.executescript(SCHEMA)
         self.conn.commit()
 

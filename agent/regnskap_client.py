@@ -1,21 +1,3 @@
-"""
-Optional client for Regnskapsregisteret (the annual-accounts register).
-
-IMPORTANT: Brønnøysundregistrene's own docs describe this JSON API as a
-temporary R&D endpoint ("vil ikke bli videreutviklet eller vedlikeholdt,
-og kan bli lagt ned uten varsel" -- will not be maintained further and
-may be taken down without notice). Because a single "fabricated financial
-value" fails the whole entry, we treat this source as strictly best-effort:
-
-  * every numeric fact returned is tagged with its exact source URL,
-    the accounting period it covers, and a fetch timestamp
-  * if the endpoint is unreachable, changed shape, or returns nothing,
-    we return None and the profile builder simply omits financials
-    rather than guessing or carrying forward a stale/estimated number
-  * we never compute or infer a financial figure ourselves -- only
-    values verbatim from the API response are surfaced
-"""
-
 from __future__ import annotations
 
 import datetime as dt
@@ -24,13 +6,8 @@ from typing import Any, Optional
 
 from .http_util import get_json
 
+
 BASE_URL = "https://data.brreg.no/regnskapsregisteret/regnskap"
-# Confirmed against the LIVE api-docs on 2026-09-24 (the archived spec on
-# github.com/brreg/regnskapsregister-api is stale and describes a different
-# shape): orgNummer is a PATH parameter, e.g.
-#   GET https://data.brreg.no/regnskapsregisteret/regnskap/923609016
-# NOT a query parameter on the bare /regnskap path. Response is a JSON list
-# of accounting-year records (verified against Equinor's real 2025 filing).
 
 
 @dataclass
@@ -46,23 +23,51 @@ def _now_iso() -> str:
     return dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
 
 
-def fetch_latest_accounts(orgnr: str, timeout: float = 8.0) -> Optional[RegnskapResult]:
+def fetch_latest_accounts(
+    orgnr: str,
+    timeout: float = 8.0,
+) -> Optional[RegnskapResult]:
     """
-    Best-effort fetch of the most recent submitted annual accounts.
-    Returns None (never raises to the caller) on any failure -- financials
-    are a bonus fact, not a required one, and silent omission is far safer
-    than a wrong or fabricated number given the challenge's scoring rules.
+    Fetch the latest accounting record.
+
+    The organisation number is always used as a URL path segment:
+        /regnskap/{orgnr}
     """
+
     url = f"{BASE_URL}/{orgnr}"
-    records = get_json(url, timeout=timeout)
+
+    try:
+        records = get_json(url, timeout=timeout)
+    except Exception:
+        return None
+
     if not isinstance(records, list) or not records:
         return None
 
-    def _period_end(rec: dict) -> str:
-        return rec.get("regnskapsperiode", {}).get("tilDato", "") or ""
+    valid_records = [
+        record
+        for record in records
+        if isinstance(record, dict)
+    ]
 
-    latest = max(records, key=_period_end)
-    period = latest.get("regnskapsperiode", {})
+    if not valid_records:
+        return None
+
+    def period_end(record: dict[str, Any]) -> str:
+        period = record.get("regnskapsperiode")
+
+        if not isinstance(period, dict):
+            return ""
+
+        return str(period.get("tilDato") or "")
+
+    latest = max(valid_records, key=period_end)
+
+    period = latest.get("regnskapsperiode")
+
+    if not isinstance(period, dict):
+        period = {}
+
     return RegnskapResult(
         latest=latest,
         source_url=url,
@@ -72,44 +77,277 @@ def fetch_latest_accounts(orgnr: str, timeout: float = 8.0) -> Optional[Regnskap
     )
 
 
-def extract_headline_figures(result: RegnskapResult) -> dict[str, Any]:
+def _value_at(
+    data: Any,
+    path: tuple[str, ...],
+) -> Any:
     """
-    Pull out a clearly-labeled set of headline numbers from a raw accounts
-    record, in the currency it was reported in. Anything not present in the
-    source is simply left out, never zero-filled or estimated.
+    Safely read an exact nested path from a JSON dictionary.
     """
+
+    current = data
+
+    for key in path:
+        if not isinstance(current, dict):
+            return None
+
+        if key not in current:
+            return None
+
+        current = current[key]
+
+    return current
+
+
+def _first_value(
+    data: dict[str, Any],
+    paths: list[tuple[str, ...]],
+) -> Any:
+    """
+    Return the first value that actually exists in the source.
+    """
+
+    for path in paths:
+        value = _value_at(data, path)
+
+        if value is not None:
+            return value
+
+    return None
+
+
+def extract_headline_figures(
+    result: Optional[RegnskapResult],
+) -> dict[str, Any]:
+    """
+    Extract financial headline figures.
+
+    Values are copied directly from the source response.
+
+    Missing values are omitted.
+
+    No values are calculated or inferred.
+    """
+
+    if result is None:
+        return {}
+
     rec = result.latest
-    out: dict[str, Any] = {"currency": rec.get("valuta")}
 
-    resultat = rec.get("resultatregnskapResultat", {}) or {}
-    drift = resultat.get("driftsresultat", {}) or {}
-    driftsinntekter = drift.get("driftsinntekter", {}) or {}
-    driftskostnader = drift.get("driftskostnader", {}) or {}
+    if not isinstance(rec, dict):
+        return {}
 
-    if "sumDriftsinntekter" in driftsinntekter:
-        out["revenue"] = driftsinntekter["sumDriftsinntekter"]
-    if "sumDriftskostnader" in driftskostnader:
-        out["operating_expenses"] = driftskostnader["sumDriftskostnader"]
-    if "driftsresultat" in drift:
-        out["operating_result"] = drift["driftsresultat"]
-    if "aarsresultat" in resultat:
-        out["net_result"] = resultat["aarsresultat"]
+    figures: dict[str, Any] = {}
 
-    egenkapital_gjeld = rec.get("egenkapitalGjeld", {}) or {}
-    egenkapital = egenkapital_gjeld.get("egenkapital", {}) or {}
-    if "sumEgenkapital" in egenkapital:
-        out["equity"] = egenkapital["sumEgenkapital"]
-    gjeld = egenkapital_gjeld.get("gjeld", {}) or {}
-    if "sumGjeld" in gjeld:
-        out["liabilities"] = gjeld["sumGjeld"]
+    # =========================================================
+    # CURRENCY
+    # =========================================================
 
-    eiendeler = rec.get("eiendeler", {}) or {}
-    if "sumEiendeler" in eiendeler:
-        out["assets"] = eiendeler["sumEiendeler"]
+    value = _first_value(
+        rec,
+        [
+            ("valuta",),
+            ("currency",),
+        ],
+    )
 
-    loenn = rec.get("loennOpplysninger", {}) or {}
-    if "loennskostnader" in loenn:
-        out["wage_costs"] = loenn["loennskostnader"]
+    if value is not None:
+        figures["currency"] = value
 
-    return {k: v for k, v in out.items() if v is not None}
+    # =========================================================
+    # REVENUE
+    # =========================================================
 
+    value = _first_value(
+        rec,
+        [
+            (
+                "resultatregnskapResultat",
+                "driftsresultat",
+                "driftsinntekter",
+                "sumDriftsinntekter",
+            ),
+            ("sumDriftsinntekter",),
+            ("revenue",),
+        ],
+    )
+
+    if value is not None:
+        figures["revenue"] = value
+
+    # =========================================================
+    # OPERATING EXPENSES
+    # =========================================================
+
+    value = _first_value(
+        rec,
+        [
+            (
+                "resultatregnskapResultat",
+                "driftsresultat",
+                "driftskostnader",
+                "sumDriftskostnader",
+            ),
+            ("sumDriftskostnader",),
+            ("operating_expenses",),
+        ],
+    )
+
+    if value is not None:
+        figures["operating_expenses"] = value
+
+    # =========================================================
+    # OPERATING RESULT
+    # =========================================================
+
+    value = _first_value(
+        rec,
+        [
+            (
+                "resultatregnskapResultat",
+                "driftsresultat",
+                "driftsresultat",
+            ),
+            ("driftsresultat",),
+            ("operating_result",),
+        ],
+    )
+
+    if value is not None:
+        figures["operating_result"] = value
+
+    # =========================================================
+    # NET RESULT
+    # =========================================================
+
+    value = _first_value(
+        rec,
+        [
+            (
+                "resultatregnskapResultat",
+                "aarsresultat",
+            ),
+            (
+                "resultatregnskapResultat",
+                "årsresultat",
+            ),
+            ("aarsresultat",),
+            ("årsresultat",),
+            ("net_result",),
+        ],
+    )
+
+    if value is not None:
+        figures["net_result"] = value
+
+    # =========================================================
+    # EQUITY
+    # =========================================================
+
+    value = _first_value(
+        rec,
+        [
+            (
+                "egenkapitalGjeld",
+                "egenkapital",
+                "sumEgenkapital",
+            ),
+            ("sumEgenkapital",),
+            ("equity",),
+        ],
+    )
+
+    if value is not None:
+        figures["equity"] = value
+
+    # =========================================================
+    # LIABILITIES
+    # =========================================================
+
+    value = _first_value(
+        rec,
+        [
+            (
+                "egenkapitalGjeld",
+                "gjeld",
+                "sumGjeld",
+            ),
+            ("sumGjeld",),
+            ("liabilities",),
+        ],
+    )
+
+    if value is not None:
+        figures["liabilities"] = value
+
+    # =========================================================
+    # ASSETS
+    #
+    # EXACT FIXTURE STRUCTURE:
+    #
+    # "eiendeler": {
+    #     "sumEiendeler": 1200000000000
+    # }
+    #
+    # Therefore this is read directly from:
+    #
+    # rec["eiendeler"]["sumEiendeler"]
+    # =========================================================
+
+    assets = None
+
+    eiendeler = rec.get("eiendeler")
+
+    if isinstance(eiendeler, dict):
+        assets = eiendeler.get("sumEiendeler")
+
+    if assets is None:
+        assets = rec.get("sumEiendeler")
+
+    if assets is None:
+        assets = rec.get("assets")
+
+    if assets is not None:
+        figures["assets"] = assets
+
+    # =========================================================
+    # WAGE COSTS
+    #
+    # EXACT FIXTURE STRUCTURE:
+    #
+    # "loennOpplysninger": {
+    #     "loennskostnader": 50000000000
+    # }
+    # =========================================================
+
+    wage_costs = None
+
+    loenn = rec.get("loennOpplysninger")
+
+    if isinstance(loenn, dict):
+        wage_costs = loenn.get("loennskostnader")
+
+    if wage_costs is None:
+        wage_costs = rec.get("loennskostnader")
+
+    if wage_costs is None:
+        loenn_info = rec.get("lønnOpplysninger")
+
+        if isinstance(loenn_info, dict):
+            wage_costs = loenn_info.get("lønnskostnader")
+
+    if wage_costs is None:
+        wage_costs = rec.get("wage_costs")
+
+    if wage_costs is not None:
+        figures["wage_costs"] = wage_costs
+
+    # =========================================================
+    # IMPORTANT
+    #
+    # Do not add missing values as zero.
+    # Do not calculate assets from equity + liabilities.
+    # Do not calculate any other financial value.
+    # =========================================================
+
+    return figures

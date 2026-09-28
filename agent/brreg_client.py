@@ -55,7 +55,7 @@ def _now_iso() -> str:
 
 @retry(
     reraise=True,
-    stop=stop_after_attempt(3),
+    stop=stop_after_attempt(2),
     wait=wait_exponential(multiplier=1, min=1, max=8),
     retry=retry_if_exception_type(requests.exceptions.RequestException),
 )
@@ -106,6 +106,25 @@ def fetch_updates(orgnr: str, since_iso: str) -> FetchResult:
     if resp.status_code != 200:
         raise BrregError(f"unexpected status {resp.status_code} from {url}: {resp.text[:300]}")
     return FetchResult(resp.json(), f"{url}?organisasjonsnummer={orgnr}&dato={since_iso}", _now_iso(), "oppdatering")
+
+
+def fetch_subunits(orgnr: str, size: int = 100) -> FetchResult:
+    """
+    List registered workplaces (underenheter) belonging to this main unit --
+    required for the "Leadership and registered workplaces" section of the
+    company envelope. A company having zero sub-units is normal and common
+    (most small companies operate from a single address), so an empty list
+    is a legitimate, non-error result -- only a real HTTP failure should be
+    treated as "we couldn't check this."
+    """
+    url = f"{BASE_URL}/underenheter"
+    resp = _get(url, params={"overordnetEnhet": orgnr, "size": size})
+    if resp.status_code == 200:
+        return FetchResult(resp.json(), url, _now_iso(), "underenheter-list")
+    if resp.status_code == 404:
+        # no sub-units registered under this main unit -- a real, empty answer
+        return FetchResult({"_embedded": {}}, url, _now_iso(), "underenheter-list")
+    raise BrregError(f"unexpected status {resp.status_code} from {url}: {resp.text[:300]}")
 
 
 def sample_orgnrs(count: int = 1000, organisasjonsform: Optional[str] = None) -> list[str]:
